@@ -41,5 +41,25 @@ Data Source Query
 
 ****
 
+### Screenshots:
+
+![image](https://github.com/akash-rajak/Qlik-Extractor/assets/57003737/6f57c178-ff69-445a-9263-1f8349e8d1d0)
+
+![image](https://github.com/akash-rajak/Qlik-Extractor/assets/57003737/91640dff-26fd-482f-a9df-91083fd08042)
+
+![image](https://github.com/akash-rajak/Qlik-Extractor/assets/57003737/c45bf85a-d297-4348-b235-0ae74b6256bc)
+
+![image](https://github.com/akash-rajak/Qlik-Extractor/assets/57003737/c0ab0f7c-8605-416d-82d8-d9494b3a8a7d)
+
+![image](https://github.com/akash-rajak/Qlik-Extractor/assets/57003737/44afd5ee-ee74-4a2c-a703-52be7e0c7737)
+
+![image](https://github.com/akash-rajak/Qlik-Extractor/assets/57003737/e28a3f1d-fd7a-4457-8872-a9f6f441f846)
+
+![image](https://github.com/akash-rajak/Qlik-Extractor/assets/57003737/bc3a7289-4ecb-4978-8b51-b19537bcda99)
+
+![image](https://github.com/akash-rajak/Qlik-Extractor/assets/57003737/28f36354-7755-4766-995a-0dad00703c82)
+
+****
+
 ### IMP Notes/References:
 - 
