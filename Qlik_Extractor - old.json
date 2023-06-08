@@ -1,0 +1,2146 @@
+{
+    "dashBoard": [
+        {
+            "Dashboard ID": "8519b3ea-3715-405e-b4c7-3c88d96b4f6f",
+            "Dashboard Name": "Daily Sales Dashboard(1)"
+        },
+        {
+            "Dashboard ID": "970b8d35-bd85-4f89-a48b-1d1a8b634112",
+            "Dashboard Name": "CIC KPI Dashboard Loader"
+        },
+        {
+            "Dashboard ID": "984bb94b-6b49-40d1-bb3c-bbc5a995c98e",
+            "Dashboard Name": "Test App"
+        }
+    ],
+    "dataSource": [
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Connection Name": "QSData",
+            "Connection ID": "cwwpvt_qlikviewdev3",
+            "Data Source": "cwwpvt_qlikviewdev3",
+            "Data Source Type": "cwwpvt_qlikviewdev3",
+            "Table Name": "MasterData\\ESDOV0001-ZE_ESDOV0001_C000_00001"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Connection Name": "QSData",
+            "Connection ID": "cwwpvt_qlikviewdev3",
+            "Data Source": "cwwpvt_qlikviewdev3",
+            "Data Source Type": "cwwpvt_qlikviewdev3",
+            "Table Name": "MasterData\\MST_SLSMAN"
+        },
+        {
+            "Dashboard Name": "CIC KPI Dashboard Loader",
+            "Connection Name": "QSData",
+            "Connection ID": "cwwpvt_qlikviewdev3",
+            "Data Source": "cwwpvt_qlikviewdev3",
+            "Data Source Type": "cwwpvt_qlikviewdev3",
+            "Table Name": "None"
+        },
+        {
+            "Dashboard Name": "CIC KPI Dashboard Loader",
+            "Connection Name": "QSData",
+            "Connection ID": "cwwpvt_qlikviewdev3",
+            "Data Source": "cwwpvt_qlikviewdev3",
+            "Data Source Type": "cwwpvt_qlikviewdev3",
+            "Table Name": "None"
+        }
+    ],
+    "tableColumn": [
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "OpenOrders               ",
+            "Table Columns": "OpenOrderLink"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "OpenOrders               ",
+            "Table Columns": "CUST_NAME"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "OpenOrders               ",
+            "Table Columns": "CUST_NAME2"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "OpenOrders               ",
+            "Table Columns": "ORDER_NO"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "OpenOrders               ",
+            "Table Columns": "OpenOrderStatus"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "OpenOrders               ",
+            "Table Columns": "UOM_CD"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "OpenOrders               ",
+            "Table Columns": "PRD_QTY"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "OpenOrders               ",
+            "Table Columns": "KG's"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "OpenOrders               ",
+            "Table Columns": "AgeBucket"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "OpenOrders               ",
+            "Table Columns": "AgeBucketSA"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "OpenOrders               ",
+            "Table Columns": "WMS_STATUS"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "OpenOrders               ",
+            "Table Columns": "WMS_Remarks"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "OpenOrders               ",
+            "Table Columns": "NOD"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "OpenOrders               ",
+            "Table Columns": "NDD"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "OpenOrders               ",
+            "Table Columns": "VISIT_FREQUENCY_DESC"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "OpenOrders               ",
+            "Table Columns": "CREATED_BY"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "OpenOrders               ",
+            "Table Columns": "WMS_ROUTE"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "OpenOrders               ",
+            "Table Columns": "ORDER_ROUTE"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "OpenOrders               ",
+            "Table Columns": "PO_NO"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "OpenOrders               ",
+            "Table Columns": "NET_AMT"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "OpenOrders               ",
+            "Table Columns": "OpenOrderDate"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "OpenOrders               ",
+            "Table Columns": "OpenOrderDeliveryDate"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "ItemDetail               ",
+            "Table Columns": "ITEM_ID"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "ItemDetail               ",
+            "Table Columns": "ITEM_DETAILS"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "ItemDetail               ",
+            "Table Columns": "ITEM_NAME"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "ItemDetail               ",
+            "Table Columns": "ITEM_BRAND_GROUP"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "ItemDetail               ",
+            "Table Columns": "ITEM_BRAND"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "ItemDetail               ",
+            "Table Columns": "SAP_ITEM_ID"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "ItemDetail               ",
+            "Table Columns": "ITEM_FLAVOUR"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "ItemDetail               ",
+            "Table Columns": "ITEM_FLAVOUR_ID"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "ItemDetail               ",
+            "Table Columns": "CORE/VALUE CO"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "ItemDetail               ",
+            "Table Columns": "ITEM_PACKSIZE"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "ItemDetail               ",
+            "Table Columns": "ITEM_PACKSIZE_GROUP"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "SalesLink"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "DMDGROUP"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "CLASS_ID"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "EXPENSE_ID"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "JDA_PRD"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "TYPE"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "REASON"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "CasePrice"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "Cases"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "Discount"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "INVOICE_NUMBER"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "Weight"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "Units"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "inv_no_ref"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "FULL_IND"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "CUST_TYPE"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "RowNumber"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "ITEM_ID1"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "LINKCUST_ID"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "CUST_ID1"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "qvYEAR"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "qvPERIOD"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "qvMONTH"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "qvWEEK"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "GrossBossView"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "GrossBuyback"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "GrossReturn"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "GrossExpcred"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "GrossEx"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "Invoice"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "UnitPrice"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "TRANS_DATE2"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "TRANS_DM"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "TRANS_DM2"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "Gross"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "GrossFin"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate           ",
+            "Table Columns": "DiscountInd"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "MonthlySales             ",
+            "Table Columns": "MonthlyLink"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "MonthlySales             ",
+            "Table Columns": "MonthTYPE"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "MonthlySales             ",
+            "Table Columns": "MonthGrossFin"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "MonthlySales             ",
+            "Table Columns": "MonthGrossReturn"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "MonthlySales             ",
+            "Table Columns": "MonthInvoice"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "MonthlySales             ",
+            "Table Columns": "MonthWeight"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "MonthlySales             ",
+            "Table Columns": "AOPVal"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "MonthlySales             ",
+            "Table Columns": "AOPVol"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "MonthlySales             ",
+            "Table Columns": "AOPInvoiceVal"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "JDA                      ",
+            "Table Columns": "JDALink"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "JDA                      ",
+            "Table Columns": "JDACases"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "JDA                      ",
+            "Table Columns": "ConFac"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "JDA                      ",
+            "Table Columns": "JDAValue"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "CWO                      ",
+            "Table Columns": "%CWO_ACT_INACT_LINK"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "CWO                      ",
+            "Table Columns": "CWOLink"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "CWO                      ",
+            "Table Columns": "CWO - QTY_INVOICED"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "CWO                      ",
+            "Table Columns": "CWO - QTY_ORDER"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "CWO_STATUS               ",
+            "Table Columns": "%CWO_ACT_INACT_LINK"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "CWO_STATUS               ",
+            "Table Columns": "CWO_Status"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "LinkTable                ",
+            "Table Columns": "MonthlyLink"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "LinkTable                ",
+            "Table Columns": "TRANS_DATE"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "LinkTable                ",
+            "Table Columns": "JDALink"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "LinkTable                ",
+            "Table Columns": "CWOLink"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "LinkTable                ",
+            "Table Columns": "SalesLink"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "LinkTable                ",
+            "Table Columns": "CUST_ID"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "LinkTable                ",
+            "Table Columns": "ITEM_ID"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "LinkTable                ",
+            "Table Columns": "OpenOrderLink"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "LinkTable                ",
+            "Table Columns": "SAPDTSRegion"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "LinkTable                ",
+            "Table Columns": "SAP_ROUTE_LOCATION"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "LinkTable                ",
+            "Table Columns": "DC MAP"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "Calendar                 ",
+            "Table Columns": "TRANS_DATE"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "Calendar                 ",
+            "Table Columns": "TRANSE_DATE2"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "Calendar                 ",
+            "Table Columns": "YEAR"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "Calendar                 ",
+            "Table Columns": "MONTH"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "Calendar                 ",
+            "Table Columns": "MONTHNO"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "Calendar                 ",
+            "Table Columns": "WEEK"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "Calendar                 ",
+            "Table Columns": "WEEKDAY"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "Calendar                 ",
+            "Table Columns": "YEARMONTH"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "Calendar                 ",
+            "Table Columns": "YEARWEEK"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "Calendar                 ",
+            "Table Columns": "TRANS_DATE_LINK"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteCustomerDetails     ",
+            "Table Columns": "CUST_ID"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteCustomerDetails     ",
+            "Table Columns": "DES_ID"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteCustomerDetails     ",
+            "Table Columns": "COMPANY"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteCustomerDetails     ",
+            "Table Columns": "BRN_ID"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteCustomerDetails     ",
+            "Table Columns": "BRANCH"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteCustomerDetails     ",
+            "Table Columns": "ROU_LOC_ID"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteCustomerDetails     ",
+            "Table Columns": "ROUTE_LOCATION"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteCustomerDetails     ",
+            "Table Columns": "ROU_ID"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteCustomerDetails     ",
+            "Table Columns": "ROUTE"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteCustomerDetails     ",
+            "Table Columns": "ROU_CAT_ID"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteCustomerDetails     ",
+            "Table Columns": "KAM"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteCustomerDetails     ",
+            "Table Columns": "CUSTOMER_NAME"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteCustomerDetails     ",
+            "Table Columns": "CUSTOMER_NAME2"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteCustomerDetails     ",
+            "Table Columns": "KEY_ACCOUNT"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteCustomerDetails     ",
+            "Table Columns": "KEY_ACCOUNT_CUST_ID"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteCustomerDetails     ",
+            "Table Columns": "OldCategory"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteCustomerDetails     ",
+            "Table Columns": "MAJOR_GROUP"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteCustomerDetails     ",
+            "Table Columns": "GROUP"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteCustomerDetails     ",
+            "Table Columns": "GROUP_CUST_ID"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteCustomerDetails     ",
+            "Table Columns": "REGION"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteCustomerDetails     ",
+            "Table Columns": "REGION_CUST_ID"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteCustomerDetails     ",
+            "Table Columns": "SUB_REGION"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteCustomerDetails     ",
+            "Table Columns": "SEGMENT"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteCustomerDetails     ",
+            "Table Columns": "SUB_SEGMENT"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteCustomerDetails     ",
+            "Table Columns": "DTS_REGION_GROUP"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteCustomerDetails     ",
+            "Table Columns": "DTS_REGION"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteCustomerDetails     ",
+            "Table Columns": "RAMKEY"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteCustomerDetails     ",
+            "Table Columns": "CATEGORY"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteCustomerDetails     ",
+            "Table Columns": "OriginalSAPRoute"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteCustomerDetails     ",
+            "Table Columns": "SAPRoute"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteCustomerDetails     ",
+            "Table Columns": "BU_CD"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteCustomerDetails     ",
+            "Table Columns": "INTER_COMPANY"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteComms               ",
+            "Table Columns": "ROUTE_COUNT"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteComms               ",
+            "Table Columns": "COMMUNICATED"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteComms               ",
+            "Table Columns": "Perc"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "PublicHolidays           ",
+            "Table Columns": "PublicHolidays"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "PublicHolidays           ",
+            "Table Columns": "PubDate"
+        },
+        {
+            "Dashboard Name": "CIC KPI Dashboard Loader",
+            "Table Name": "NA",
+            "Table Columns": "NA"
+        },
+        {
+            "Dashboard Name": "Test App",
+            "Table Name": "LiteracyRate     ",
+            "Table Columns": "State Code"
+        },
+        {
+            "Dashboard Name": "Test App",
+            "Table Name": "LiteracyRate     ",
+            "Table Columns": "State Name"
+        },
+        {
+            "Dashboard Name": "Test App",
+            "Table Name": "LiteracyRate     ",
+            "Table Columns": "District Code"
+        },
+        {
+            "Dashboard Name": "Test App",
+            "Table Name": "LiteracyRate     ",
+            "Table Columns": "Name of Urban Agglomeration/City"
+        },
+        {
+            "Dashboard Name": "Test App",
+            "Table Name": "LiteracyRate     ",
+            "Table Columns": "Level"
+        },
+        {
+            "Dashboard Name": "Test App",
+            "Table Name": "LiteracyRate     ",
+            "Table Columns": "Population"
+        },
+        {
+            "Dashboard Name": "Test App",
+            "Table Name": "LiteracyRate     ",
+            "Table Columns": "Population(Male)"
+        },
+        {
+            "Dashboard Name": "Test App",
+            "Table Name": "LiteracyRate     ",
+            "Table Columns": "Population(Female)"
+        },
+        {
+            "Dashboard Name": "Test App",
+            "Table Name": "LiteracyRate     ",
+            "Table Columns": "0-6 Population"
+        },
+        {
+            "Dashboard Name": "Test App",
+            "Table Name": "LiteracyRate     ",
+            "Table Columns": "Literates"
+        },
+        {
+            "Dashboard Name": "Test App",
+            "Table Name": "LiteracyRate     ",
+            "Table Columns": "Literates(Male)"
+        },
+        {
+            "Dashboard Name": "Test App",
+            "Table Name": "LiteracyRate     ",
+            "Table Columns": "Literates(Female)"
+        },
+        {
+            "Dashboard Name": "Test App",
+            "Table Name": "LiteracyRate     ",
+            "Table Columns": "Sex Ratio"
+        },
+        {
+            "Dashboard Name": "Test App",
+            "Table Name": "LiteracyRate     ",
+            "Table Columns": "Child Sex Ratio (0-6 Years"
+        },
+        {
+            "Dashboard Name": "Test App",
+            "Table Name": "LiteracyRate     ",
+            "Table Columns": "Effective Literacy Rate (7+ Pop)"
+        },
+        {
+            "Dashboard Name": "Test App",
+            "Table Name": "LiteracyRate     ",
+            "Table Columns": "Literacy Rate(Male)"
+        },
+        {
+            "Dashboard Name": "Test App",
+            "Table Name": "LiteracyRate     ",
+            "Table Columns": "Literacy Rate (Female)"
+        }
+    ],
+    "sheets": [
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "Sales Forward View - Domestic (Core + ValueCO)"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "Custom Report"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "Yesterday Sales Volume by SAP DTS Region-Category"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "Yesterday Sales Volume by Category"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "Yesterday Sales Volume by SAP DTS Region"
+        },
+        {
+            "Dashboard Name": "CIC KPI Dashboard Loader"
+        },
+        {
+            "Dashboard Name": "Test App",
+            "Sheet Title": "Test Sheet"
+        }
+    ],
+    "measuresDimension": [
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "Sales Forward View - Domestic (Core + ValueCO)",
+            "Chart Name": "table",
+            "Flag": "Dimension",
+            "Measure/Dimension": [
+                "=ValueList('AOP(T)','Delivery Orders(T)','Variance (Orders vs AOP)','Invoiced Volumes(T)','Variance (Invoice vs AOP)')"
+            ],
+            "Equivalent DAX": "No DAX"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "Sales Forward View - Domestic (Core + ValueCO)",
+            "Chart Name": "table",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=\r\nif(ValueList('AOP(T)','Delivery Orders(T)','Variance (Orders vs AOP)','Invoiced Volumes(T)','Variance (Invoice vs AOP)')='AOP(T)',\n((sum({<MONTHNO={$(vMaxMonth)}, CATEGORY-={'Exports'}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays)))),\nif(ValueList('AOP(T)','Delivery Orders(T)','Variance (Orders vs AOP)','Invoiced Volumes(T)','Variance (Invoice vs AOP)')='Delivery Orders(T)',\nsum({<TRANS_DATE={$(vMaxDate)}, CATEGORY-={'Exports'}>}[KG's]),\nif(ValueList('AOP(T)','Delivery Orders(T)','Variance (Orders vs AOP)','Invoiced Volumes(T)','Variance (Invoice vs AOP)')='Variance (Orders vs AOP)',\n(sum({<TRANS_DATE={$(vMaxDate)}, CATEGORY-={'Exports'}>}[KG's])-((sum({<MONTHNO={$(vMaxMonth)}, CATEGORY-={'Exports'}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays))))),\nif(ValueList('AOP(T)','Delivery Orders(T)','Variance (Orders vs AOP)','Invoiced Volumes(T)','Variance (Invoice vs AOP)')='Invoiced Volumes(T)',\nSum({<TRANS_DATE={$(vMaxDate)}, CATEGORY-={'Exports'}>}Weight),\nif(ValueList('AOP(T)','Delivery Orders(T)','Variance (Orders vs AOP)','Invoiced Volumes(T)','Variance (Invoice vs AOP)')='Variance (Invoice vs AOP)',\n(Sum({<TRANS_DATE={$(vMaxDate)}, CATEGORY-={'Exports'}>}Weight)-((sum({<MONTHNO={$(vMaxMonth)}, CATEGORY-={'Exports'}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays)))))\n)))))/1000\n\n"
+            ],
+            "Equivalent DAX": "\n\n=IF(VALUES('AOP (T)','Delivery Orders (T)','Variance (Orders vs AOP)','Invoiced Volumes (T)','Variance (Invoice vs AOP)')=\"AOP (T)\",\n(SUMX(FILTER(ALL('Date'), 'Date'[MonthNo] = [vMaxMonth] && 'Date'[Category] <> \"Exports\"), [AOPVol]) / NETWORKDAYS.INTL(DATE(YEAR([vMaxYear]), MONTH([vMaxYear]), 1), DATE(YEAR([vMaxYear]), MONTH([vMaxYear]), EOMONTH([vMaxYear], MONTH([vMaxYear]))), [vWorkingDays])),\nIF(VALUES('AOP (T)','Delivery Orders (T)','Variance (Orders vs AOP)','Invoiced Volumes (T)','Variance (Invoice vs AOP)')=\"Delivery Orders (T)\",\nSUMX(FILTER(ALL('Date'), 'Date'[Trans_Date] = [vMaxDate] && 'Date'"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "Sales Forward View - Domestic (Core + ValueCO)",
+            "Chart Name": "table",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=\r\nif(ValueList('AOP(T)','Delivery Orders(T)','Variance (Orders vs AOP)','Invoiced Volumes(T)','Variance (Invoice vs AOP)')='AOP(T)',\n((sum({<MONTHNO={$(vMaxMonth)}, CATEGORY-={'Exports'}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays)))),\nif(ValueList('AOP(T)','Delivery Orders(T)','Variance (Orders vs AOP)','Invoiced Volumes(T)','Variance (Invoice vs AOP)')='Delivery Orders(T)',\nsum({<TRANS_DATE={$(=$(vMaxDate)+1)}, CATEGORY-={'Exports'}>}[KG's]),\nif(ValueList('AOP(T)','Delivery Orders(T)','Variance (Orders vs AOP)','Invoiced Volumes(T)','Variance (Invoice vs AOP)')='Variance (Orders vs AOP)',\n(sum({<TRANS_DATE={$(=$(vMaxDate)+1)}, CATEGORY-={'Exports'}>}[KG's])-((sum({<MONTHNO={$(vMaxMonth)}, CATEGORY-={'Exports'}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays))))),\nif(ValueList('AOP(T)','Delivery Orders(T)','Variance (Orders vs AOP)','Invoiced Volumes(T)','Variance (Invoice vs AOP)')='Invoiced Volumes(T)',\nSum({<TRANS_DATE={$(=$(vMaxDate)+1)}, CATEGORY-={'Exports'}>}Weight),\nif(ValueList('AOP(T)','Delivery Orders(T)','Variance (Orders vs AOP)','Invoiced Volumes(T)','Variance (Invoice vs AOP)')='Variance (Invoice vs AOP)',\n(Sum({<TRANS_DATE={$(=$(vMaxDate)+1)}, CATEGORY-={'Exports'}>}Weight)-((sum({<MONTHNO={$(vMaxMonth)}, CATEGORY-={'Exports'}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays)))))\n)))))/1000\n"
+            ],
+            "Equivalent DAX": "\n\n=\nSWITCH(\n    VALUELIST('AOP(T)','Delivery Orders(T)','Variance (Orders vs AOP)','Invoiced Volumes(T)','Variance (Invoice vs AOP)'),\n    'AOP(T)',\n    DIVIDE(\n        CALCULATE(\n            SUMX(\n                FILTER(\n                    ALL('Date'),\n                    'Date'[MonthNo] = MAX('Date'[MonthNo])\n                    && 'Date'[Category] <> \"Exports\"\n                ),\n                'Date'[AOPVol]\n            ),\n            NETWORKDAYS.INTL(\n                STARTOFMONTH('Date'[Makedate]),\n                ENDOFMONTH('Date'[Makedate]),\n                VARWorkingDays\n            )\n        ),\n        1000\n    ),\n    'Delivery Orders(T)',\n    DIVIDE(\n        CALCULATE(\n            SUMX(\n                FILTER(\n                    ALL('Date'),\n                    'Date'[Trans_Date] = MAX('Date'"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "Sales Forward View - Domestic (Core + ValueCO)",
+            "Chart Name": "table",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=\r\nif(ValueList('AOP(T)','Delivery Orders(T)','Variance (Orders vs AOP)','Invoiced Volumes(T)','Variance (Invoice vs AOP)')='AOP(T)',\n((sum({<MONTHNO={$(vMaxMonth)}, CATEGORY-={'Exports'}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays)))),\nif(ValueList('AOP(T)','Delivery Orders(T)','Variance (Orders vs AOP)','Invoiced Volumes(T)','Variance (Invoice vs AOP)')='Delivery Orders(T)',\nsum({<TRANS_DATE={$(=$(vMaxDate)+2)}, CATEGORY-={'Exports'}>}[KG's]),\nif(ValueList('AOP(T)','Delivery Orders(T)','Variance (Orders vs AOP)','Invoiced Volumes(T)','Variance (Invoice vs AOP)')='Variance (Orders vs AOP)',\n(sum({<TRANS_DATE={$(=$(vMaxDate)+2)}, CATEGORY-={'Exports'}>}[KG's])-((sum({<MONTHNO={$(vMaxMonth)}, CATEGORY-={'Exports'}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays))))),\nif(ValueList('AOP(T)','Delivery Orders(T)','Variance (Orders vs AOP)','Invoiced Volumes(T)','Variance (Invoice vs AOP)')='Invoiced Volumes(T)',\nSum({<TRANS_DATE={$(=$(vMaxDate)+2)}, CATEGORY-={'Exports'}>}Weight),\nif(ValueList('AOP(T)','Delivery Orders(T)','Variance (Orders vs AOP)','Invoiced Volumes(T)','Variance (Invoice vs AOP)')='Variance (Invoice vs AOP)',\n(Sum({<TRANS_DATE={$(=$(vMaxDate)+2)}, CATEGORY-={'Exports'}>}Weight)-((sum({<MONTHNO={$(vMaxMonth)}, CATEGORY-={'Exports'}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays)))))\n)))))/1000\n\n"
+            ],
+            "Equivalent DAX": "\n\nIF(\n    VALUES('AOP(T)', 'Delivery Orders(T)', 'Variance (Orders vs AOP)', 'Invoiced Volumes(T)', 'Variance (Invoice vs AOP)') = 'AOP(T)',\n    (SUMX(\n        FILTER(ALL('Table'), \n            'Table'[MONTHNO] = MAX('Table'[MONTHNO]) &&\n            'Table'[CATEGORY] <> \"Exports\"\n        ), 'Table'[AOPVol])\n        / NETWORKDAYS.INTL(\n            STARTOFMONTH(MAKEDATE(MAX('Table'[vMaxYear]), MAX('Table'[vMaxMonth]))),\n            ENDOFMONTH(MAKEDATE(MAX('Table'[vMaxYear]), MAX('Table'[vMaxMonth]))),\n            MAX('Table'[vWorkingDays])\n        )\n    ),\n    IF(\n        VALUES('AOP(T)', 'Delivery Orders(T)', 'Variance (Orders vs AOP"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "Sales Forward View - Domestic (Core + ValueCO)",
+            "Chart Name": "qlik-tabbed-container",
+            "Measure/Dimension": "NA",
+            "Flag": "NA",
+            "Equivalent DAX": "NA"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "VizlibTextObject",
+            "Measure/Dimension": "NA",
+            "Flag": "NA",
+            "Equivalent DAX": "NA"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "num(sum({<AgeBucket = {'0-3 Days'}, CATEGORY={'Wholesale'}>} [KG's])/1000,'#\u00c2\u00a0##0') & '  T'"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(SUMX(FILTER('TableName', 'TableName'[AgeBucket] = \"0-3 Days\" && 'TableName'[CATEGORY] = \"Wholesale\"), [KG's]/1000), \"# ##0 T\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "num(Sum({<AgeBucket = {'4-5 Days'}, CATEGORY={'Wholesale'}>}[KG's])/1000,'#\u00c2\u00a0##0') & ' T'"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(SUMX(FILTER(ALL('Table'),'Table'[AgeBucket]=\"4-5 Days\" && 'Table'[CATEGORY]=\"Wholesale\"),[KG's]/1000),\"#\u00c2\u00a0##0\" & \" T\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "num(Sum({<AgeBucket = {'Greater than 5 Days'}, CATEGORY={'Wholesale'}>}[KG's])/1000,'#\u00c2\u00a0##0') & ' T'"
+            ],
+            "Equivalent DAX": "\n\nFORMAT([KG's]/1000, \"#\u00c2\u00a0##0\") & \" T\""
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "Num(Sum({<TRANS_DATE={$(vMaxDate)}>}Weight)/1000,0) & ' T'"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(SUMX(FILTER(ALL('Table'), 'Table'[TRANS_DATE] = MAX('Table'[TRANS_DATE])), 'Table'[Weight])/1000, \"0,0.0 T\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "barchart",
+            "Flag": "Dimension",
+            "Measure/Dimension": [
+                "ITEM_BRAND"
+            ],
+            "Equivalent DAX": "No DAX"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "barchart",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "if(num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}>}MonthWeight)+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}>}Weight))/1000,'#\u00c2\u00a0##0') >0,\nnum((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}>}MonthWeight)+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}>}Weight))/1000,'#\u00c2\u00a0##0'))\n\n\n\n//Sum({<TRANS_DATE={$(vMaxDate)}>}Weight)/1000"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(SUMX(FILTER(ALL(TRANS_DATE), TRANS_DATE < $(vMaxDate)), [Weight])/1000, \"#\u00a0##0\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "barchart",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "((sum({<MONTHNO={$(vMaxMonth)}>} AOPVol)/\r\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays)))*\nNetWorkDays(WeekStart(Makedate(vMaxYear,vMaxMonth, Day(Today()))),Makedate(vMaxYear,vMaxMonth, Day(Today())),$(vWorkingDays))\n)/1000\n"
+            ],
+            "Equivalent DAX": "\n\nDIVIDE(\n    MULTIPLY(\n        DIVIDE(\n            SUMX(\n                FILTER(ALL(TableName), TableName[MONTHNO] = MAX(TableName[MONTHNO])),\n                [AOPVol]\n            ),\n            NETWORKDAYS.INTL(\n                STARTOFMONTH(MAKEDATE(MAX(TableName[vMaxYear]), MAX(TableName[vMaxMonth]))),\n                ENDOFMONTH(MAKEDATE(MAX(TableName[vMaxYear]), MAX(TableName[vMaxMonth]))),\n                [vWorkingDays]\n            )\n        ),\n        NETWORKDAYS.INTL(\n            STARTOFWEEK(MAKEDATE(MAX(TableName[vMaxYear]), MAX(TableName[vMaxMonth]), DAY(TODAY()))),\n            MAKEDATE(MAX(TableName[vMaxYear]), MAX(TableName[vMaxMonth]), DAY(TODAY())),\n            [vWorkingDays]\n        )\n    ),\n    1000\n)"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qlik-multi-kpi",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "NetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),Makedate(vMaxYear,vMaxMonth,Day(Today())),$(vWorkingDays))"
+            ],
+            "Equivalent DAX": "\n\nDATEDIFF(DATE(MAX(vMaxYear), MAX(vMaxMonth), 1), TODAY(), WEEKDAY, vWorkingDays)"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qlik-multi-kpi",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "NetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays))"
+            ],
+            "Equivalent DAX": "\n\nDATEADD(EOMONTH(DATE(vMaxYear, vMaxMonth, 1), -1), -NETWORKDAYS.INTL(DATE(vMaxYear, vMaxMonth, 1), EOMONTH(DATE(vMaxYear, vMaxMonth, 1), -1), $(vWorkingDays))"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Mon'}>}MonthWeight)\r\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Mon'}>}Weight))/1000,'#\u00c2\u00a0##0')\n"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(DIVIDE(SUMX(FILTER(ALL('Table'), 'Table'[TRANS_DATE] < MAX('Calendar'[Date]) && 'Table'[WEEK] = MAX('Table'[WEEK]) && 'Table'[WEEKDAY] = \"Mon\"), [MonthWeight] + [Weight]), 1000), \"# ##0\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Tue'}>}MonthWeight)\r\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Tue'}>}Weight))/1000,'#\u00c2\u00a0##0')\n"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(SUMX(FILTER(ALL(TableName), TableName[TRANS_DATE] < MAX(TableName[TRANS_DATE]) && TableName[WEEK] = MAX(TableName[WEEK]) && TableName[WEEKDAY] = \"Tue\"), [MonthWeight] + [Weight]) / 1000, \"# ##0\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Wed'}>}MonthWeight)\r\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Wed'}>}Weight))/1000,'#\u00c2\u00a0##0')\n"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(DIVIDE(SUMX(FILTER(ALL('Table'), 'Table'[TRANS_DATE] < $(vPrevDate) && 'Table'[WEEK] = $(vMaxWeek) && 'Table'[WEEKDAY] = \"Wed\"), 'Table'[MonthWeight]) + SUMX(FILTER(ALL('Table'), 'Table'[TRANS_DATE] >= $(vPrevDate) && 'Table'[WEEK] = $(vMaxWeek) && 'Table'[WEEKDAY] = \"Wed\"), 'Table'[Weight]), \"# ##0\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Thu'}>}MonthWeight)\r\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Thu'}>}Weight))/1000,'#\u00c2\u00a0##0')\n"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(SUMX(FILTER(ALL('Table'), 'Table'[TRANS_DATE] < MAX('Calendar'[Date]) && 'Table'[WEEK] = MAX('Table'[WEEK]) && 'Table'[WEEKDAY] = \"Thu\"), [MonthWeight] + [Weight])/1000, \"# ##0\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Fri'}>}MonthWeight)\r\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Fri'}>}Weight))/1000,'#\u00c2\u00a0##0')\n"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(DIVIDE(SUMX(FILTER(ALL('Table'), 'Table'[TRANS_DATE] < DATE(YEAR(TODAY()), MONTH(TODAY()), DAY(TODAY())) && 'Table'[WEEK] = MAX('Table'[WEEK]) && 'Table'[WEEKDAY] = \"Fri\"), [MonthWeight] + [Weight]), 1000), \"# ##0\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Sat'}>}MonthWeight)\r\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Sat'}>}Weight))/1000,'#\u00c2\u00a0##0')\n"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(DIVIDE(SUMX(FILTER(ALL('Table_Name'), 'Table_Name'[TRANS_DATE] < MAX('Calendar'[Date]) && 'Table_Name'[WEEK] = MAX('Calendar'[Week]) && 'Table_Name'[WEEKDAY] = \"Sat\"), [MonthWeight] + [Weight]), 1000), \"# ##0\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Sun'}>}MonthWeight)\r\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Sun'}>}Weight))/1000,'#\u00c2\u00a0##0')\n"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(DIVIDE(SUMX(FILTER(ALL('Table'), 'Table'[TRANS_DATE] < $(vPrevDate) && 'Table'[WEEK] = $(vMaxWeek) && 'Table'[WEEKDAY] = \"Sun\"), 'Table'[MonthWeight]) + SUMX(FILTER(ALL('Table'), 'Table'[TRANS_DATE] >= $(vPrevDate) && 'Table'[WEEK] = $(vMaxWeek) && 'Table'[WEEKDAY] = \"Sun\"), 'Table'[Weight]), \"# ##0\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=\r\n(sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Mon'}>}MonthWeight)\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Mon'}>}Weight))/\n(\n((sum({<MONTHNO={$(vMaxMonth)}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays))))\n)"
+            ],
+            "Equivalent DAX": "\n\nDIVIDE (\n    SUMX (\n        FILTER ( \n            ALL ( 'TRANS_DATE' ),\n            'TRANS_DATE'[Date] < DATE ( YEAR ( MAX ( 'TRANS_DATE'[Date] ) ), MONTH ( MAX ( 'TRANS_DATE'[Date] ) ), 1 )\n            && 'TRANS_DATE'[Week] = MAX ( 'TRANS_DATE'[Week] )\n            && 'TRANS_DATE'[Weekday] = \"Mon\"\n        ),\n        [MonthWeight] + [Weight]\n    ),\n    DIVIDE (\n        SUM ( 'AOPVol'[AOPVol] ),\n        CALCULATE (\n            NETWORKDAYS.INTL (\n                DATE ( MAX ( 'TRANS_DATE'[Year] ), MAX ( 'TRANS_DATE'[MonthNo] ), 1 ),\n                EOMONTH ( DATE ( MAX ( 'TRANS_DATE'[Year] ), MAX ( 'TRANS_DATE'[MonthNo] ), 1 )"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=\r\n(sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Tue'}>}MonthWeight)\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Tue'}>}Weight))/\n(\n((sum({<MONTHNO={$(vMaxMonth)}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays))))\n)"
+            ],
+            "Equivalent DAX": "\n\nDIVIDE(\n    SUMX(\n        FILTER(\n            ALL(Transactions),\n            Transactions[TRANS_DATE] < MAX(Transactions[TRANS_DATE]) &&\n            Transactions[WEEK] = MAX(Transactions[WEEK]) &&\n            Transactions[WEEKDAY] = \"Tue\"\n        ),\n        [MonthWeight]\n    ) + SUMX(\n        FILTER(\n            ALL(Transactions),\n            Transactions[TRANS_DATE] >= MAX(Transactions[TRANS_DATE]) &&\n            Transactions[WEEK] = MAX(Transactions[WEEK]) &&\n            Transactions[WEEKDAY] = \"Tue\"\n        ),\n        [Weight]\n    ),\n    DIVIDE(\n        SUMX(\n            FILTER(\n                ALL(Transactions),\n                Transactions[MONTHNO] = MAX(Transactions[MONTHNO])\n            ),\n            [AOPVol]\n        ),\n        NETWORKDAYS(\n            DATE(MAX(Transactions[YEAR]), MAX(Transactions[MONTH]), 1),\n           "
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=\r\n(sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Wed'}>}MonthWeight)\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Wed'}>}Weight))/\n(\n((sum({<MONTHNO={$(vMaxMonth)}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays))))\n)"
+            ],
+            "Equivalent DAX": "\n\nDIVIDE(\n    SUMX(\n        FILTER(\n            ALL('Table'),\n            AND(\n                'Table'[TRANS_DATE] < DATE(vMaxYear, vMaxMonth, 1),\n                'Table'[WEEK] = vMaxWeek,\n                'Table'[WEEKDAY] = \"Wed\"\n            )\n        ), \n        'Table'[MonthWeight]\n    ) + SUMX(\n        FILTER(\n            ALL('Table'),\n            AND(\n                'Table'[TRANS_DATE] >= DATE(vMaxYear, vMaxMonth, 1),\n                'Table'[WEEK] = vMaxWeek,\n                'Table'[WEEKDAY] = \"Wed\"\n            )\n        ), \n        'Table'[Weight]\n    ),\n    DIVIDE(\n        SUMX(\n            FILTER(\n                ALL('Table'),\n                'Table'[MONTHNO] = vMaxMonth\n            ), \n            'Table'[AOPVol]\n        ),\n        NETWORKDAYS.INTL"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=\r\n(sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Thu'}>}MonthWeight)\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Thu'}>}Weight))/\n(\n((sum({<MONTHNO={$(vMaxMonth)}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays))))\n)"
+            ],
+            "Equivalent DAX": "\n\nDIVIDE\n(\n    SUMX(\n        FILTER(\n            ALLSELECTED(TableName),\n            TableName[TRANS_DATE] < DATE(vMaxYear,vMaxMonth,1) \n            && TableName[WEEK] = vMaxWeek\n            && TableName[WEEKDAY] = \"Thu\"\n        ),\n        TableName[MonthWeight]\n    ) + SUMX(\n        FILTER(\n            ALLSELECTED(TableName),\n            TableName[TRANS_DATE] >= DATE(vMaxYear,vMaxMonth,1) \n            && TableName[WEEK] = vMaxWeek\n            && TableName[WEEKDAY] = \"Thu\"\n        ),\n        TableName[Weight]\n    ),\n    DIVIDE(\n        SUMX(\n            FILTER(\n                ALLSELECTED(TableName),\n                TableName[MONTHNO] = vMaxMonth\n            ),\n            TableName[AOPVol]\n        ),\n        NETWORKDAYS.INTL(\n            STARTOFMONTH(DATE(vMax"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=\r\n(sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Fri'}>}MonthWeight)\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Fri'}>}Weight))/\n(\n((sum({<MONTHNO={$(vMaxMonth)}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays))))\n)"
+            ],
+            "Equivalent DAX": "\n\nDIVIDE(\n    SUMX(\n        FILTER(\n            ALL(TableName),\n            TableName[TRANS_DATE] < EARLIER(TableName[TRANS_DATE])\n                && TableName[WEEK] = MAX(TableName[WEEK])\n                && TableName[WEEKDAY] = \"Fri\"\n        ),\n        TableName[MonthWeight]\n    ) + SUMX(\n        FILTER(\n            ALL(TableName),\n            TableName[TRANS_DATE] >= EARLIER(TableName[TRANS_DATE])\n                && TableName[WEEK] = MAX(TableName[WEEK])\n                && TableName[WEEKDAY] = \"Fri\"\n        ),\n        TableName[Weight]\n    ),\n    DIVIDE(\n        SUMX(\n            FILTER(\n                ALL(TableName),\n                TableName[MONTHNO] = MAX(TableName[MONTHNO])\n            ),\n            TableName[AOPVol]\n        ),\n        NETWORKDAYS.INTL(\n            STARTOFMON"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "num(sum({<AgeBucket = {'0-3 Days'}, ROUTE_LOCATION={'ISANDO SERVIE CENTE','ISANDO SERVICE CENTRE','PAROW SERVICE CENTRE','PINTEOWN CDC'\r\n,'KEY RETAIL KZN','KEY RETAIL C.T.','EXPORT','ISANDO KEY RETAIL','ISANDO WHOLESALE'}, CATEGORY-={'Wholesale'}>}  [KG's])/1000,'#\u00c2\u00a0##0') & '  T'"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(SUMX(FILTER(ALL(Table1[AgeBucket],Table1[ROUTE_LOCATION],Table1[CATEGORY]), Table1[AgeBucket] = \"0-3 Days\" && Table1[ROUTE_LOCATION] IN {\"ISANDO SERVIE CENTE\",\"ISANDO SERVICE CENTRE\",\"PAROW SERVICE CENTRE\",\"PINTEOWN CDC\", \"KEY RETAIL KZN\",\"KEY RETAIL C.T.\",\"EXPORT\",\"ISANDO KEY RETAIL\",\"ISANDO WHOLESALE\"} && Table1[CATEGORY] <> \"Wholesale\"), Table1[KG's] / 1000, \"# ##0\") & \" T\""
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "num(Sum({<AgeBucket = {'4-5 Days'}, ROUTE_LOCATION={'ISANDO SERVIE CENTE','ISANDO SERVICE CENTRE','PAROW SERVICE CENTRE','PINTEOWN CDC'\r\n,'KEY RETAIL KZN','KEY RETAIL C.T.','EXPORT','ISANDO KEY RETAIL','ISANDO WHOLESALE'}, CATEGORY-={'Wholesale'}>}[KG's])/1000,'#\u00c2\u00a0##0') & ' T'"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(SUMX(FILTER(ALL('Table'), 'Table'[AgeBucket] = \"4-5 Days\" && 'Table'[ROUTE_LOCATION] IN {\"ISANDO SERVIE CENTE\",\"ISANDO SERVICE CENTRE\",\"PAROW SERVICE CENTRE\",\"PINTEOWN CDC\",\"KEY RETAIL KZN\",\"KEY RETAIL C.T.\",\"EXPORT\",\"ISANDO KEY RETAIL\",\"ISANDO WHOLESALE\"} && 'Table'[CATEGORY] <> \"Wholesale\"), 'Table'[KG's]/1000), \"# ##0 T\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "num(sum({<AgeBucket = {'Greater than 5 Days'}, ROUTE_LOCATION={'ISANDO SERVIE CENTE','ISANDO SERVICE CENTRE','PAROW SERVICE CENTRE','PINTEOWN CDC'\r\n,'KEY RETAIL KZN','KEY RETAIL C.T.','EXPORT','ISANDO KEY RETAIL','ISANDO WHOLESALE'}, CATEGORY-={'Wholesale'}>} distinct [KG's])/1000,'#\u00c2\u00a0##0') & '  T'"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(SUMX(FILTER(ALL('Table'), 'Table'[AgeBucket] = \"Greater than 5 Days\" && 'Table'[ROUTE_LOCATION] IN {\"ISANDO SERVIE CENTE\",\"ISANDO SERVICE CENTRE\",\"PAROW SERVICE CENTRE\",\"PINTEOWN CDC\",\"KEY RETAIL KZN\",\"KEY RETAIL C.T.\",\"EXPORT\",\"ISANDO KEY RETAIL\",\"ISANDO WHOLESALE\"} && 'Table'[CATEGORY] <> \"Wholesale\"), DISTINCTCOUNT('Table'[KG's])/1000), \"# ##0 T\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "num(sum({<AgeBucket = {'0-3 Days'}, ROUTE_LOCATION-={'ISANDO SERVIE CENTE','ISANDO SERVICE CENTRE','PAROW SERVICE CENTRE','PINTEOWN CDC','HEILBRON','KEY RETAIL KZN',\r\n'KEY RETAIL C.T.','EXPORT','ISANDO KEY RETAIL','ISANDO WHOLESALE'}, CATEGORY-={'Wholesale'}>}  [KG's])/1000,'#\u00c2\u00a0##0') & '  T'"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(SUMX(FILTER(ALL('Table'), 'Table'[AgeBucket] = \"0-3 Days\" && NOT('Table'[ROUTE_LOCATION] IN {\"ISANDO SERVIE CENTE\",\"ISANDO SERVICE CENTRE\",\"PAROW SERVICE CENTRE\",\"PINTEOWN CDC\",\"HEILBRON\",\"KEY RETAIL KZN\",\"KEY RETAIL C.T.\",\"EXPORT\",\"ISANDO KEY RETAIL\",\"ISANDO WHOLESALE\"} && 'Table'[CATEGORY] <> \"Wholesale\")), [KG's]/1000, \"# ##0\") & \" T\""
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "num(Sum({<AgeBucket = {'4-5 Days'}, ROUTE_LOCATION-={'ISANDO SERVIE CENTE','ISANDO SERVICE CENTRE','PAROW SERVICE CENTRE','PINTEOWN CDC'\r\n,'KEY RETAIL KZN','KEY RETAIL C.T.','EXPORT','ISANDO KEY RETAIL','ISANDO WHOLESALE','HEILBRON'}, CATEGORY-={'Wholesale'}>}[KG's])/1000,'#\u00c2\u00a0##0') & ' T'"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(SUMX(FILTER(ALLSELECTED(Table[KG's]),Table[AgeBucket]=\"4-5 Days\",Table[ROUTE_LOCATION]<>\"ISANDO SERVIE CENTE\",Table[ROUTE_LOCATION]<>\"ISANDO SERVICE CENTRE\",Table[ROUTE_LOCATION]<>\"PAROW SERVICE CENTRE\",Table[ROUTE_LOCATION]<>\"PINTEOWN CDC\",Table[ROUTE_LOCATION]<>\"KEY RETAIL KZN\",Table[ROUTE_LOCATION]<>\"KEY RETAIL C.T.\",Table[ROUTE_LOCATION]<>\"EXPORT\",Table[ROUTE_LOCATION]<>\"ISANDO KEY RETAIL\",Table[ROUTE_LOCATION]<>\"ISANDO WHOLESALE\",Table[ROUTE_LOCATION]<>\"HEILBRON\",Table[CATEGORY]<>\"Wholesale\"),[KG's])/1000,\"#\u00c2\u00a0##0\") & \" T\""
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "num(Sum({<AgeBucket = {'Greater than 5 Days'}, ROUTE_LOCATION-={'ISANDO SERVIE CENTE','ISANDO SERVICE CENTRE','PAROW SERVICE CENTRE','PINTEOWN CDC'\r\n,'KEY RETAIL KZN','KEY RETAIL C.T.','EXPORT','ISANDO KEY RETAIL','ISANDO WHOLESALE','HEILBRON'}, CATEGORY-={'Wholesale'}>}[KG's])/1000,'#\u00c2\u00a0##0') & ' T'"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(SUMX(FILTER(ALL('Table'),'Table'[AgeBucket]=\"Greater than 5 Days\" && NOT('Table'[ROUTE_LOCATION] IN {\"ISANDO SERVIE CENTE\",\"ISANDO SERVICE CENTRE\",\"PAROW SERVICE CENTRE\",\"PINTEOWN CDC\",\"KEY RETAIL KZN\",\"KEY RETAIL C.T.\",\"EXPORT\",\"ISANDO KEY RETAIL\",\"ISANDO WHOLESALE\",\"HEILBRON\"} && 'Table'[CATEGORY]=\"Wholesale\"),[KG's])/1000,\"#\u00c2\u00a0##0\") & \" T\""
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "num(sum({<AgeBucket = {'0-3 Days'}, ROUTE_LOCATION={'HEILBRON'}, CATEGORY-={'Wholesale'}>} [KG's])/1000,'#\u00c2\u00a0##0') & '  T'"
+            ],
+            "Equivalent DAX": "\n\nFORMAT([KG's]/1000, \"#\u00c2\u00a0##0\") & \" T\""
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "num(Sum({<AgeBucket = {'4-5 Days'}, ROUTE_LOCATION={'HEILBRON'}, CATEGORY-={'Wholesale'}>}[KG's])/1000,'#\u00c2\u00a0##0') & ' T'"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(SUMX(FILTER(TableName, [AgeBucket] = \"4-5 Days\" && [ROUTE_LOCATION] = \"HEILBRON\" && [CATEGORY] <> \"Wholesale\"), [KG's]/1000), \"# ##0 T\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "num(Sum({<AgeBucket = {'Greater than 5 Days'}, ROUTE_LOCATION={'HEILBRON'}, CATEGORY-={'Wholesale'}>}[KG's])/1000,'#\u00c2\u00a0##0') & ' T'"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(SUMX(FILTER(ALL('Table'), 'Table'[AgeBucket] = \"Greater than 5 Days\" && 'Table'[ROUTE_LOCATION] = \"HEILBRON\" && 'Table'[CATEGORY] <> \"Wholesale\"), [KG's]/1000), \"#\u00c2\u00a0##0\") & \" T\""
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Mon'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>}MonthWeight)\r\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Mon'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>}Weight))/1000,'#\u00c2\u00a0##0')\n"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(SUMX(FILTER(ALL(TableName), TableName[TRANS_DATE] < vPrevDate && TableName[WEEK] = vMaxWeek && TableName[WEEKDAY] = \"Mon\" && TableName[CATEGORY] <> \"Exports\" && TableName[ITEM_PACKSIZE_GROUP] <> \"BALERS\"), TableName[MonthWeight]) + SUMX(FILTER(ALL(TableName), TableName[TRANS_DATE] >= vPrevDate && TableName[WEEK] = vMaxWeek && TableName[WEEKDAY] = \"Mon\" && TableName[CATEGORY] <> \"Exports\" && TableName[ITEM_PACKSIZE_GROUP] <> \"BALERS\"), TableName[Weight])/1000, \"# ##0\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Tue'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>}MonthWeight)\r\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Tue'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>}Weight))/1000,'#\u00c2\u00a0##0')\n"
+            ],
+            "Equivalent DAX": "\n\nSUMX(\n    FILTER(\n        ALL('TableName'),\n        'TableName'[TRANS_DATE] < MAX('TableName'[TRANS_DATE]) && \n        'TableName'[WEEK] = MAX('TableName'[WEEK]) && \n        'TableName'[WEEKDAY] = \"Tue\" && \n        'TableName'[CATEGORY] <> \"Exports\" && \n        'TableName'[ITEM_PACKSIZE_GROUP] <> \"BALERS\"\n    ),\n    'TableName'[MonthWeight]\n) + \nSUMX(\n    FILTER(\n        ALL('TableName'),\n        'TableName'[TRANS_DATE] >= MAX('TableName'[TRANS_DATE]) && \n        'TableName'[WEEK] = MAX('TableName'[WEEK]) && \n        'TableName'[WEEKDAY] = \"Tue\" && \n        'TableName'[CATEGORY] <> \"Exports\" && \n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Wed'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>}MonthWeight)\r\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Wed'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>}Weight))/1000,'#\u00c2\u00a0##0')\n"
+            ],
+            "Equivalent DAX": "\n\nSUMX(FILTER(ALL(Table1), Table1[TRANS_DATE] < vPrevDate && Table1[WEEK] = vMaxWeek && Table1[WEEKDAY] = \"Wed\" && Table1[CATEGORY] <> \"Exports\" && Table1[ITEM_PACKSIZE_GROUP] <> \"BALERS\"), Table1[MonthWeight] + Table1[Weight]) / 1000, FORMAT(SUMX(FILTER(ALL(Table1), Table1[TRANS_DATE] < vPrevDate && Table1[WEEK] = vMaxWeek && Table1[WEEKDAY] = \"Wed\" && Table1[CATEGORY] <> \"Exports\" && Table1[ITEM_PACKSIZE_GROUP] <> \"BALERS\"), Table1[MonthWeight] + Table1[Weight]) / 1000, \"# ##0\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Thu'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>}MonthWeight)\r\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Thu'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>}Weight))/1000,'#\u00c2\u00a0##0')\n"
+            ],
+            "Equivalent DAX": "\n\nSUMX(FILTER(ALL(TableName), TableName[TRANS_DATE] < EARLIER(TableName[TRANS_DATE]) && TableName[WEEK] = MAX(TableName[WEEK]) && TableName[WEEKDAY] = \"Thu\" && TableName[CATEGORY] <> \"Exports\" && TableName[ITEM_PACKSIZE_GROUP] <> \"BALERS\"), [MonthWeight] + [Weight])/1000, FORMAT(SUMX(ALL(TableName), [MonthWeight] + [Weight])/1000, \"# ##0\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Fri'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>}MonthWeight)\r\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Fri'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>}Weight))/1000,'#\u00c2\u00a0##0')\n"
+            ],
+            "Equivalent DAX": "\n\nSUMX (\n    FILTER (\n        ALL ( 'Transactions' ),\n        'Transactions'[TRANS_DATE] < MAX ( 'Calendar'[Date] ) \n        && 'Transactions'[WEEK] = MAX ( 'Calendar'[WeekNum] ) \n        && 'Transactions'[WEEKDAY] = \"Fri\" \n        && 'Transactions'[CATEGORY] <> \"Exports\" \n        && 'Transactions'[ITEM_PACKSIZE_GROUP] <> \"BALERS\"\n    ),\n    [MonthWeight]\n) \n+ \nSUMX (\n    FILTER (\n        ALL ( 'Transactions' ),\n        'Transactions'[TRANS_DATE] >= MAX ( 'Calendar'[Date] ) \n        && 'Transactions'[WEEK] = MAX ( 'Calendar'[WeekNum] ) \n        && 'Transactions'[WEEKDAY] = \"Fri\" \n        && 'Transactions'[CATEGORY] <> \"Exports\" "
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Sat'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>}MonthWeight)\r\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Sat'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>}Weight))/1000,'#\u00c2\u00a0##0')\n"
+            ],
+            "Equivalent DAX": "\n\n=FORMAT(SUMX(FILTER(ALL(TableName), \nTableName[TRANS_DATE] < vPrevDate && \nTableName[WEEK] = vMaxWeek && \nTableName[WEEKDAY] = \"Sat\" && \nTableName[CATEGORY] <> \"Exports\" && \nTableName[ITEM_PACKSIZE_GROUP] <> \"BALERS\"), \nTableName[MonthWeight] + TableName[Weight])/1000, \"# ##0\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Sun'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>}MonthWeight)\r\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Sun'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>}Weight))/1000,'#\u00c2\u00a0##0')\n"
+            ],
+            "Equivalent DAX": "\n\nSUMX(\n    FILTER(\n        ALL(TableName),\n        TableName[TRANS_DATE] < MAX(TableName[TRANS_DATE]) \n            && TableName[WEEK] = MAX(TableName[WEEK]) \n            && TableName[WEEKDAY] = \"Sun\" \n            && TableName[CATEGORY] <> \"Exports\" \n            && TableName[ITEM_PACKSIZE_GROUP] <> \"BALERS\"\n    ), \n    TableName[MonthWeight]\n) + \nSUMX(\n    FILTER(\n        ALL(TableName),\n        TableName[TRANS_DATE] >= MAX(TableName[TRANS_DATE]) \n            && TableName[WEEK] = MAX(TableName[WEEK]) \n            && TableName[WEEKDAY] = \"Sun\" \n            && TableName[CATEGORY] <> \"Exports\" \n            && TableName[ITEM_PACKSIZE_GROUP] <> \"BALERS\"\n    ),"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=\r\n(sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Mon'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>}MonthWeight)\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Mon'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>}Weight))/\n(\n((sum({<MONTHNO={$(vMaxMonth)}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays))))\n)\n//((sum({<WEEK={$(vMaxWeek)}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}, WEEKDAY = {'Mon'}>}JDAValue)))"
+            ],
+            "Equivalent DAX": "\n\n((SUMX(FILTER(ALL('Table'), 'Table'[TRANS_DATE] < $(vPrevDate) && 'Table'[WEEK] = $(vMaxWeek) && 'Table'[WEEKDAY] = \"Mon\" && 'Table'[CATEGORY] <> \"Exports\" && 'Table'[ITEM_PACKSIZE_GROUP] <> \"BALERS\"), [MonthWeight]) \n+ SUMX(FILTER(ALL('Table'), 'Table'[TRANS_DATE] >= $(vPrevDate) && 'Table'[WEEK] = $(vMaxWeek) && 'Table'[WEEKDAY] = \"Mon\" && 'Table'[CATEGORY] <> \"Exports\" && 'Table'[ITEM_PACKSIZE_GROUP] <> \"BALERS\"), [Weight]))\n/\n((SUMX(FILTER(ALL('Table'), 'Table'[MONTHNO] = $(vMaxMonth) && 'Table'[CATEGORY] <> \"Exports\" && 'Table'[ITEM_PACK"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=\r\n(sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Tue'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>}MonthWeight)\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Tue'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>}Weight))/\n(\n((sum({<MONTHNO={$(vMaxMonth)}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays))))\n)"
+            ],
+            "Equivalent DAX": "\n\n= \nDIVIDE(\n    SUMX(\n        FILTER(\n            ALL(TRANS_DATE),\n            TRANS_DATE < DATE(vMaxYear, vMaxMonth, 1)\n        ),\n        CALCULATE(\n            SUM(Weight),\n            FILTER(\n                ALL(WEEK, WEEKDAY, CATEGORY, ITEM_PACKSIZE_GROUP),\n                WEEK = vMaxWeek,\n                WEEKDAY = \"Tue\",\n                CATEGORY <> \"Exports\",\n                ITEM_PACKSIZE_GROUP <> \"BALERS\"\n            )\n        )\n    ) + \n    SUMX(\n        FILTER(\n            ALL(TRANS_DATE),\n            TRANS_DATE >= DATE(vMaxYear, vMaxMonth, 1)\n        ),\n        CALCULATE(\n            SUM(Weight),\n            FILTER(\n                ALL(WEEK, WEEKDAY, CATEGORY, ITEM_PACKSIZE_GROUP),\n                WEEK = vMaxWeek,\n                WEEKDAY = \"Tue\","
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=\r\n(sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Wed'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>}MonthWeight)\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Wed'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>}Weight))/\n(\n((sum({<MONTHNO={$(vMaxMonth)}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays))))\n)"
+            ],
+            "Equivalent DAX": "\n\nDIVIDE(\n    SUMX(\n        FILTER(\n            ALL(TRANS_DATE),\n            TRANS_DATE < DATE(vMaxYear, vMaxMonth, 1)\n        ),\n        CALCULATE(\n            SUMX(\n                FILTER(\n                    ALL(WEEK, WEEKDAY, CATEGORY, ITEM_PACKSIZE_GROUP),\n                    WEEK = vMaxWeek &&\n                    WEEKDAY = \"Wed\" &&\n                    CATEGORY <> \"Exports\" &&\n                    ITEM_PACKSIZE_GROUP <> \"BALERS\"\n                ),\n                [MonthWeight]\n            )\n        )\n    ) +\n    SUMX(\n        FILTER(\n            ALL(TRANS_DATE),\n            TRANS_DATE >= DATE(vMaxYear, vMaxMonth, 1)\n        ),\n        CALCULATE(\n            SUMX(\n                FILTER(\n                    ALL(WEEK, WEEKDAY, CATEGORY, ITEM_PACKSIZE_GROUP),\n                    WEEK = vMaxWeek &&\n                    WEEK"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=\r\n(sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Thu'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>}MonthWeight)\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Thu'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>}Weight))/\n(\n((sum({<MONTHNO={$(vMaxMonth)}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays))))\n)"
+            ],
+            "Equivalent DAX": "\n\nDIVIDE(\n    SUMX(\n        FILTER(\n            ALL('TableName'),\n            'TableName'[TRANS_DATE] < DATE(vMaxYear, vMaxMonth, 1)\n                && 'TableName'[WEEK] = vMaxWeek\n                && 'TableName'[WEEKDAY] = \"Thu\"\n                && 'TableName'[CATEGORY] <> \"Exports\"\n                && 'TableName'[ITEM_PACKSIZE_GROUP] <> \"BALERS\"\n        ),\n        [MonthWeight]\n    ) \n    +\n    SUMX(\n        FILTER(\n            ALL('TableName'),\n            'TableName'[TRANS_DATE] >= DATE(vMaxYear, vMaxMonth, 1)\n                && 'TableName'[WEEK] = vMaxWeek\n                && 'TableName'[WEEKDAY] = \"Thu\"\n                && 'TableName'[CATEGORY] <> \"Exports\"\n                && 'TableName'[ITEM_PACKSIZE_GROUP]"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=\r\n(sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Fri'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>}MonthWeight)\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Fri'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>}Weight))/\n(\n((sum({<MONTHNO={$(vMaxMonth)}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays))))\n)"
+            ],
+            "Equivalent DAX": "\n\nDIVIDE(\n    SUMX(\n        FILTER(\n            ALL(TableName),\n            TableName[TRANS_DATE] < vPrevDate \n            && TableName[WEEK] = vMaxWeek\n            && TableName[WEEKDAY] = \"Fri\"\n            && TableName[CATEGORY] <> \"Exports\"\n            && TableName[ITEM_PACKSIZE_GROUP] <> \"BALERS\"\n        ),\n        TableName[MonthWeight]\n    ) +\n    SUMX(\n        FILTER(\n            ALL(TableName),\n            TableName[TRANS_DATE] >= vPrevDate \n            && TableName[WEEK] = vMaxWeek\n            && TableName[WEEKDAY] = \"Fri\"\n            && TableName[CATEGORY] <> \"Exports\"\n            && TableName[ITEM_PACKSIZE_GROUP] <> \"BALERS\"\n        ),\n        TableName[Weight]\n    ),\n    DIVIDE(\n        SUMX(\n            FILTER(\n                ALL"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Mon'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}MonthWeight)\r\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Mon'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}Weight))/1000,'#\u00c2\u00a0##0')\n"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(SUMX(FILTER(ALL(TableName), TableName[TRANS_DATE] < MAX(TableName[TRANS_DATE]) && TableName[WEEK] = MAX(TableName[WEEK]) && TableName[WEEKDAY] = \"Mon\" && TableName[CATEGORY] <> \"Exports\" && TableName[ITEM_PACKSIZE_GROUP] = \"BALERS\"), TableName[MonthWeight]) + SUMX(FILTER(ALL(TableName), TableName[TRANS_DATE] >= MAX(TableName[TRANS_DATE]) && TableName[WEEK] = MAX(TableName[WEEK]) && TableName[WEEKDAY] = \"Mon\" && TableName[CATEGORY] <> \"Exports\" && TableName[ITEM_PACKSIZE_GROUP] = \"BALERS\"), TableName[Weight]) / 1000, \"# ##0\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Tue'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}MonthWeight)\r\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Tue'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}Weight))/1000,'#\u00c2\u00a0##0')\n"
+            ],
+            "Equivalent DAX": "\n\nSUMX(\n    FILTER(\n        ALL('Table'),\n        'Table'[TRANS_DATE] < MAX('Table'[TRANS_DATE]) && \n        'Table'[WEEK] = MAX('Table'[WEEK]) && \n        'Table'[WEEKDAY] = \"Tue\" && \n        'Table'[CATEGORY] <> \"Exports\" && \n        'Table'[ITEM_PACKSIZE_GROUP] = \"BALERS\"\n    ),\n    [MonthWeight] + [Weight]\n) / 1000,\nFORMAT(\n    , \"# ##0\"\n)"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Wed'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}MonthWeight)\r\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Wed'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}Weight))/1000,'#\u00c2\u00a0##0')\n"
+            ],
+            "Equivalent DAX": "\n\n=FORMAT(DIVIDE(SUMX(FILTER(ALL('Table'), 'Table'[TRANS_DATE] < $(vPrevDate) && 'Table'[WEEK] = $(vMaxWeek) && 'Table'[WEEKDAY] = \"Wed\" && 'Table'[CATEGORY] <> \"Exports\" && 'Table'[ITEM_PACKSIZE_GROUP] = \"BALERS\"), [MonthWeight]) + SUMX(FILTER(ALL('Table'), 'Table'[TRANS_DATE] >= $(vPrevDate) && 'Table'[WEEK] = $(vMaxWeek) && 'Table'[WEEKDAY] = \"Wed\" && 'Table'[CATEGORY] <> \"Exports\" && 'Table'[ITEM_PACKSIZE_GROUP] = \"BALERS\"), [Weight]), \"# ##0\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Thu'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}MonthWeight)\r\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Thu'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}Weight))/1000,'#\u00c2\u00a0##0')\n"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(DIVIDE(SUMX(FILTER(ALL('Table'), 'Table'[TRANS_DATE] < $(vPrevDate) && 'Table'[WEEK] = $(vMaxWeek) && 'Table'[WEEKDAY] = \"Thu\" && 'Table'[CATEGORY] <> \"Exports\" && 'Table'[ITEM_PACKSIZE_GROUP] = \"BALERS\"), [MonthWeight]) + SUMX(FILTER(ALL('Table'), 'Table'[TRANS_DATE] >= $(vPrevDate) && 'Table'[WEEK] = $(vMaxWeek) && 'Table'[WEEKDAY] = \"Thu\" && 'Table'[CATEGORY] <> \"Exports\" && 'Table'[ITEM_PACKSIZE_GROUP] = \"BALERS\"), [Weight]), 0, \"# ##0\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Fri'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}MonthWeight)\r\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Fri'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}Weight))/1000,'#\u00c2\u00a0##0')\n"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(SUMX(FILTER(ALL(TableName), TableName[TRANS_DATE] < vPrevDate && TableName[WEEK] = vMaxWeek && TableName[WEEKDAY] = \"Fri\" && TableName[CATEGORY] <> \"Exports\" && TableName[ITEM_PACKSIZE_GROUP] = \"BALERS\"), TableName[MonthWeight]) + SUMX(FILTER(ALL(TableName), TableName[TRANS_DATE] >= vPrevDate && TableName[WEEK] = vMaxWeek && TableName[WEEKDAY] = \"Fri\" && TableName[CATEGORY] <> \"Exports\" && TableName[ITEM_PACKSIZE_GROUP] = \"BALERS\"), TableName[Weight]) / 1000, \"# ##0\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Sat'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}MonthWeight)\r\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Sat'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}Weight))/1000,'#\u00c2\u00a0##0')\n"
+            ],
+            "Equivalent DAX": "\n\n=FORMAT(DIVIDE(SUMX(FILTER(ALL(TableName),TableName[TRANS_DATE] < vPrevDate && TableName[WEEK] = vMaxWeek && TableName[WEEKDAY] = \"Sat\" && TableName[CATEGORY] <> \"Exports\" && TableName[ITEM_PACKSIZE_GROUP] = \"BALERS\"), [MonthWeight]) + SUMX(FILTER(ALL(TableName),TableName[TRANS_DATE] >= vPrevDate && TableName[WEEK] = vMaxWeek && TableName[WEEKDAY] = \"Sat\" && TableName[CATEGORY] <> \"Exports\" && TableName[ITEM_PACKSIZE_GROUP] = \"BALERS\"), [Weight]),1000,\"# ##0\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Sun'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}MonthWeight)\r\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Sun'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}Weight))/1000,'#\u00c2\u00a0##0')\n"
+            ],
+            "Equivalent DAX": "\n\nSUMX(FILTER(ALL('Table'), 'Table'[TRANS_DATE] < $(vPrevDate) && 'Table'[WEEK] = $(vMaxWeek) && 'Table'[WEEKDAY] = \"Sun\" && 'Table'[CATEGORY] <> \"Exports\" && 'Table'[ITEM_PACKSIZE_GROUP] = \"BALERS\"), [MonthWeight] + [Weight])/1000, FORMAT(SUMX(ALL('Table'), [MonthWeight] + [Weight])/1000, \"# ##0\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=\r\n(sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Mon'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}MonthWeight)\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Mon'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}Weight))/\n(\n((sum({<MONTHNO={$(vMaxMonth)}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays))))\n)"
+            ],
+            "Equivalent DAX": "\n\nDIVIDE(\n    SUMX(\n        FILTER(\n            ALL(Trans_Date),\n            Trans_Date < DATE(vMaxYear, vMaxMonth, 1)\n        ),\n        CALCULATE(\n            SUM(Weight),\n            FILTER(\n                ALL(Week, Weekday, Category, Item_Packsize_Group),\n                Week = vMaxWeek,\n                Weekday = \"Mon\",\n                Category <> \"Exports\",\n                Item_Packsize_Group = \"BALERS\"\n            )\n        )\n    ) +\n    SUMX(\n        FILTER(\n            ALL(Trans_Date),\n            Trans_Date >= DATE(vMaxYear, vMaxMonth, 1)\n        ),\n        CALCULATE(\n            SUM(Weight),\n            FILTER(\n                ALL(Week, Weekday, Category, Item_Packsize_Group),\n                Week = vMaxWeek,\n                Weekday = \"Mon\",\n                Category <> \"Exports\",\n                Item_Packsize_Group = \"BALERS\"\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=\r\n(sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Tue'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}MonthWeight)\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Tue'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}Weight))/\n(\n((sum({<MONTHNO={$(vMaxMonth)}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays))))\n)"
+            ],
+            "Equivalent DAX": "\n\nSUMX (\n    FILTER (\n        ALL ( 'Date' ),\n        'Date'[Date] <= DATE ( YEAR ( vMaxYear ), MONTH ( vMaxMonth ), DAY ( vPrevDate ) )\n            && 'Date'[Week] = vMaxWeek\n            && 'Date'[Weekday] = \"Tue\"\n            && NOT ( 'Date'[Category] = \"Exports\" )\n            && 'Date'[Item_Packsize_Group] = \"BALERS\"\n    ),\n    [MonthWeight] + [Weight]\n)\n/\nDIVIDE (\n    SUMX (\n        FILTER (\n            ALL ( 'Date' ),\n            'Date'[MonthNo] = vMaxMonth\n                && NOT ( 'Date'[Category] = \"Exports\" )\n                && 'Date'[Item_Packsize_Group] = \"BALERS\"\n        ),\n        [AOPVol]\n    ),\n    WORKDAY.INTL (\n        DATE ( YEAR ( vMaxYear ), MONTH ( vMaxMonth ), 1 ),\n        D"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=\r\n(sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Wed'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}MonthWeight)\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Wed'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}Weight))/\n(\n((sum({<MONTHNO={$(vMaxMonth)}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays))))\n)"
+            ],
+            "Equivalent DAX": "\n\nDIVIDE(\n    SUMX(\n        FILTER(\n            ALL(Transactions),\n            Transactions[TRANS_DATE] < DATE(vMaxYear, vMaxMonth, 1)\n                && Transactions[WEEK] = vMaxWeek\n                && Transactions[WEEKDAY] = \"Wed\"\n                && Transactions[CATEGORY] <> \"Exports\"\n                && Transactions[ITEM_PACKSIZE_GROUP] = \"BALERS\"\n        ),\n        [MonthWeight] + [Weight]\n    ),\n    DIVIDE(\n        SUMX(\n            FILTER(\n                ALL(Transactions),\n                Transactions[MONTHNO] = vMaxMonth\n                    && Transactions[CATEGORY] <> \"Exports\"\n                    && Transactions[ITEM_PACKSIZE_GROUP] = \"BALERS\"\n            ),\n            [AOPVol]\n        ),\n        NETWORKDAYS.INTL(\n            DATE(vMaxYear, vMaxMonth, 1),\n            EOMONTH(DATE(vMaxYear, vMaxMonth, 1"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=\r\n(sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Thu'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}MonthWeight)\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Thu'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}Weight))/\n(\n((sum({<MONTHNO={$(vMaxMonth)}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays))))\n)"
+            ],
+            "Equivalent DAX": "\n\nSUMX(\n    FILTER(\n        ALL(\n            'Transactions'\n        ),\n        'Transactions'[TRANS_DATE] < DATE(vMaxYear,vMaxMonth,1)\n            && 'Transactions'[WEEK] = vMaxWeek\n            && 'Transactions'[WEEKDAY] = \"Thu\"\n            && 'Transactions'[CATEGORY-] <> \"Exports\"\n            && 'Transactions'[ITEM_PACKSIZE_GROUP] = \"BALERS\"\n    ),\n    [MonthWeight]\n)\n+\nSUMX(\n    FILTER(\n        ALL(\n            'Transactions'\n        ),\n        'Transactions'[TRANS_DATE] >= DATE(vMaxYear,vMaxMonth,1)\n            && 'Transactions'[WEEK] = vMaxWeek\n            && 'Transactions'[WEEKDAY] = \"Thu\"\n            && 'Transactions'[CATEGORY-] <> \"Exports\"\n            && 'Transactions'[ITEM_"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=\r\n(sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Fri'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}MonthWeight)\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Fri'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}Weight))/\n(\n((sum({<MONTHNO={$(vMaxMonth)}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays))))\n)"
+            ],
+            "Equivalent DAX": "\n\nDIVIDE(\n    SUMX(\n        FILTER(\n            ALL(Trans_Date),\n            Trans_Date < DATE(vMaxYear, vMaxMonth, 1)\n                && Week = vMaxWeek\n                && WeekDay = \"Fri\"\n                && CATEGORY- <> \"Exports\"\n                && ITEM_PACKSIZE_GROUP = \"BALERS\"\n        ),\n        [MonthWeight]\n    ) + SUMX(\n        FILTER(\n            ALL(Trans_Date),\n            Trans_Date >= DATE(vMaxYear, vMaxMonth, 1)\n                && Week = vMaxWeek\n                && WeekDay = \"Fri\"\n                && CATEGORY- <> \"Exports\"\n                && ITEM_PACKSIZE_GROUP = \"BALERS\"\n        ),\n        [Weight]\n    ),\n    DIVIDE(\n        SUMX(\n            FILTER(\n                ALL(MonthNo),\n                MonthNo = vMaxMonth\n                    && CATEGORY- <> \"Exports\"\n                    && ITEM_PACK"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "Num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, MONTHNO={$(vMaxMonth)}>}MonthWeight)+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, MONTHNO={$(vMaxMonth)}>}Weight))/1000,'#\u00c2\u00a0##0')\r\n"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(SUMX(FILTER(ALL('Table'), 'Table'[TRANS_DATE] < MAX('Calendar'[Date]) && 'Table'[MONTHNO] = MAX('Calendar'[Month])), 'Table'[MonthWeight]) + SUMX(FILTER(ALL('Table'), 'Table'[TRANS_DATE] >= MAX('Calendar'[Date]) && 'Table'[MONTHNO] = MAX('Calendar'[Month])), 'Table'[Weight]) / 1000, \"#.00\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "Num((\r\n((sum({<MONTHNO={$(vMaxMonth)}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays)))*\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),Makedate(vMaxYear,vMaxMonth,Day(Today())),$(vWorkingDays))\n))/1000,'#\u00c2\u00a0##0')\n"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(DIVIDE(DIVIDE(SUMX(FILTER(ALL('Date'), MONTH('Date'[Date]) = MAX('Date'[MonthNo])), 'AOPVol'[AOPVol]), CALCULATE(NETWORKDAYS.INTL(STARTOFMONTH('Date'[Date]), ENDOFMONTH('Date'[Date]), $(vWorkingDays)), ALL('Date')) * NETWORKDAYS.INTL(STARTOFMONTH('Date'[Date]), TODAY(), $(vWorkingDays)), 1000), \"# ##0\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, MONTHNO={$(vMaxMonth)}>}MonthWeight)+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, MONTHNO={$(vMaxMonth)}>}Weight)))/\r\n(\n((sum({<MONTHNO={$(vMaxMonth)}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays)))*\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),Makedate(vMaxYear,vMaxMonth,Day(Today())),$(vWorkingDays))\n))\n\n//avg({<Dimension={'Month'}>}LastEstimate)\n//sum({<MONTHNO={$(vMaxMonth)}>}AOPVol)"
+            ],
+            "Equivalent DAX": "\n\n=DIVIDE(\n    (SUMX(FILTER(ALL('Date'), 'Date'[Date] < $(vPrevDate) && 'Date'[MONTHNO] = $(vMaxMonth)), [MonthWeight]) + SUMX(FILTER(ALL('Date'), 'Date'[Date] >= $(vPrevDate) && 'Date'[MONTHNO] = $(vMaxMonth)), [Weight])),\n    (DIVIDE(\n        SUM('Date'[AOPVol]),\n        MULTIPLY(\n            NETWORKDAYS.INTL(DATE(YEAR($(vMaxYear)), MONTH($(vMaxMonth)), 1),\n            DATE(YEAR($(vMaxYear)), MONTH($(vMaxMonth)), DAY(TODAY())),\n            $(vWorkingDays)\n        )\n    ) * NETWORKDAYS.INTL(DATE(YEAR($(vMaxYear)), MONTH($(vMaxMonth)), 1), DATE(YEAR($(vMaxYear)), MONTH($(vMaxMonth)), DAY(TODAY())), $(vWorkingDays)))\n)"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}>}MonthWeight)+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}>}Weight))/1000,'#\u00c2\u00a0##0')\r\n\n"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(DIVIDE(SUMX(FILTER(ALL(Table1), Table1[TRANS_DATE] < MAX(Table1[vPrevDate]) && Table1[WEEK] = MAX(Table1[vMaxWeek])), Table1[MonthWeight]) + SUMX(FILTER(ALL(Table1), Table1[TRANS_DATE] >= MAX(Table1[vPrevDate]) && Table1[WEEK] = MAX(Table1[vMaxWeek])), Table1[Weight]), \"# ##0\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=\r\n//(\n//((sum({<WEEK={$(vMaxWeek)}>} AOPVol)/\n//NetWorkDays(WeekStart(Makedate(vMaxYear,vMaxMonth, Day(Today()))),WeekEnd(Makedate(vMaxYear,vMaxMonth, Day(Today()))),$(vWorkingDays)))*\n//NetWorkDays(Weekstart(Makedate(vMaxYear,vMaxMonth, Day(Today()))),Makedate(vMaxYear,vMaxMonth,Day(Today())),$(vWorkingDays))\n//))/1000\n\n((sum({<MONTHNO={$(vMaxMonth)}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays)))*\nNetWorkDays(WeekStart(Makedate(vMaxYear,vMaxMonth, Day(Today()))),Makedate(vMaxYear,vMaxMonth, Day(Today())),$(vWorkingDays))\n)/1000\n"
+            ],
+            "Equivalent DAX": "\n\nDIVIDE(MULTIPLY(DIVIDE(SUMX(FILTER(ALL('Date'), 'Date'[MONTHNO] = $(vMaxMonth)), [AOPVol]), \nNETWORKDAYS.INTL(STARTOFMONTH('Date'[Date]), ENDOFMONTH('Date'[Date]), $(vWorkingDays))), \nNETWORKDAYS.INTL(STARTOFWEEK('Date'[Date]), 'Date'[Date], $(vWorkingDays))), 1000)"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}>}MonthWeight)+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}>}Weight))\r\n///1000\n)/\n(\n((sum({<WEEK={$(vMaxWeek)}>} AOPVol)/\nNetWorkDays(WeekStart(Makedate(vMaxYear,vMaxMonth, Day(Today()))),WeekEnd(Makedate(vMaxYear,vMaxMonth, Day(Today()))),$(vWorkingDays)))*\nNetWorkDays(Weekstart(Makedate(vMaxYear,vMaxMonth, Day(Today()))),Makedate(vMaxYear,vMaxMonth,Day(Today())),$(vWorkingDays))\n))\n//avg({<Dimension={'Week'}>}LastEstimate)\n//sum({<WEEK={$(vMaxWeek)}>}AOPVol)"
+            ],
+            "Equivalent DAX": "\n\nAVG ( \n    FILTER ( \n        LASTESTIMATE, \n        DIMENSION = \"Week\" \n    ) \n) / \nDIVIDE ( \n    ( \n        SUMX ( \n            FILTER ( \n                ALL ( TRANS_DATE ), \n                TRANS_DATE < DATE ( YEAR ( TODAY () ), MONTH ( TODAY () ), DAY ( TODAY () ) ) \n                    && WEEK = $(vMaxWeek) \n            ), \n            [MonthWeight] \n        ) + SUMX ( \n            FILTER ( \n                ALL ( TRANS_DATE ), \n                TRANS_DATE >= DATE ( YEAR ( TODAY () ), MONTH ( TODAY () ), DAY ( TODAY () ) ) \n                    && WEEK = $(vMaxWeek) \n            ), \n            [Weight] \n        ), \n    ) \n    * NETWORKDAYS.INTL ( \n        DATE ( YEAR ( TODAY () ), MONTH ( TODAY () ), DAY ( TODAY () ) ), \n        WEEKEND ( DATE ( YEAR ( TODAY () ), MONTH"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "(sum({<TRANS_DATE={\"<$(vPrevDate)\"}, MONTHNO={$(vMaxMonth)}>}MonthGrossReturn*-1)\r\n+ \nsum({<TRANS_DATE={\">=$(vPrevDate)\"}, MONTHNO={$(vMaxMonth)}>}GrossReturn*-1)\n)/\n(sum({<TRANS_DATE={\"<$(vPrevDate)\"}, MONTHNO={$(vMaxMonth)}>}MonthGrossFin)+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, MONTHNO={$(vMaxMonth)}>}GrossFin))"
+            ],
+            "Equivalent DAX": "\n\nSUMX(FILTER('TableName', 'TableName'[TRANS_DATE] >= $(vPrevDate) && 'TableName'[MONTHNO] = $(vMaxMonth)), -1 * 'TableName'[GrossReturn]) / (SUMX(FILTER('TableName', 'TableName'[TRANS_DATE] < $(vPrevDate) && 'TableName'[MONTHNO] = $(vMaxMonth)), 'TableName'[GrossFin]) + SUMX(FILTER('TableName', 'TableName'[TRANS_DATE] >= $(vPrevDate) && 'TableName'[MONTHNO] = $(vMaxMonth)), 'TableName'[GrossFin]))"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "(sum({<TRANS_DATE={\"<$(vPrevDate)\"}, MONTHNO={$(vMaxMonth)}, MonthTYPE={'Buyback'}>}MonthGrossFin*-1)+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, MONTHNO={$(vMaxMonth)}, TYPE={'Buyback'}>}GrossFin*-1))/\r\n(sum({<TRANS_DATE={\"<$(vPrevDate)\"}, MONTHNO={$(vMaxMonth)}>}MonthGrossFin)+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, MONTHNO={$(vMaxMonth)}>}GrossFin))"
+            ],
+            "Equivalent DAX": "\n\nDIVIDE(\n  SUMX(\n    FILTER(\n      ALL(TableName), \n      TableName[TRANS_DATE] < $(vPrevDate) \n      && TableName[MONTHNO] = $(vMaxMonth) \n      && TableName[MonthTYPE] = \"Buyback\"\n    ), \n    TableName[MonthGrossFin] * -1\n  ) + \n  SUMX(\n    FILTER(\n      ALL(TableName), \n      TableName[TRANS_DATE] >= $(vPrevDate) \n      && TableName[MONTHNO] = $(vMaxMonth) \n      && TableName[TYPE] = \"Buyback\"\n    ), \n    TableName[GrossFin] * -1\n  ), \n  SUMX(\n    FILTER(\n      ALL(TableName), \n      TableName[TRANS_DATE] < $(vPrevDate) \n      && TableName[MONTHNO] = $(vMaxMonth) \n    ), \n    TableName[MonthGrossFin]\n  )"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "barchart",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "if(num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}>}MonthWeight)+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}>}Weight))/1000,'#\u00c2\u00a0##0') >0,\nnum((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}>}MonthWeight)+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}>}Weight))/1000,'#\u00c2\u00a0##0'))\n\n\n\n//Sum({<TRANS_DATE={$(vMaxDate)}>}Weight)/1000"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(SUMX(FILTER(ALL('Table'), 'Table'[TRANS_DATE] <= $(vMaxDate)), 'Table'[Weight])/1000, \"#\u00c2\u00a0##0\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "barchart",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "((sum({<MONTHNO={$(vMaxMonth)}>} AOPVol)/\r\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays)))*\nNetWorkDays(WeekStart(Makedate(vMaxYear,vMaxMonth, Day(Today()))),Makedate(vMaxYear,vMaxMonth, Day(Today())),$(vWorkingDays))\n)/1000\n"
+            ],
+            "Equivalent DAX": "\n\nDIVIDE(\n    MULTIPLY(\n        DIVIDE(\n            SUMX(\n                FILTER(ALL(MONTHNO), MONTHNO = MAX(MONTHNO[MONTHNO])),\n                [AOPVol]\n            ),\n            NETWORKDAYS.INTL(\n                STARTOFMONTH(MAKEDATE(MAX(MONTHNO[YEAR]), MAX(MONTHNO[MONTHNO]))),\n                ENDOFMONTH(MAKEDATE(MAX(MONTHNO[YEAR]), MAX(MONTHNO[MONTHNO]))),\n                vWorkingDays\n            )\n        ),\n        NETWORKDAYS.INTL(\n            STARTOFWEEK(MAKEDATE(MAX(MONTHNO[YEAR]), MAX(MONTHNO[MONTHNO]), DAY(TODAY()))),\n            MAKEDATE(MAX(MONTHNO[YEAR]), MAX(MONTHNO[MONTHNO]), DAY(TODAY())),\n            vWorkingDays\n        )\n    ),\n    1000\n)"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Dimension",
+            "Measure/Dimension": [
+                "ITEM_BRAND"
+            ],
+            "Equivalent DAX": "No DAX"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "sum({<WEEK={$(=Week(Today()))}, CWO_Status={'Active'}>}[CWO - QTY_ORDER])"
+            ],
+            "Equivalent DAX": "\n\nSUMX (\n    FILTER (\n        ALL ( 'CWO' ),\n        'CWO'[WEEK] = WEEK ( TODAY () ) && 'CWO'[CWO_Status] = \"Active\"\n    ),\n    'CWO'[QTY_ORDER]\n)"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "sum({<WEEK={$(=Week(Today()))}, CWO_Status={'Active'}>}[CWO - QTY_INVOICED])"
+            ],
+            "Equivalent DAX": "\n\nSUMX(FILTER(ALL('CWO'), 'CWO'[CWO_Status] = \"Active\" && 'CWO'[WEEK] = WEEKNUM(TODAY())), [CWO - QTY_INVOICED])"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=column(1)-column(2)"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(column(1) - column(2), \"0.00\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "sum({<WEEK={$(=Week(Today()))}, CWO_Status={'Active'}>}[CWO - QTY_INVOICED])/\r\nsum({<WEEK={$(=Week(Today()))}, CWO_Status={'Active'}>}[CWO - QTY_ORDER])"
+            ],
+            "Equivalent DAX": "\n\nDIVIDE(\n    SUMX(\n        FILTER(\n            ALL('CWO'),\n            'CWO'[CWO_Status] = \"Active\" && 'CWO'[WEEK] = WEEKNUM(TODAY())\n        ),\n        'CWO'[CWO - QTY_INVOICED]\n    ),\n    SUMX(\n        FILTER(\n            ALL('CWO'),\n            'CWO'[CWO_Status] = \"Active\" && 'CWO'[WEEK] = WEEKNUM(TODAY())\n        ),\n        'CWO'[CWO - QTY_ORDER]\n    )\n)"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "column(3)/\r\nsum(total {<WEEK={$(=Week(Today()))}, CWO_Status={'Active'}>}[CWO - QTY_ORDER])"
+            ],
+            "Equivalent DAX": "\n\nSUMX(FILTER('TableName', 'TableName'[WEEK] = WEEK(TODAY()) && 'TableName'[CWO_Status] = \"Active\"), 'TableName'[CWO - QTY_ORDER]) / SUM('TableName'[CWO - QTY_ORDER])"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=column(3)/\r\n(sum(total{<WEEK={$(=Week(Today()))}, CWO_Status={'Active'}>}[CWO - QTY_ORDER])-\nsum(total{<WEEK={$(=Week(Today()))}, CWO_Status={'Active'}>}[CWO - QTY_INVOICED]))\n"
+            ],
+            "Equivalent DAX": "\n\nDIVIDE(\n    VALUES(Table[Column]),\n    SUMX(\n        FILTER(Table, \n            Table[WEEK] = WEEKNUM(TODAY()) && \n            Table[CWO_Status] = \"Active\"),\n        Table[CWO - QTY_ORDER] - Table[CWO - QTY_INVOICED]\n    )\n)"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "sum({<WEEK={$(=Week(Today()))}, CWO_Status={'Active'}>}[CWO - QTY_INVOICED])/\r\nsum({<WEEK={$(=Week(Today()))}, CWO_Status={'Active'}>}[CWO - QTY_ORDER])"
+            ],
+            "Equivalent DAX": "\n\nDIVIDE(SUMX(FILTER(ALL('CWO'), 'CWO'[WEEK]=WEEKNUM(TODAY(),2), 'CWO'[CWO_Status]=\"Active\"), 'CWO'[CWO - QTY_INVOICED]), SUMX(FILTER(ALL('CWO'), 'CWO'[WEEK]=WEEKNUM(TODAY(),2), 'CWO'[CWO_Status]=\"Active\"), 'CWO'[CWO - QTY_ORDER]))"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "sum({<MONTHNO={$(vMaxMonth)}, CWO_Status={'Active'}>}[CWO - QTY_INVOICED])/\r\nsum({<MONTHNO={$(vMaxMonth)}, CWO_Status={'Active'}>}[CWO - QTY_ORDER])"
+            ],
+            "Equivalent DAX": "\n\nDIVIDE(SUMX(FILTER(ALL('Table'), 'Table'[MONTHNO] = MAX('Table'[MONTHNO]) && 'Table'[CWO_Status] = \"Active\"), 'Table'[CWO - QTY_INVOICED]), \nSUMX(FILTER(ALL('Table'), 'Table'[MONTHNO] = MAX('Table'[MONTHNO]) && 'Table'[CWO_Status] = \"Active\"), 'Table'[CWO - QTY_ORDER]))\n \n\u00a7 END OF DOC"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=Sum(Perc)/100"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(SUM(Perc)/100, \"0.00%\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "Sum(COMMUNICATED)"
+            ],
+            "Equivalent DAX": "\n\nSUMX(COMMUNICATED, [COMMUNICATED])\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "qsSimpleKPI",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=sum(ROUTE_COUNT)"
+            ],
+            "Equivalent DAX": "\n\nSUMX(ALL('Route'), [Route Count])"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "table",
+            "Flag": "Dimension",
+            "Measure/Dimension": [
+                "ITEM_BRAND"
+            ],
+            "Equivalent DAX": "No DAX"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "table",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "sum({<MONTHNO={$(vMaxMonth)}, CWO_Status={'Active'}>}[CWO - QTY_ORDER])"
+            ],
+            "Equivalent DAX": "\n\nSUMX(FILTER(ALL('Table'), 'Table'[MONTHNO] = MAX('Table'[MONTHNO]) && 'Table'[CWO_Status] = \"Active\"), 'Table'[CWO - QTY_ORDER])"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "table",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "sum({<MONTHNO={$(vMaxMonth)}, CWO_Status={'Active'}>}[CWO - QTY_INVOICED])"
+            ],
+            "Equivalent DAX": "\n\nSUMX(FILTER(ALL('Data'), 'Data'[MONTHNO] = MAX('Data'[MONTHNO]) && 'Data'[CWO_Status] = \"Active\"), 'Data'[CWO - QTY_INVOICED])"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "table",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=column(1)-column(2)"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(column(1) - column(2), \"0.00\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "table",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "sum({<MONTHNO={$(vMaxMonth)}, CWO_Status={'Active'}>}[CWO - QTY_INVOICED])/\r\nsum({<MONTHNO={$(vMaxMonth)}, CWO_Status={'Active'}>}[CWO - QTY_ORDER])"
+            ],
+            "Equivalent DAX": "\n\nDIVIDE(SUMX(FILTER(ALL('TableName'), 'TableName'[MONTHNO] = MAX('TableName'[MONTHNO]) && 'TableName'[CWO_Status] = \"Active\"), 'TableName'[CWO - QTY_INVOICED]), SUMX(FILTER(ALL('TableName'), 'TableName'[MONTHNO] = MAX('TableName'[MONTHNO]) && 'TableName'[CWO_Status] = \"Active\"), 'TableName'[CWO - QTY_ORDER]))"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "table",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "column(3)/\r\nsum(total{<MONTHNO={$(vMaxMonth)}, CWO_Status={'Active'}>}[CWO - QTY_ORDER])"
+            ],
+            "Equivalent DAX": "\n\nDIVIDE(COLUMN(3), CALCULATE(SUM('Table'[CWO - QTY_ORDER]), FILTER('Table', 'Table'[MONTHNO] = MAX('Table'[MONTHNO]) && 'Table'[CWO_Status] = \"Active\")))"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "My new sheet (2)",
+            "Chart Name": "table",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=column(3)/\r\n(sum(total{<MONTHNO={$(vMaxMonth)}, CWO_Status={'Active'}>}[CWO - QTY_ORDER])-\nsum(total{<MONTHNO={$(vMaxMonth)}, CWO_Status={'Active'}>}[CWO - QTY_INVOICED]))\n"
+            ],
+            "Equivalent DAX": "\n\nDIVIDE(column(3), \nSUMX(\n    FILTER(ALL(Table1), \n        Table1[MONTHNO] = MAX(Table1[MONTHNO]) \n        && Table1[CWO_Status] = \"Active\"\n    ), \n    Table1[CWO - QTY_ORDER] - Table1[CWO - QTY_INVOICED]\n))"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "Custom Report",
+            "Chart Name": "di-customreport",
+            "Measure/Dimension": "NA",
+            "Flag": "NA",
+            "Equivalent DAX": "NA"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "Yesterday Sales Volume by SAP DTS Region-Category",
+            "Chart Name": "kpi",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "Sum({<TRANS_DATE={$(=$(vMaxDate)-1)}>}Weight)/1000"
+            ],
+            "Equivalent DAX": "\n\n=FORMAT(SUMX(FILTER('TableName', 'TableName'[TRANS_DATE]=EDATE('TableName'[vMaxDate], -1)), 'TableName'[Weight])/1000,\"0.00\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "Yesterday Sales Volume by SAP DTS Region-Category",
+            "Chart Name": "barchart",
+            "Flag": "Dimension",
+            "Measure/Dimension": [
+                "SAPDTSRegion"
+            ],
+            "Equivalent DAX": "No DAX"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "Yesterday Sales Volume by SAP DTS Region-Category",
+            "Chart Name": "barchart",
+            "Flag": "Dimension",
+            "Measure/Dimension": [
+                "CATEGORY"
+            ],
+            "Equivalent DAX": "No DAX"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "Yesterday Sales Volume by SAP DTS Region-Category",
+            "Chart Name": "barchart",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "Sum({<TRANS_DATE={$(=$(vMaxDate)-1)}>}Weight)/1000"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(SUMX(FILTER(ALL('TRANS_DATE'), 'TRANS_DATE'[TRANS_DATE] = MAX('TRANS_DATE'[TRANS_DATE]) - 1), [Weight])/1000, \"0.00\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "Yesterday Sales Volume by Category",
+            "Chart Name": "kpi",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "Sum({<TRANS_DATE={$(=$(vMaxDate)-1)}>}Weight)/1000"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(SUMX(FILTER(ALL(Table1), Table1[TRANS_DATE] = MAX(Table1[TRANS_DATE]) - 1), Table1[Weight]) / 1000, \"0.00\")"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "Yesterday Sales Volume by Category",
+            "Chart Name": "barchart",
+            "Flag": "Dimension",
+            "Measure/Dimension": [
+                "CATEGORY"
+            ],
+            "Equivalent DAX": "No DAX"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "Yesterday Sales Volume by Category",
+            "Chart Name": "barchart",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "Sum({<TRANS_DATE={$(=$(vMaxDate)-1)}>}Weight)/1000"
+            ],
+            "Equivalent DAX": "\n\nSUMX(FILTER('Table', 'Table'[TRANS_DATE] = MAX('Table'[TRANS_DATE])-1), [Weight])/1000"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "Yesterday Sales Volume by SAP DTS Region",
+            "Chart Name": "kpi",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "Sum({<TRANS_DATE={$(=$(vMaxDate)-1)}>}Weight)/1000"
+            ],
+            "Equivalent DAX": "\n\nSUMX(FILTER(ALL('Table'), 'Table'[TRANS_DATE] = MAX('Table'[TRANS_DATE]) - 1), DIVIDE('Table'[Weight], 1000))"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "Yesterday Sales Volume by SAP DTS Region",
+            "Chart Name": "barchart",
+            "Flag": "Dimension",
+            "Measure/Dimension": [
+                "SAPDTSRegion"
+            ],
+            "Equivalent DAX": "No DAX"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Sheet Title": "Yesterday Sales Volume by SAP DTS Region",
+            "Chart Name": "barchart",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "Sum({<TRANS_DATE={$(=$(vMaxDate)-1)}>}Weight)/1000"
+            ],
+            "Equivalent DAX": "\n\nSUMX(FILTER('Table', 'Table'[TRANS_DATE] = MAX('Table'[TRANS_DATE]) - 1), [Weight])/1000"
+        },
+        {
+            "Dashboard Name": "CIC KPI Dashboard Loader"
+        },
+        {
+            "Dashboard Name": "Test App",
+            "Sheet Title": "Test Sheet",
+            "Chart Name": "kpi",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=avg([Effective Literacy Rate (7+ Pop)])"
+            ],
+            "Equivalent DAX": "\n\nAVERAGE([Effective Literacy Rate (7+ Pop)])"
+        },
+        {
+            "Dashboard Name": "Test App",
+            "Sheet Title": "Test Sheet",
+            "Chart Name": "barchart",
+            "Flag": "Dimension",
+            "Measure/Dimension": [
+                "[State Name]"
+            ],
+            "Equivalent DAX": "No DAX"
+        },
+        {
+            "Dashboard Name": "Test App",
+            "Sheet Title": "Test Sheet",
+            "Chart Name": "barchart",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=avg([Literacy Rate (Female)])"
+            ],
+            "Equivalent DAX": "\n\nAVERAGE([Literacy Rate (Female)])"
+        }
+    ],
+    "dataSourceQuery": [
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "SAPRoute:",
+            "Source Query": "NoConcatenate\nLOAD distinct replace(replace(subfield([Customer - Customer Level 01 (Key)],'.',2),'[',''),']','') as KAM, \n     replace(replace(subfield([Route - Route Level 01 (Key)],'.',2),'[',''),']','') as OriginalSAPRoute\nFROM\n[lib://QSData (cwwpvt_qlikviewdev3) (cwwpvt_zaqlickviewadmin)/QVD\\MasterData\\ESDOV0001-ZE_ESDOV0001_C000_00001.QVD]\n(qvd);\n\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "SAPRouteNo",
+            "Source Query": "NoConcatenate\nLOAD distinct SLSMAN_CD as SAPRoute, \n     USER_DEFINE3 As OriginalSAPRoute,\n     USER_DEFINE2 As SAPDTSRegion,\n     BU_CD\nFROM\n[lib://QSData (cwwpvt_qlikviewdev3) (cwwpvt_zaqlickviewadmin)/QVD\\MasterData\\MST_SLSMAN.qvd]\n(qvd);\n\nleft join (SAPRoute)\nload * resident SAPRouteNo;\n\ndrop table SAPRouteNo;\n\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "NewDTSRegions",
+            "Source Query": "NoConcatenate\nLOAD\n    REF_PARAM as BU_CD,\n    REF_VALUE as SAP_ROUTE_LOCATION\nFROM [lib://QSData (cwwpvt_qlikviewdev3) (cwwpvt_zaqlickviewadmin)/QVD\\MasterData\\SET_REF.qvd]\n(qvd);\n\nleft join (SAPRoute)\nload * resident NewDTSRegions;\n\ndrop table NewDTSRegions;\n\nleft join (RouteCustomerDetails)\nload * resident SAPRoute;\n\ndrop table SAPRoute;\n\n\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RC",
+            "Source Query": "NoConcatenate\nload distinct CUST_ID,\n//KAM,\nSAP_ROUTE_LOCATION,\nMAJOR_GROUP\n//DTS_REGION,\n//SAPDTSRegion\nresident RouteCustomerDetails;\n\nleft join (OpenOrders)\nload *\nresident RC;\n\ndrop table RC;\n\n\n\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "Tmp",
+            "Source Query": "NoConcatenate\nload *,\nnum(date(floor(if(upper(left(SAP_ROUTE_LOCATION,6))='ISANDO' or upper(left(SAP_ROUTE_LOCATION,5))='PAROW',if(wildmatch(WeekDay([Date(CREATE_DT)]),'Thu','Fri'),[Date(CREATE_DT)]+4,[Date(CREATE_DT)]+2),if(wildmatch(WeekDay([Date(CREATE_DT)]),'Thu','Fri'),[Date(CREATE_DT)]+4,[Date(CREATE_DT)]+2))),'YYYY/MM/DD')) as TDate,\nnum(date(floor([Date(CREATE_DT)]),'YYYY/MM/DD')) as OpenOrderDate,\nnum(date(floor(if(upper(left(SAP_ROUTE_LOCATION,6))='ISANDO' or upper(left(SAP_ROUTE_LOCATION,5))='PAROW',if(wildmatch(WeekDay([Date(CREATE_DT)]),'Thu','Fri'),[Date(CREATE_DT)]+4,[Date(CREATE_DT)]+2),if(wildmatch(WeekDay([Date(CREATE_DT)]),'Thu','Fri'),[Date(CREATE_DT)]+4,[Date(CREATE_DT)]+2))),'YYYY/MM/DD')) as OpenOrderDeliveryDate,\nCUST_ID&'-'&ITEM_ID&'-'&num(date(floor(if(upper(left(SAP_ROUTE_LOCATION,6))='ISANDO' or upper(left(SAP_ROUTE_LOCATION,5))='PAROW',if(wildmatch(WeekDay([Date(CREATE_DT)]),'Thu','Fri'),[Date(CREATE_DT)]+4,[Date(CREATE_DT)]+2),if(wildmatch(WeekDay([Date(CREATE_DT)]),'Thu','Fri'),[Date(CREATE_DT)]+4,[Date(CREATE_DT)]+2))),'YYYY/MM/DD'))&'-'&ORDER_NO as OpenOrderLink\nresident OpenOrders\nwhere MAJOR_GROUP<>'EXPORTS';\n\nrename field ORDER_STATUS to OpenOrderStatus;\n\ndrop table OpenOrders;\n\nrename table Tmp to OpenOrders;\n\ndrop field SAP_ROUTE_LOCATION,MAJOR_GROUP from OpenOrders;\n\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RC2",
+            "Source Query": "NoConcatenate\nload distinct CUST_ID,\n//KAM,\n//SAP_ROUTE_LOCATION,\nMAJOR_GROUP\n//DTS_REGION,\n//SAPDTSRegion\nresident RouteCustomerDetails;\n\n///$tab Section 2\ndrop table ItemDetail;\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "ItemDetail",
+            "Source Query": "NoConcatenate\nLOAD distinct \n\tAutoNumber(\"NP Number\") AS ITEM_DETAILS,\n    maxstring(upper(\"NP Description Short\")) as ITEM_NAME, \n\tmaxstring(upper(\"NP Brand Group\")) as ITEM_BRAND_GROUP, \n \tmaxstring(upper(\"NP Brand\")) as ITEM_BRAND, \n    \"NP Number\" as ITEM_ID,\n    maxstring(\"SAP Number\") as SAP_ITEM_ID,\n    maxstring(\"NP Flavour\") as ITEM_FLAVOUR,\n    maxstring(\"NP Flavour ID\") as ITEM_FLAVOUR_ID,\n    maxstring(upper(\"Core/Value\")) as [CORE/VALUE CO],\n    maxstring(upper(\"NP Packsize\")) as ITEM_PACKSIZE,\n    maxstring(upper(if(trim(upper(\"NP PacksizeGroup\"))='XL','EXTRA LARG',\"NP PacksizeGroup\"))) as ITEM_PACKSIZE_GROUP\nFROM [lib://QSData (cwwpvt_qlikviewdev3) (cwwpvt_zaqlickviewadmin)/QVD\\MasterData\\vQlikSense_Product.qvd]\n(qvd)\ngroup by \"NP Number\";\n\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "Itm2",
+            "Source Query": "NoConcatenate\nLOAD AutoNumber(ItemID) as ITEM_DETAILS,\n    ItemID as SAP_ITEM_ID,\n    maxstring(upper(\"SKU Description\")) as ITEM_NAME,\n    maxstring(upper(\"Item Brand\")) as ITEM_BRAND,\n    maxstring(upper(if(wildmatch(upper(\"Item Brand\"),'DORITOS','DORITOS 3D BUGLES','DORITOS JACKED'),'TORTILLA CHIPS',\"Item Brand Group\"))) as ITEM_BRAND_GROUP,\n    maxstring(upper(\"Item Packsize Group\")) as ITEM_PACKSIZE_GROUP,\n    maxstring(upper(\"Item Packsize\")) as ITEM_PACKSIZE,\n    maxstring(upper(\"Core/ValueCo\")) as [CORE/VALUE CO],\n    ItemID  as ITEM_ID\nFROM [lib://QSData (cwwpvt_qlikviewdev3) (cwwpvt_zaqlickviewadmin)/Excel/SalesModel/AOP/AOP 2021.xlsx]\n(ooxml, embedded labels, table is [New Item Link])\ngroup by ItemID;\n\nconcatenate(ItemDetail)\nload * resident Itm2;\n\ndrop table Itm2;\n\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "Tmp2",
+            "Source Query": "NoConcatenate\nLOAD maxstring(ITEM_DETAILS) as ITEM_DETAILS,\n    maxstring(ITEM_NAME) as ITEM_NAME, \n\tmaxstring(ITEM_BRAND_GROUP) as ITEM_BRAND_GROUP, \n \tmaxstring(ITEM_BRAND) as ITEM_BRAND, \n    ITEM_ID,\n    maxstring(SAP_ITEM_ID) as SAP_ITEM_ID,\n    maxstring(ITEM_FLAVOUR) as ITEM_FLAVOUR,\n    maxstring(ITEM_FLAVOUR_ID) as ITEM_FLAVOUR_ID,\n    maxstring([CORE/VALUE CO]) as [CORE/VALUE CO],\n    maxstring(ITEM_PACKSIZE) as ITEM_PACKSIZE,\n    maxstring(ITEM_PACKSIZE_GROUP) as ITEM_PACKSIZE_GROUP\nresident ItemDetail\ngroup by ITEM_ID;\n\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "Tmp",
+            "Source Query": "NoConcatenate\nLOAD ITEM_DETAILS,\n    ITEM_NAME, \n\tif(len(ITEM_BRAND_GROUP)=0,'OTHER',ITEM_BRAND_GROUP) as ITEM_BRAND_GROUP, \n \tif(len(ITEM_BRAND)=0,'OTHER',ITEM_BRAND) as ITEM_BRAND, \n    ITEM_ID,\n    SAP_ITEM_ID as SAP_ITEM_ID,\n    if(len(ITEM_FLAVOUR)=0,'OTHER',ITEM_FLAVOUR) as ITEM_FLAVOUR,\n    if(len(ITEM_FLAVOUR_ID)=0,'OTHER',ITEM_FLAVOUR_ID) as ITEM_FLAVOUR_ID,\n    if(len([CORE/VALUE CO])=0,'OTHER',[CORE/VALUE CO]) as [CORE/VALUE CO],\n    if(len(ITEM_PACKSIZE)=0 or isnull(ITEM_PACKSIZE),'OTHER',ITEM_PACKSIZE) as ITEM_PACKSIZE,\n    if(len(ITEM_PACKSIZE_GROUP)=0,'OTHER',ITEM_PACKSIZE_GROUP) as ITEM_PACKSIZE_GROUP\nresident Tmp2;\n\ndrop table ItemDetail;\ndrop table Tmp2;\nrename table Tmp to ItemDetail;\n///$tab Sales\nLIB CONNECT TO '196.6.3.40 (NewsPage) (cwwpvt_zaqlickviewadmin)';\n\n\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QVUpdateTmp",
+            "Source Query": "LOAD \"TTRANS_ID\",\n    COMPANY,\n    \"BRN_ID\",\n    BRANCH,\n    \"ROU_LOC_ID\",\n    \"ROUTE_LOCATION\",\n    \"ROU_ID\",\n    ROUTE,\n    \"ROU_CAT_ID\",\n    KAM,\n    \"CUST_ID\",\n    \"CUSTOMER_NAME\",\n    \"CUSTOMER_NAME2\",\n    DMDGROUP,\n    BLOCK,\n    STATUS,\n    \"CLASS_ID\",\n    \"EXPENSE_ID\",\n    \"KEY_ACCOUNT\",\n    \"KEY_ACCOUNT_CUST_ID\",\n    CATEGORY,\n    \"MAJOR_GROUP\",\n    \"GROUP\",\n    \"GROUP_CUST_ID\",\n    REGION,\n    \"REGION_CUST_ID\",\n    \"SUB_REGION\",\n    SEGMENT,\n    \"SUB_SEGMENT\",\n    \"DTS_REGION_GROUP\",\n    \"DTS_REGION\",\n    \"YEAR\",\n    PERIOD,\n    \"MONTH\",\n    \"WEEK\",\n    \"ACTUAL_DATE\",\n    \"DES_ID\",\n    \"ITEM_ID\",\n    \"ITEM_NAME\",\n    \"ITEM_BRAND_GROUP\",\n    \"ITEM_BRAND\",\n    \"ITEM_PACKSIZE_GROUP\",\n    \"ITEM_PACKSIZE\",\n    \"PRODUCT_TYPE\",\n    \"JDA_PRD\",\n    \"TYPE\",\n    REASON,\n    CasePrice,\n    Cases,\n    Gross,\n    Discount,\n    Nett,\n    \"INVOICE_NUMBER\",\n    \"TRANS_DATE\",\n    Weight,\n    Units,\n    \"PO_NO\",\n    \"inv_no_ref\",\n    \"GRN_NO\",\n    \"CLAIM_NO\",\n    \"Shiped_to_GLN\",\n    \"FULL_IND\",\n    \"CUST_TYPE\";\nSQL SELECT \"TTRANS_ID\",\n    COMPANY,\n    \"BRN_ID\",\n    BRANCH,\n    \"ROU_LOC_ID\",\n    \"ROUTE_LOCATION\",\n    \"ROU_ID\",\n    ROUTE,\n    \"ROU_CAT_ID\",\n    KAM,\n    \"CUST_ID\",\n    \"CUSTOMER_NAME\",\n    \"CUSTOMER_NAME2\",\n    DMDGROUP,\n    BLOCK,\n    STATUS,\n    \"CLASS_ID\",\n    \"EXPENSE_ID\",\n    \"KEY_ACCOUNT\",\n    \"KEY_ACCOUNT_CUST_ID\",\n    CATEGORY,\n    \"MAJOR_GROUP\",\n    \"GROUP\",\n    \"GROUP_CUST_ID\",\n    REGION,\n    \"REGION_CUST_ID\",\n    \"SUB_REGION\",\n    SEGMENT,\n    \"SUB_SEGMENT\",\n    \"DTS_REGION_GROUP\",\n    \"DTS_REGION\",\n    \"YEAR\",\n    PERIOD,\n    \"MONTH\",\n    \"WEEK\",\n    \"ACTUAL_DATE\",\n    \"DES_ID\",\n    \"ITEM_ID\",\n    \"ITEM_NAME\",\n    \"ITEM_BRAND_GROUP\",\n    \"ITEM_BRAND\",\n    \"ITEM_PACKSIZE_GROUP\",\n    \"ITEM_PACKSIZE\",\n    \"PRODUCT_TYPE\",\n    \"JDA_PRD\",\n    \"TYPE\",\n    REASON,\n    CasePrice,\n    Cases,\n    Gross,\n    Discount,\n    Nett,\n    \"INVOICE_NUMBER\",\n    \"TRANS_DATE\",\n    Weight,\n    Units,\n    \"PO_NO\",\n    \"inv_no_ref\",\n    \"GRN_NO\",\n    \"CLAIM_NO\",\n    \"Shiped_to_GLN\",\n    \"FULL_IND\",\n    \"CUST_TYPE\"\nFROM \"SIMBA_DMS_LIVE\".dbo.\"vQlikSense_Update_TodaySales\";\n\nNoConcatenate\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "QlikViewUpdate",
+            "Source Query": "LOAD \n//\tAutoNumber(DES_ID & '-' & COMPANY & '-' & BRN_ID & '-' & BRANCH & '-' & ROU_LOC_ID & '-' & ROUTE_LOCATION & '-' & ROU_ID & '-' & ROUTE & '-' & KAM & '-' & CUST_ID & '-' & \n//\tCUSTOMER_NAME & '-' & KEY_ACCOUNT & '-' & KEY_ACCOUNT_CUST_ID & '-' & CATEGORY & '-' & MAJOR_GROUP & '-' & [GROUP] & '-' & GROUP_CUST_ID & '-' & \n//\tREGION & '-' & REGION_CUST_ID & '-' & SUB_REGION & '-' & SEGMENT & '-' & SUB_SEGMENT & '-' & DTS_REGION_GROUP & '-' & DTS_REGION) AS ALL_DETAILS,\n//\tAutoNumber(ITEM_ID & '-' & ITEM_NAME & '-' & ITEM_BRAND_GROUP & '-' & ITEM_BRAND & '-' &ITEM_PACKSIZE_GROUP & '-' & ITEM_PACKSIZE) AS ITEM_DETAILS,\n//\tAutoNumber(ITEM_ID) AS ITEM_DETAILS,\n//\tAutoNumber(LTRIM(RTRIM(REGION)) & '-' & LTRIM(RTRIM(MAJOR_GROUP)) & '-' & LTRIM(RTRIM([GROUP])) & '-' & LTRIM(RTRIM(CATEGORY)) & '-' & LTRIM(RTRIM(SEGMENT)) & '-' & \n//\tLTRIM(RTRIM(ITEM_BRAND)) & '-' & LTRIM(RTRIM(ITEM_PACKSIZE_GROUP)) & '-' & LTRIM(RTRIM(ITEM_PACKSIZE)) & '-' & LTRIM(RTRIM(WEEK))) AS BOSSLink,\n//\tAutoNumber(LTRIM(RTRIM(ITEM_BRAND)) & '-' & LTRIM(RTRIM(ITEM_PACKSIZE_GROUP)) & '-' & LTRIM(RTRIM(NewMonth)) & '-' & LTRIM(RTRIM(YEAR))) AS ForecastKey,\n//\tAutoNumber(LTRIM(RTRIM(ITEM_ID)) & '-' & LTRIM(RTRIM(ITEM_NAME)) & '-' & LTRIM(RTRIM(ITEM_BRAND_GROUP)) & '-' & LTRIM(RTRIM(ITEM_BRAND)) & '-' & \n//     LTRIM(RTRIM(ITEM_PACKSIZE_GROUP)) & '-' & LTRIM(RTRIM(ITEM_PACKSIZE))) AS NewProductKey,\n//\tITEM_BRAND & ' - '&ITEM_PACKSIZE_GROUP & '_' & YEAR & '_' & MONTH as ForecastLink,\n//    AutoNumber(INVOICE_NUMBER&'-'&ITEM_ID&'-'&CUST_ID&'-'&EXPENSE_ID) as SalesLink,\n\tRowNo() AS RowNumber,\n    ITEM_ID,\n    CUST_ID,\n    ITEM_ID as ITEM_ID1,\n\tCUST_ID as LINKCUST_ID,\n\tCUST_ID as CUST_ID1,\n\tCLASS_ID,\n\tEXPENSE_ID,\n\t//*****\n//\tITEM_PACKSIZE_GROUP,\n//  ITEM_PACKSIZE,\n    //*****\n////\tTTRANS_ID, \n//\tINDICATOR, \n\tYEAR AS qvYEAR, \n\tPERIOD AS qvPERIOD, \n\tMONTH AS qvMONTH, \n\tWEEK AS qvWEEK, \n//\tACTUAL_DATE, \n\tCapitalize(TYPE) as TYPE, \n\tREASON, \n\tCasePrice, \n\tGross as GrossBossView, \n     IF(Capitalize(TYPE)='Buyback',fabs(Gross)*-1,0) AS GrossBuyback,\n     IF(Capitalize(TYPE)='Return',fabs(Gross)*-1,0) AS GrossReturn,\n     IF(Capitalize(TYPE)='Export Credit',fabs(Gross)*-1,0) AS GrossExpcred,\n     IF(Capitalize(TYPE)<>'Return' OR Capitalize(TYPE)<>'Buyback',fabs(Gross),0) AS GrossEx,\n\tDiscount, \n\tNett AS Invoice, \n\tIF(Cases <> 0 OR Units <> 0,CasePrice / (Units / Cases),0) AS UnitPrice,\n\tINVOICE_NUMBER, \n\tif(Capitalize(TYPE)='Buyback' or Capitalize(TYPE)='Return',Cases*-1,Cases) as Cases,\n\tif(Capitalize(TYPE)='Buyback' or Capitalize(TYPE)='Return',Units*-1,Units) as Units,\n\tif(Capitalize(TYPE)='Buyback' or Capitalize(TYPE)='Return',Weight*-1,Weight) as Weight,\t \n//\tCapitalize([Data Source]) as [Data Source], \n\tdate(floor(TRANS_DATE),'YYYY/MM/DD') as TRANS_DATE2,\n//\ttext(date(TRANS_DATE,'YYYY/MM/DD')) as TRANS_DATE_LINK,\n//\tDateTime,\n//\t//*****\n\t//Time(DateTime) as TRANS_TIME,\n//\tleft(subfield(DateTime,' ' ,2),5) as Transaction_Time,\n\t//*****      \n\tdate(floor(TRANS_DATE),'DD/MM') as TRANS_DM,      \n\tNum(Month(floor(TRANS_DATE)),'00') & '/' & Num(Day(floor([TRANS_DATE])),'00') as TRANS_DM2, \n//\tYearMonth, \n//\tNewMonth, \n//\tQUARTER AS qvQUARTER, \n//\tSIMBAQUARTER, \n//\tSimbaYearPeriod,\n    [DMDGROUP],\n      [JDA_PRD],\n      [CUST_TYPE],\n      inv_no_ref,\n     FULL_IND,\n     CUST_ID&'-'&ITEM_ID&'-'&num(floor(TRANS_DATE))&'-'&INVOICE_NUMBER as SalesLink\n\nResident \n\tQVUpdateTmp\nwhere not WildMatch(CUST_ID,419524,428140);\n; //where YEAR = '2013';\n\nDrop Table QVUpdateTmp;\n\n//------------------------------------------------------------------------------------------------\nLEFT JOIN (QlikViewUpdate)\nLOAD\n\tRowNumber,\n\t(GrossEx + GrossBuyback + GrossReturn) AS Gross,\n//\t(GrossEx + GrossBuyback + GrossBuyback + GrossReturn + GrossExpcred) AS GrossFin\nIF(Capitalize(TYPE)='Buyback',GrossBuyback,\n     IF(Capitalize(TYPE)='Return',0,\n     IF(Capitalize(TYPE)='Export Credit',GrossExpcred,\n     GrossEx))) as GrossFin,\n     If(Discount>0 or Discount<0,1,0) as DiscountInd,\n     num(TRANS_DATE2) as TRANS_DATE\nRESIDENT \n\tQlikViewUpdate;\n \n//------------------------------------------------------------------------------------------------\n\nleft join (QlikViewUpdate)\nload * resident RC2;\n\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "Tmp",
+            "Source Query": "NoConcatenate\nload * resident QlikViewUpdate\nwhere \"MAJOR_GROUP\"<>'EXPORTS';\n\ndrop table QlikViewUpdate;\n\nrename table Tmp to QlikViewUpdate;\n\ndrop field \"MAJOR_GROUP\" from QlikViewUpdate;\n\n// Tmp:\n// NoConcatenate\n// load CUST_ID&'-'&ITEM_ID&'-'&num(floor(TRANS_DATE))&'-'&INVOICE_NUMBER as SalesLink,\n// CUST_ID,\n// ITEM_ID,\n// TRANS_DATE,\n// INVOICE_NUMBER,\n// sum(GrossFin) as GrossFin,\n// sum(Weight) as Weight\n// resident QlikViewUpdate\n// group by CUST_ID,\n// ITEM_ID,\n// TRANS_DATE,\n// INVOICE_NUMBER;\n\n// drop table QlikViewUpdate;\n// rename table Tmp to QlikViewUpdate;\n\n\n//LIB CONNECT TO '196.6.3.46 - NewspageQA (cwwpvt_zaqlickviewadmin)';\n\n///$tab Monthly Sales\nlet vTDate=Today()-1;\n\n\n\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "MonthlySales",
+            "Source Query": "NoConcatenate\nLOAD\n    CUST_ID,\n    ITEM_ID,\n    TRANS_DATE,\n    TYPE as MonthTYPE,\n    GrossFin as MonthGrossFin,\n    GrossReturn as MonthGrossReturn,\n    Invoice as MonthInvoice,\n    Weight as MonthWeight,\n    AOPVal,\n    AOPVol,\n    AOPInvoiceVal,\n    CUST_ID&'-'&ITEM_ID&'-'&TRANS_DATE as MonthlyLink\nFROM [lib://QSData (cwwpvt_qlikviewdev3) (cwwpvt_zaqlickviewadmin)/QVD\\DailyDashboard\\MonthAndWeekSalesAndAOPLast2Months.qvd]\n(qvd)\nwhere not WildMatch(CUST_ID,419524,428140);\n\nleft join (MonthlySales)\nload * resident RC2;\n\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "Tmp",
+            "Source Query": "NoConcatenate\nload * resident MonthlySales\nwhere MAJOR_GROUP<>'EXPORTS';\n\ndrop table MonthlySales;\n\nrename table Tmp to MonthlySales;\n\ndrop field MAJOR_GROUP from MonthlySales;\n///$tab Orders To Be Delivered\n// OTBD:\n// LIB CONNECT TO '196.6.3.40 (NewsPage) (cwwpvt_zaqlickviewadmin)';\n\n// LOAD num(\"DELIVERY_DAY\") as TRANS_DATE,\n//     \"CUST_CD\" as CUST_ID,\n//     \"ORDER_NO\" as ORDER_NUMBER,\n//     \"ORDER_STATUS\" as OrderToBeDelStatus,\n// //    \"CREATE_DT\" as ORDER_DATE,\n//     \"PRD_CD\" as ITEM_ID,\n//     \"PRD_QTY\" as ORDERED_QTY,\n//     KGs as ORDERED_KG,\n//     \"GROSS_AMT\" as ORDERED_AMOUNT;\n// SQL SELECT \"DELIVERY_DAY\",\n//     \"CUST_CD\",\n//     \"ORDER_NO\",\n//     \"ORDER_STATUS\",\n//     \"CREATE_DT\",\n//     \"PRD_CD\",\n//      \"PRD_QTY\",\n//     KGs,\n//     \"GROSS_AMT\"\n// FROM \"SIMBA_DMS_LIVE\".dbo.\"vQliksense_OrdersToBeDelivered\";\n\n// OrdersToDeliver:\n// load TRANS_DATE,\n// CUST_ID,\n// ORDER_NUMBER,\n// ITEM_ID,\n// OrderToBeDelStatus,\n// TRANS_DATE&'-'&CUST_ID&'-'&ITEM_ID&'-'&ORDER_NUMBER&'-'&OrderToBeDelStatus as OrdersToDeliverLink,\n// sum(ORDERED_QTY) as ORDERED_QTY,\n// sum(ORDERED_KG) as ORDERED_KG,\n// sum(ORDERED_AMOUNT) as ORDERED_AMOUNT\n// resident OTBD\n// where not WildMatch(CUST_ID,419524,428140)\n// group by TRANS_DATE,\n// CUST_ID,\n// ITEM_ID,\n// OrderToBeDelStatus,\n// ORDER_NUMBER;\n\n// drop table OTBD;\n\n\n\n///$tab Last Estimate\n// LEMonthAndWeek:\n// LOAD\n//     \"Dimension\",\n//     DimensionValue,\n//     \"Measure\" as LastEstimate\n// FROM [lib://QSData (cwwpvt_qlikviewdev3) (cwwpvt_zaqlickviewadmin)/Excel\\SalesModel\\LE.xlsx]\n// (ooxml, embedded labels, table is LE)\n// where \"Dimension\"<>'DTS REGION';\n\n\n\n// LEMonthAndWeek:\n// LOAD DimensionValue as DTS_REGION,\n//     \"Measure\" as LastDTSEstimate\n// FROM [lib://QSData (cwwpvt_qlikviewdev3) (cwwpvt_zaqlickviewadmin)/Excel\\SalesModel\\LE.xlsx]\n// (ooxml, embedded labels, table is LE)\n// where \"Dimension\"='DTS REGION';\n\n\n///$tab JDA\n// JDATmp:\n// CrossTable(Date, JDACases, 3)\n// LOAD [DC MAP], \n//      [ITEM NUMBER] as ITEM_ID, \n//      [ITEM NAME], \n//      *\n// FROM\n// [\\\\11.69.64.36\\d$\\QS\\QSData\\Excel\\Daily Sales Report\\JDA DC *.xlsx]\n// (ooxml, embedded labels, table is Sheet2); \n\n\n\n// JDAtmp2:\n// NoConcatenate\n// load [DC MAP],\n// ITEM_ID,\n// num(num#(Date)) as TRANS_DATE,\n// JDACases,\n// Date&'-'&ITEM_ID&'-'&[DC MAP] as JDALink\n// resident JDATmp\n// where isnum(Date)=0;\n\n// drop table JDATmp;\n\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "JDAtmp2",
+            "Source Query": "NoConcatenate\nLOAD\n    \"DC MAP\",\n    ITEM_ID,\n    TRANS_DATE,\n    JDACases,\n    TRANS_DATE&'-'&ITEM_ID&'-'&[DC MAP] as JDALink\nFROM [lib://QSData (cwwpvt_qlikviewdev3) (cwwpvt_zaqlickviewadmin)/Excel/Daily Sales Report/JDASplit.qvd]\n(qvd); \n\n\n\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "Conversion",
+            "Source Query": "NoConcatenate\nLOAD distinct\n    num(PRD_CD) as ITEM_ID,\n//    CONV_FACTOR as CFactor,\n//    GROSS_WEIGHT as ConWeight,\n//    WEIGHT_UNIT as ConUnit,\n    (if(WEIGHT_UNIT='kg',GROSS_WEIGHT,(GROSS_WEIGHT* 0.001)))*CONV_FACTOR as ConFac\nFROM [lib://QSData (cwwpvt_qlikviewdev3) (cwwpvt_zaqlickviewadmin)/QVD\\MasterData\\MST_PRDUOM.qvd]\n(qvd)\nwhere     UOM_CD='CS';\n\n\n\n\n\nleft join (JDAtmp2)\nload * resident Conversion;\n\ndrop table Conversion;\n\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "JDA",
+            "Source Query": "load *,\n(JDACases*ConFac) as JDAValue\nresident JDAtmp2;\n\n\ndrop table JDAtmp2;\n\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "JDALink",
+            "Source Query": "NoConcatenate\nLoad distinct [DC MAP], \nITEM_ID,\nTRANS_DATE,\nJDALink\nresident JDA;\n\ndrop fields [DC MAP], ITEM_ID, TRANS_DATE from JDA;\n\n///$tab CWO\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "CWO",
+            "Source Query": "LOAD\n    [CWO - QTY_INVOICED],\n    [CWO - QTY_ORDER],\n    num(\"Date\") as TRANS_DATE,\n    \"Dimension - Product Code\" as ITEM_ID,\n    CUST_ID,\n    %CWO_ACT_INACT_LINK,\n    num(\"Date\")&'-'&\"Dimension - Product Code\" &'-'&CUST_ID as CWOLink\nFROM [lib://QSData (cwwpvt_qlikviewdev3) (cwwpvt_zaqlickviewadmin)/QVD/Consolidated - Sales View/Operations.qvd]\n(qvd)\nwhere not WildMatch(CUST_ID,419524,428140) and YEAR(\"Date\")=$(vYear) and num(month(\"Date\"))=$(vMonthnum); \n\nleft join (CWO)\nload * resident RC2;\n\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "Tmp",
+            "Source Query": "NoConcatenate\nload * resident CWO\nwhere MAJOR_GROUP<>'EXPORTS';\n\ndrop table CWO;\n\nrename table Tmp to CWO;\n\ndrop field MAJOR_GROUP from CWO;\ndrop table RC2;\n\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "LinkTableCWO",
+            "Source Query": "NoConcatenate\nload distinct TRANS_DATE,\nCUST_ID,\nITEM_ID,\nCWOLink\nresident CWO;\n\ndrop fields TRANS_DATE,\nCUST_ID,\nITEM_ID from CWO;\n\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "CWO_STATUS",
+            "Source Query": "NoConcatenate\nLOAD distinct\n    CWO_Status,\n    %CWO_ACT_INACT_LINK\nFROM [lib://QSData (cwwpvt_qlikviewdev3) (cwwpvt_zaqlickviewadmin)/QVD/Consolidated - Sales View/CWO_Status.qvd]\n(qvd);\n\n\n\n///$tab CDC Key\n// Data2:\n// LOAD\n//     DDATE as DDATE,\n//     Num(date#(left(RPROUTE,8),'YYYYMMDD')) as NumDateP,\n//     num(Date#(DDATE, 'DD-MMM-YYYY')) as NumDate,\n//     right(RPROUTE,6) as ROUTEID,\n//     STATUS,\n//     ORDER_ID,\n//     \"Customer ID\" as CUST_ID,\n// //    SHIP_DOCK,\n// //    RPROUTE,\n//     SKU_ID as ITEM_ID,\n//     QTYORDERED,\n// //    QTYTASKED,\n// //    QTYPICKED,\n// //    PALLETSPICKED,\n// //    PALLETSOUT,\n// //    FULFILLED,\n// //    RATIO_1_TO_2,\n// //    Plant,\n//     CustomerName as CustomerNameVR\n// //    if(Left(ORDER_ID,2) = 'SO','SO', if(Left(ORDER_ID,2) = 'VQ','VQ',if(Left(ORDER_ID,2) = 'IF','IF'))) as Bucket,\n// //      if(today()-Num(Date#(DDATE, 'DD-MMM-YYYY')) <= 2 ,'0-2 Days', \n// //    if(today()-Num(Date#(DDATE, 'DD-MMM-YYYY')) >2 and today()-Num(Date#(DDATE, 'DD-MMM-YYYY')) <= 5 ,'3-5 Days',\n//     //if(today() - CREATE_DT >5 and today() - CREATE_DT <= 10 ,'6-10 Days',\n// //    if(today()-Num(Date#(DDATE, 'DD-MMM-YYYY')) > 5 ,'Greater than 5 Days'))) as AgeBucket\n//     //'Primary' as Primary,\n//    // 'Van Request' As VanRequest\n// FROM [lib://QSData (cwwpvt_qlikviewdev3) (cwwpvt_zaqlickviewadmin)/QVD\\CDCKeyAccount\\IsandoOrderMan.qvd]\n// (qvd);\n\n// MyDays:\n// NoConcatenate\n// load distinct NumDate as DDate2\n// resident Data2\n// where wildmatch(STATUS,'Released','Allocated','In Progress','Picked');\n\n// Data:\n// NoConcatenate\n// load * resident Data2\n// where exists(DDate2, NumDate);\n\n// drop table Data2;\n// drop table MyDays;\n\n// //exit script;\n\n// Data2:\n// NoConcatenate\n// LOAD\n//     DDATE as DDATE,\n// //    date(date#(left(RPROUTE,8),'YYYYMMDD'),'YYYY/MM/DD') as DDATE,\n//     Num(date#(left(RPROUTE,8),'YYYYMMDD')) as NumDateP,\n//     num(Date#(DDATE, 'DD-MMM-YYYY')) as NumDate,\n//     right(RPROUTE,6) as ROUTEID,\n//     STATUS,\n//     upper(ORDER_ID) as ORDER_ID,\n//     \"Customer ID\" as CUST_ID,\n// //    SHIP_DOCK,\n//     SKU_ID as ITEM_ID,\n//     QTYORDERED,\n// //     RPROUTE,\n// //     QTYTASKED,\n// //     QTYPICKED,\n// //     PALLETSPICKED,\n// //     PALLETSOUT,\n// //     FULFILLED,\n// //     RATIO_1_TO_2,\n// //     Plant,\n//      CustomerName as CustomerNameVR\n// //     if(Left(ORDER_ID,2) = 'SO','SO', if(Left(ORDER_ID,2) = 'VQ','VQ',if(Left(ORDER_ID,2) = 'IF','IF'))) as Bucket,\n// //       if(today()-Num(Date#(DDATE, 'DD-MMM-YYYY')) <= 2 ,'0-2 Days', \n// //     if(today()-Num(Date#(DDATE, 'DD-MMM-YYYY')) >2 and today()-Num(Date#(DDATE, 'DD-MMM-YYYY')) <= 5 ,'3-5 Days',\n// //     //if(today() - CREATE_DT >5 and today() - CREATE_DT <= 10 ,'6-10 Days',\n// //     if(today()-Num(Date#(DDATE, 'DD-MMM-YYYY')) > 5 ,'Greater than 5 Days'))) as AgeBucket\n//     //'Primary' as Primary,\n//    // 'Van Request' As VanRequest\n// FROM [lib://QSData (cwwpvt_qlikviewdev3) (cwwpvt_zaqlickviewadmin)/QVD\\CDCKeyAccount\\ParowOrderMan.qvd]\n// (qvd);\n\n// MyDays:\n// NoConcatenate\n// load distinct NumDate as DDate2\n// resident Data2\n// where wildmatch(STATUS,'Released','Allocated','In Progress','Picked');\n\n// Data3:\n// NoConcatenate\n// load * resident Data2\n// where exists(DDate2, NumDate);\n\n// drop table Data2;\n// drop table MyDays;\n\n\n// concatenate(Data)\n// LOAD * resident Data3;\n\n// drop table Data3;\n\n// Data2:\n// NoConcatenate\n// LOAD\n//     DDATE as DDATE,\n// //    date(date#(left(RPROUTE,8),'YYYYMMDD'),'YYYY/MM/DD') as DDATE,\n//     Num(date#(left(RPROUTE,8),'YYYYMMDD')) as NumDateP,\n//     num(Date#(DDATE, 'DD-MMM-YYYY')) as NumDate,\n//     right(RPROUTE,6) as ROUTEID,\n//     STATUS,\n//     ORDER_ID,\n//     \"Customer ID\" as CUST_ID,\n// //    SHIP_DOCK,\n//     SKU_ID as ITEM_ID,\n//     QTYORDERED,\n// //     RPROUTE,\n// //     QTYTASKED,\n// //     QTYPICKED,\n// //     PALLETSPICKED,\n// //     PALLETSOUT,\n// //     FULFILLED,\n// //     RATIO_1_TO_2,\n// //     Plant,\n//      CustomerName as CustomerNameVR\n// //     if(Left(ORDER_ID,2) = 'SO','SO', if(Left(ORDER_ID,2) = 'VQ','VQ',if(Left(ORDER_ID,2) = 'IF','IF'))) as Bucket,\n// //       if(today()-Num(Date#(DDATE, 'DD-MMM-YYYY')) <= 2 ,'0-2 Days', \n// //     if(today()-Num(Date#(DDATE, 'DD-MMM-YYYY')) >2 and today()-Num(Date#(DDATE, 'DD-MMM-YYYY')) <= 5 ,'3-5 Days',\n// //     //if(today() - CREATE_DT >5 and today() - CREATE_DT <= 10 ,'6-10 Days',\n// //     if(today()-Num(Date#(DDATE, 'DD-MMM-YYYY')) > 5 ,'Greater than 5 Days'))) as AgeBucket\n//     //'Primary' as Primary,\n//    // 'Van Request' As VanRequest\n// FROM [lib://QSData (cwwpvt_qlikviewdev3) (cwwpvt_zaqlickviewadmin)/QVD\\CDCKeyAccount\\PinetownOrderMan.qvd]\n// (qvd);\n\n// MyDays:\n// NoConcatenate\n// load distinct NumDate as DDate2\n// resident Data2\n// where wildmatch(STATUS,'Released','Allocated','In Progress','Picked');\n\n// Data3:\n// NoConcatenate\n// load * resident Data2\n// where exists(DDate2, NumDate);\n\n// drop table Data2;\n// drop table MyDays;\n\n\n// concatenate(Data)\n// LOAD * resident Data3;\n\n// drop table Data3;\n\n// Facttmp:\n// Noconcatenate\n// LOAD\n//  //   DDATEOld,\n//  NumDate+2 as TRANS_DATE,\n// //    date(NumDate,'YYYY/MM/DD') as DDATE,\n//     date(NumDate+if(weekday(NumDate)=4,3,2),'YYYY/MM/DD') as DelDATE,\n//     WeekDay(NumDate+if(weekday(NumDate)=4,3,if(weekday(NumDate)=3,4,2))) as CalDelDATE,\n//     NumDate,\n//     NumDateP,\n//     NumDateP-NumDate as DaysToPick,\n// //    Year(NumDate) as Year,\n// //    Month(NumDate) as Month,\n// //    left(RPROUTE,6) as YearMonth,\n// //    num(Week(NumDate)) as Week,\n// //    Year(NumDate)&if(num(Week(NumDate))<10,'0')&num(Week(NumDate)) as YearWeek,\n// //    WeekDay(NumDate) as CalDay,\n// //    ROUTEID,\n//     STATUS as CDCSTATUS,\n//     ORDER_ID as CDCORDER_ID,\n//     num(\"CUST_ID\")as CUST_ID,\n// //    SHIP_DOCK,\n//     num(ITEM_ID) as ITEM_ID,\n//     QTYORDERED,\n// //     QTYTASKED,\n// //     QTYPICKED,\n// //     RPROUTE,\n// //     PALLETSPICKED,\n// //     PALLETSOUT,\n// //     FULFILLED,\n// //     RATIO_1_TO_2,\n// //     Plant,\n// //     Bucket,\n// //    // if(Left(ORDER_ID,2) = 'SO','KA', if(Left(ORDER_ID,2) = 'VR','VR','IF')) as Category,\n// //    //  'Primary' as Primary,\n// //     // 'Van Request' As VanRequest\n//    CustomerNameVR\n// //   AgeBucket\n// resident Data\n// where left(ROUTEID,3)<>'EXP';\n// //where (WEEK1+(\"Shelf Life\"/7))-Week(Today())>0 and (WEEK1+(\"Shelf Life\"/7))-Week(Today())<=10;\n\n// drop table Data;\n\n\n\n\n\n\n\n\n\n\n\n\n\n\n///$tab Section\n// InvoicedQty:\n// LOAD\n//     upper(so_no) as CDCORDER_ID,\n//     INV_NO,\n//     INV_QTY\n// FROM [lib://QSData (cwwpvt_qlikviewdev3) (cwwpvt_zaqlickviewadmin)/QVD\\CDCKeyAccount\\InvoicedQty.qvd]\n// (qvd);\n\n// LeadDays:\n// NoConcatenate\n// LOAD\n//     ADDRESS_ID as CustomerNameVR,\n// //    USER_DEF_TYPE_2 as CustomerType,\n//     if(USER_DEF_TYPE_2='DC',1,\n//      if(USER_DEF_TYPE_2='BIN',2,0)) as LeadDays\n// FROM [lib://QSData (cwwpvt_qlikviewdev3) (cwwpvt_zaqlickviewadmin)/QVD\\CloseToExpiry\\LeadDayByAddressAndType.qvd]\n// (qvd);\n\n// left join (Facttmp)\n// load * resident LeadDays;\n\n// drop table LeadDays;\n\n// Fact:\n// NoConcatenate\n// load *,\n// //num(date(NumDate+LeadDays)) as TRANS_DATE,  \n// upper(date(NumDate+LeadDays,'DD-MMM-YYYY')) as DeliveryDate,\n//       if(today()-Num(Date#(upper(date(NumDate+LeadDays,'DD-MMM-YYYY')), 'DD-MMM-YYYY')) < 0 ,'Tomorrow', \n//     if(today()-Num(Date#(upper(date(NumDate+LeadDays,'DD-MMM-YYYY')), 'DD-MMM-YYYY')) =0 ,'Today',\n//     //if(today() - CREATE_DT >5 and today() - CREATE_DT <= 10 ,'6-10 Days',\n//     if(today()-Num(Date#(upper(date(NumDate+LeadDays,'DD-MMM-YYYY')), 'DD-MMM-YYYY')) >= 1 ,'Yesterday'))) as DeliveryDateAgeBucket,\n//      TRANS_DATE & '-' & CUST_ID& '-' & ITEM_ID & '-' &  CDCORDER_ID as OrderLink\n// resident Facttmp;\n\n// drop table Facttmp;\n\n\n// LinkTableCDC: \n// NoConcatenate\n// load distinct TRANS_DATE,\n// CUST_ID,\n// ITEM_ID, \n// //YearWeek,\n// //ORDER_ID,\n// OrderLink \n// Resident Fact;\n\n// drop fields  TRANS_DATE,\n// CUST_ID,\n// ITEM_ID \n// //ORDER_ID \n// From Fact;\n\n\n// // left join (LinkTable)\n// // load * resident InvoicedQty;\n\n// drop table InvoicedQty;\n///$tab LinkTable\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "LinkTable",
+            "Source Query": "NoConcatenate\nload distinct CUST_ID,\nITEM_ID,\nTDate as TRANS_DATE,\nOpenOrderLink\nresident OpenOrders;\n\ndrop fields CUST_ID, ITEM_ID, [Date(CREATE_DT)] , TDate from OpenOrders;\n\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "LinkTable2",
+            "Source Query": "NoConcatenate\nload distinct CUST_ID,\nITEM_ID,\nTRANS_DATE,\nSalesLink\nresident QlikViewUpdate;\n\n  drop fields CUST_ID, ITEM_ID, TRANS_DATE from QlikViewUpdate;\n\njoin (LinkTable)\nload * resident LinkTable2;\n\ndrop table LinkTable2;\n\njoin(LinkTable)\nload * resident LinkTableCWO;\n\ndrop table LinkTableCWO;\n\n// join (LinkTable)\n// load * resident LinkTableCDC;\n\n// drop table LinkTableCDC;\n\n// LinkTable3:\n// NoConcatenate\n// load distinct EDI_CWO_CUST_ID as CUST_ID,\n// ITEM_ID,\n// EDI_CWO_Date as TRANS_DATE,\n// [%EDI_LINK]\n// resident \"EDI and CWO\";\n\n// drop field ITEM_ID from \"EDI and CWO\";\n\n// join (LinkTable)\n// load * resident LinkTable3;\n\n// drop table LinkTable3;\n//exit script;\n\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "LinkTable4",
+            "Source Query": "NoConcatenate\nload distinct CUST_ID,\nITEM_ID,\nTRANS_DATE,\nMonthlyLink\nresident MonthlySales;\n\n  drop fields CUST_ID, ITEM_ID, TRANS_DATE from MonthlySales;\n\njoin (LinkTable)\nload * resident LinkTable4;\n\ndrop table LinkTable4;\n\n// LinkTable5:\n// NoConcatenate\n// load distinct CUST_ID,\n// ITEM_ID,\n// TRANS_DATE,\n// OrdersToDeliverLink\n// resident OrdersToDeliver;\n\n//   drop fields CUST_ID, ITEM_ID, TRANS_DATE from OrdersToDeliver;\n\n// join (LinkTable)\n// load * resident LinkTable5;\n\n// drop table LinkTable5;\n\n\n// SAPRoute:\n// NoConcatenate\n// LOAD distinct replace(replace(subfield([Customer - Customer Level 01 (Key)],'.',2),'[',''),']','') as KAM, \n//      replace(replace(subfield([Route - Route Level 01 (Key)],'.',2),'[',''),']','') as OriginalSAPRoute\n// FROM\n// [lib://QSData (cwwpvt_qlikviewdev3) (cwwpvt_zaqlickviewadmin)/QVD\\MasterData\\ESDOV0001-ZE_ESDOV0001_C000_00001.QVD]\n// (qvd);\n\n// SAPRouteNo:\n// NoConcatenate\n// LOAD distinct SLSMAN_CD as SAPRoute, \n//      USER_DEFINE3 As OriginalSAPRoute,\n//      USER_DEFINE2 As SAPDTSRegion,\n//      BU_CD\n// FROM\n// [lib://QSData (cwwpvt_qlikviewdev3) (cwwpvt_zaqlickviewadmin)/QVD\\MasterData\\MST_SLSMAN.qvd]\n// (qvd);\n\n// left join (SAPRoute)\n// load * resident SAPRouteNo;\n\n// drop table SAPRouteNo;\n\n// NewDTSRegions:\n// NoConcatenate\n// LOAD\n//     REF_PARAM as BU_CD,\n//     REF_VALUE as SAP_ROUTE_LOCATION\n// FROM [lib://QSData (cwwpvt_qlikviewdev3) (cwwpvt_zaqlickviewadmin)/QVD\\MasterData\\SET_REF.qvd]\n// (qvd);\n\n// left join (SAPRoute)\n// load * resident NewDTSRegions;\n\n// drop table NewDTSRegions;\n\n// left join (RouteCustomerDetails)\n// load * resident SAPRoute;\n\n// drop table SAPRoute;\n\n\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RC",
+            "Source Query": "NoConcatenate\nload distinct CUST_ID,\n//KAM,\nSAP_ROUTE_LOCATION, \n//DTS_REGION,\nSAPDTSRegion\nresident RouteCustomerDetails;\n\nleft join (LinkTable)\nload * resident RC;\n\ndrop table RC; \n\n//drop field ROUTE_LOCATION, DTS_REGION from RouteCustomerDetails;\n\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "DCMap",
+            "Source Query": "NoConcatenate\nLOAD distinct \n    DC as SAP_ROUTE_LOCATION,\n    \"DC MAP\" as [DC MAP]\nFROM [lib://QSData (cwwpvt_qlikviewdev3) (cwwpvt_zaqlickviewadmin)/Excel/Daily Sales Report/DC MAP - Daily Sales.xlsx]\n(ooxml, embedded labels, table is Sheet1);\n\nleft join (LinkTable)\nload * resident DCMap;\n\nleft join (JDALink)\nload * resident DCMap;\n\n\ndrop table DCMap; \n\n\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RC",
+            "Source Query": "NoConcatenate\nload distinct SAP_ROUTE_LOCATION, \n//DTS_REGION\nSAPDTSRegion\nresident RouteCustomerDetails;\n\nleft join (JDALink)\nload * resident RC;\n\ndrop table RC; \n\ndrop field SAP_ROUTE_LOCATION, SAPDTSRegion from RouteCustomerDetails;\n\n\njoin (LinkTable)\nload * resident JDALink;\n\ndrop table JDALink;  \n\n///$tab Calendar\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "Calendar",
+            "Source Query": "LOAD Distinct TRANS_DATE,\n\tTRANS_DATE as TRANSE_DATE2,\n\tyear(TRANS_DATE) AS YEAR, \n//\tqvQUARTER AS QUARTER, \n//\tqvPERIOD AS PERIOD, \n\tmonth(TRANS_DATE) AS MONTH,\n    num(month(TRANS_DATE)) as MONTHNO,\n\tweek(TRANS_DATE) AS WEEK,\n    weekday(TRANS_DATE) As WEEKDAY,\n    date(TRANS_DATE,'YYYYMM') as YEARMONTH,\n    num(year(TRANS_DATE)&if(week(TRANS_DATE)<10,'0')&week(TRANS_DATE)) as YEARWEEK, \n//\tWEEK(TRANS_DATE1) as WEEK,\n\ttext(date(TRANS_DATE,'YYYY/MM/DD')) as TRANS_DATE_LINK\nRESIDENT \n\tLinkTable;\n    \n//     Calendar:\n//     load *,\n//     num(date#(TRANS_DATE2)) as TRANS_DATE\n//     resident Tmp;\n    \n//     drop table Tmp;\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "    Tmp",
+            "Source Query": "LOAD Ltrim(Rtrim(Upper(MAJOR_GROUP))) as MAJOR_GROUP, \n     CATEGORY\nFROM\n[$(vFilePath2)/Category vs major grp mapping.xls]\n(biff, embedded labels, table is [New Mapping$]);\n\n//------------------------------------------------------------------------------------------------\nleft join (RouteCustomerDetails)\nload * \n,'Domestic' as INTER_COMPANY\nresident \n\tTmp;\n\ndrop table Tmp;\n\n//------------------------------------------------------------------------------------------------\n// Left Join (RouteCustomerDetails)\n// LOAD CUST_ID,\n// \tIF(CUST_ID = '419524' or CUST_ID = '428140', 'Exports', 'Domestic') AS INTER_COMPANY\n// Resident \n// \tRouteCustomerDetails;\n\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "Tmp",
+            "Source Query": "NoConcatenate\nload * resident RouteCustomerDetails\nwhere not WildMatch(CUST_ID,419524,428140);\n\ndrop table RouteCustomerDetails;\nrename table Tmp to RouteCustomerDetails;\n///$tab Route Comms\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "RouteComms",
+            "Source Query": "\nLIB CONNECT TO '196.6.3.40 (NewsPage) (cwwpvt_zaqlickviewadmin)';\n\nLOAD \"ROUTE_COUNT\",\n    COMMUNICATED,\n    Perc;\nSQL SELECT \"ROUTE_COUNT\",\n    COMMUNICATED,\n    Perc\nFROM \"SIMBA_DMS_LIVE\".dbo.\"vQlikSense_RouteComms\";\n\n\n\n///$tab Public Holiday\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "TMP",
+            "Source Query": "LOAD \nPublicHolidays\nFROM\n[$(vFilePath)/PublicHolidays.xlsx]\n(ooxml, embedded labels, table is Sheet1);\n\n\n"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Table Name": "PublicHolidays",
+            "Source Query": "NoConcatenate load\n*,\nMakeDate(right(PublicHolidays,4),mid(PublicHolidays,4,2),left(PublicHolidays,2)) as PubDate\nresident TMP;\n\ndrop table TMP;\n///$tab exit script\nexit script;\n"
+        },
+        {
+            "Dashboard Name": "CIC KPI Dashboard Loader",
+            "Table Name": "vQliksense_CIC_HitRate:",
+            "Source Query": "LOAD *;\nSQL SELECT *\nFROM \"SIMBA_DMS_LIVE\".dbo.\"vQlikSense_CIC_HitRate_v1\";\n\nstore * from vQliksense_CIC_HitRate into [lib://QSData (cwwpvt_qlikviewdev3) (cwwpvt_zaqlickviewadmin)/QVD/CIC KPI Dashboard\\vQliksense_CIC_HitRate.qvd] (qvd);\ndrop table vQliksense_CIC_HitRate;\n///$tab vQliksense_CIC_StrikeRate\n"
+        },
+        {
+            "Dashboard Name": "CIC KPI Dashboard Loader",
+            "Table Name": "vQliksense_CIC_StrikeRate",
+            "Source Query": "LOAD *;\nSQL SELECT *\nFROM \"SIMBA_DMS_LIVE\".dbo.\"vQlikSense_CIC_StrikeRate_v1\";\n\nstore * from vQliksense_CIC_StrikeRate into [lib://QSData (cwwpvt_qlikviewdev3) (cwwpvt_zaqlickviewadmin)/QVD/CIC KPI Dashboard\\vQliksense_CIC_StrikeRate.qvd] (qvd);\ndrop table vQliksense_CIC_StrikeRate;\n///$tab vQliksense_CIC_Upselling_NPd\n"
+        },
+        {
+            "Dashboard Name": "CIC KPI Dashboard Loader",
+            "Table Name": "vQliksense_CIC_Upselling_NPD",
+            "Source Query": "LOAD *;\nSQL SELECT *\nFROM \"SIMBA_DMS_LIVE\".dbo.\"vQlikSense_CIC_Upselling_NPD\";\n\nstore * from vQliksense_CIC_Upselling_NPD into [lib://QSData (cwwpvt_qlikviewdev3) (cwwpvt_zaqlickviewadmin)/QVD/CIC KPI Dashboard\\vQliksense_CIC_Upselling_NPD.qvd] (qvd);\ndrop table vQliksense_CIC_Upselling_NPD;\n///$tab Telesales\n"
+        },
+        {
+            "Dashboard Name": "CIC KPI Dashboard Loader",
+            "Table Name": "TelepersonAssigned",
+            "Source Query": "LOAD \"CUST_CD\",\n    \"VISIT_FREQUENCY\",\n    \"Assigned_To\";\nSQL SELECT \"CUST_CD\",\n    \"VISIT_FREQUENCY\",\n    \"Assigned_To\"\nFROM \"SIMBA_DMS_LIVE\".dbo.\"DB_NOD_NDD_VISIT_FREQUENCY\";\n\nstore * from TelepersonAssigned into\n[lib://QSData (cwwpvt_qlikviewdev3) (cwwpvt_zaqlickviewadmin)/QVD/Telesales/TelepersonAssigned.QVD]\n(qvd);\n\ndrop table TelepersonAssigned;\n\n"
+        },
+        {
+            "Dashboard Name": "CIC KPI Dashboard Loader",
+            "Table Name": "TelesalePerson",
+            "Source Query": "LOAD Id,\n    \"PERSON_CD\",\n    \"PERSON_NAME\",\n    STATUS,\n    \"EMAIL_ADDRESS\";\nSQL SELECT Id,\n    \"PERSON_CD\",\n    \"PERSON_NAME\",\n    STATUS,\n    \"EMAIL_ADDRESS\"\nFROM \"SIMBA_DMS_LIVE\".dbo.\"DB_TEL_SALES_PERSON\";\n\nstore * from TelesalePerson into\n[lib://QSData (cwwpvt_qlikviewdev3) (cwwpvt_zaqlickviewadmin)/QVD/Telesales/TelesalePerson.QVD]\n(qvd);\n\ndrop table TelesalePerson;\n"
+        },
+        {
+            "Dashboard Name": "Test App",
+            "Table Name": "[LiteracyRate]:",
+            "Source Query": "LOAD\n\t[State Code],\n\t[State Name],\n\t[District Code],\n\t[Name of Urban Agglomeration/City],\n\t[Level],\n\t[Population],\n\t[Population(Male)],\n\t[Population(Female)],\n\t[0-6 Population],\n\t[Literates],\n\t[Literates(Male)],\n\t[Literates(Female)],\n\t[Sex Ratio],\n\t[Child Sex Ratio (0-6 Years],\n\t[Effective Literacy Rate (7+ Pop)],\n\t[Literacy Rate(Male)],\n\t[Literacy Rate (Female)]\n FROM [lib://DataFiles/Literacy.xlsx]\n(ooxml, embedded labels, table is LiteracyRate);\n"
+        }
+    ]
+}
