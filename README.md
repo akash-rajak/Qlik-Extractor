@@ -1,6 +1,13 @@
 # ✔ Qlik Extractor
 - A python tool to extract the metadata from the Qlik Reports.
 
+[Loaded from: ~\OneDrive - MAQ Software\Documents\Akash Rajak\Learning\Project\Chrome Extension\Github-Repo-Stats](file:///C:/Users/MAQ/OneDrive%20-%20MAQ%20Software/Documents/Akash%20Rajak/Learning/Project/Chrome%20Extension/Github-Repo-Stats)
+
+[Loaded from: Chrome Extension/Github-Repo-Stats](/Chrome%20Extension/Github-Repo-Stats)
+
+
+
+
 ****
 
 ### How the tool works:
