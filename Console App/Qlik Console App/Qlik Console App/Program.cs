@@ -87,6 +87,7 @@ namespace demo1
                 using (StreamReader reader = process.StandardOutput)
                 {
                     Console.WriteLine("Extraction Started");
+                    Console.WriteLine("Report Name : " + app_input);
 
                     string result = reader.ReadToEnd();
                     Console.WriteLine(result);

@@ -104,40 +104,67 @@ def main(app_input):
                 for idx1 in range(idx+1, len(rows)):
 
                     ## DATA SOURCES -----------------------------------------------------------------------
-                    if len(rows[idx1])>=4 and (rows[idx1][0:4]=='[lib'):
+                    if len(rows[idx1])>=4 and '[lib' in rows[idx1]:
                         # print(rows[idx1])
                         qlik_script_line = rows[idx1]
 
                         # Extract the Connection Name
-                        connection_name_match = re.search(r'lib://(\w+)', qlik_script_line)
-                        connection_name = connection_name_match.group(1)
+                        connection_name = "NA"
+                        try:
+                            connection_name_match = re.search(r'lib://(\w+)', qlik_script_line)
+                            connection_name = connection_name_match.group(1)
+                        except:
+                            pass
 
                         # Extract the Connection ID
-                        connection_id_match = re.search(r'\((\w+)', qlik_script_line)
-                        connection_id = connection_id_match.group(1)
+                        connection_id = "NA"
+                        try:
+                            connection_id_match = re.search(r'\((\w+)', qlik_script_line)
+                            connection_id = connection_id_match.group(1)
+                        except:
+                            pass
 
                         # Extract the Data source
-                        data_source_match = re.search(r'\((.*?)\)', qlik_script_line)
-                        data_source = data_source_match.group(1)
+                        data_source = "NA"
+                        try:
+                            data_source_match = re.search(r'\((.*?)\)', qlik_script_line)
+                            data_source = data_source_match.group(1)
+                        except:
+                            pass
 
                         # Extract the Data source type
-                        data_source_type_match = re.search(r'lib://\w+\s\((\w+)', qlik_script_line)
-                        data_source_type = data_source_type_match.group(1)
+                        data_source_type = "NA"
+                        try:
+                            data_source_type_match = re.search(r'lib://\w+\s\((\w+)', qlik_script_line)
+                            data_source_type = data_source_type_match.group(1)
+                        except:
+                            pass
 
                         # Extract the Table name
                         table_name_match = ""
-                        if "qvd" in qlik_script_line:
-                            table_name_match = re.search(r'\\(.+?)\.qvd', qlik_script_line)
-                        elif "QVD" in qlik_script_line:
-                            table_name_match = re.search(r'\\(.+?)\.QVD', qlik_script_line)
-                        else:
+                        try:
+                            if "qvd" in qlik_script_line:
+                                table_name_match = re.search(r'\\(.+?)\.qvd', qlik_script_line)
+                            elif "QVD" in qlik_script_line:
+                                table_name_match = re.search(r'\\(.+?)\.QVD', qlik_script_line)
+                            elif "xlsx" in qlik_script_line:
+                                table_name_match = re.search(r'\[.*/(.+?)\.xlsx\]', qlik_script_line)
+                            else:
+                                pass
+                        except:
                             pass
 
-                        table_name = ""
-                        if table_name_match==None:
-                            table_name = "None"
-                        else:
+                        table_name = "NA"
+                        try:
                             table_name = table_name_match.group(1)
+                        except:
+                            pass
+                        # print(app_name)
+                        # print(connection_name)
+                        # print(connection_id)
+                        # print(data_source)
+                        # print(data_source_type)
+                        # print(table_name)
                         data["dataSource"].append({"Dashboard Name": app_name, "Connection Name": connection_name, "Connection ID": connection_id, "Data Source": data_source, "Data Source Type": data_source_type, "Table Name": table_name})
 
 
@@ -348,8 +375,9 @@ def main(app_input):
     # print('Directory Name:     ', os.path.dirname(__file__))
     os.chdir(os.path.dirname(__file__))
 
+    # print("Excel Directory :", os.getcwd())
     # Create an Excel writer using openpyxl as the engine
-    writer = pd.ExcelWriter('Qlik_Extractor.xlsx', engine='openpyxl')
+    writer = pd.ExcelWriter(app_input + '.xlsx', engine='openpyxl')
 
     # Write each dataframe to a separate sheet
     dashBoard_frame.to_excel(writer, sheet_name='Dashboard', index=False)
@@ -400,8 +428,9 @@ def main(app_input):
     # Convert the data dictionary to a JSON string
     output_json = json.dumps(data, indent=4)
 
+    print("JSON Directory :", os.getcwd())
     # Save the JSON string to a file
-    with open('Qlik_Extractor.json', 'w') as file:
+    with open(app_input + '.json', 'w') as file:
         file.write(output_json)
 
 if __name__ == '__main__':

@@ -1,0 +1,732 @@
+{
+    "dashBoard": [
+        {
+            "Dashboard ID": "92309bed-7e93-4410-804d-69a5f44d3732",
+            "Dashboard Name": "Demo App - Pharma Sales"
+        }
+    ],
+    "dataSource": [],
+    "tableColumn": [
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Products            ",
+            "Table Columns": "Product_Id"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Products            ",
+            "Table Columns": "Qlik Brands"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Products            ",
+            "Table Columns": "Products"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Products            ",
+            "Table Columns": "Flag Qlikazine"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Products            ",
+            "Table Columns": "Flag Qlikastat"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "QlikBrands          ",
+            "Table Columns": "Qlik Brands"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "QlikBrands          ",
+            "Table Columns": "Qlik Brands Name"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Rxs                 ",
+            "Table Columns": "Product_Id"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Rxs                 ",
+            "Table Columns": "RxFactId"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Rxs                 ",
+            "Table Columns": "NRx"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Rxs                 ",
+            "Table Columns": "TRx"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Markets             ",
+            "Table Columns": "Product_Id"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Markets             ",
+            "Table Columns": "Market_Id"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Markets             ",
+            "Table Columns": "Markets"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Visits              ",
+            "Table Columns": "CallFactId"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Visits              ",
+            "Table Columns": "_D"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Visits              ",
+            "Table Columns": "_SA"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Visits              ",
+            "Table Columns": "_SE"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Visits              ",
+            "Table Columns": "_SXA"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "GeoPoint            ",
+            "Table Columns": "PersonId"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "GeoPoint            ",
+            "Table Columns": "MakePoint"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Metric Rxs          ",
+            "Table Columns": "Rx Metrics"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Metric Rxs          ",
+            "Table Columns": "Rx Metric Value"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Employees           ",
+            "Table Columns": "Territory Number"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Employees           ",
+            "Table Columns": "Regional Director"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Employees           ",
+            "Table Columns": "Territory Manager"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Call Priorities     ",
+            "Table Columns": "Call Priority"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Dates               ",
+            "Table Columns": "DateLink"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Dates               ",
+            "Table Columns": "Weeks"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Dates               ",
+            "Table Columns": "Year"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Dates               ",
+            "Table Columns": "Quarter"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Dates               ",
+            "Table Columns": "Month"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Dates               ",
+            "Table Columns": "Date"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Dates               ",
+            "Table Columns": "MonthYear"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "LinkTable           ",
+            "Table Columns": "RxFactId"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "LinkTable           ",
+            "Table Columns": "CallFactId"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "LinkTable           ",
+            "Table Columns": "PersonId"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "LinkTable           ",
+            "Table Columns": "Territory Number"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "LinkTable           ",
+            "Table Columns": "DateLink"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "LinkTable           ",
+            "Table Columns": "FactId"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Physicians_2020     ",
+            "Table Columns": "PersonId"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Physicians_2020     ",
+            "Table Columns": "Call Priority"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Physicians_2020     ",
+            "Table Columns": "HCP"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Physicians_2020     ",
+            "Table Columns": "Address"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Physicians_2020     ",
+            "Table Columns": "City"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Physicians_2020     ",
+            "Table Columns": "ST"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Physicians_2020     ",
+            "Table Columns": "Zip"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Physicians_2020     ",
+            "Table Columns": "Mapped Target Status"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Physicians_2020     ",
+            "Table Columns": "latitude"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Physicians_2020     ",
+            "Table Columns": "longitude"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Physicians_2020     ",
+            "Table Columns": "Prescriber Count"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Physicians_2020     ",
+            "Table Columns": "Max Visit Weeks"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Physicians_2020     ",
+            "Table Columns": "Market Decile"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Physicians_2020     ",
+            "Table Columns": "Qlikazine Decile"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Physicians_2020     ",
+            "Table Columns": "Prod. Decile"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Physicians_2020     ",
+            "Table Columns": "Decile Category"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Physicians_2020     ",
+            "Table Columns": "Call Priority Sort"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "Physicians_2020     ",
+            "Table Columns": "Last Visit Weeks"
+        }
+    ],
+    "sheets": [
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Product Profile"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Prescriber Profile"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Qlik Brands Performance"
+        }
+    ],
+    "measuresDimension": [
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Product Profile",
+            "Chart Name": "table",
+            "Flag": "Dimension",
+            "Measure/Dimension": [
+                "Products"
+            ],
+            "Equivalent DAX": "No DAX"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Product Profile",
+            "Chart Name": "table",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "sum(TRx) + Sum(NRx)"
+            ],
+            "Equivalent DAX": "\n\nSUMX(SUMMARIZE('Table','Table'[Column],'Table'[Column2]),[TRx]+[NRx])"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Product Profile",
+            "Chart Name": "table",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "(SUM(NRx) + SUM(TRx))/ (SUM(TOTAL TRx) + SUM(TOTAL NRx))"
+            ],
+            "Equivalent DAX": "\n\n=DIVIDE(SUM(NRx) + SUM(TRx), SUMX(TOTAL, NRx) + SUMX(TOTAL, TRx))"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Product Profile",
+            "Chart Name": "table",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "(SUM(NRx) + SUM(TRx))/ (SUM(TOTAL TRx) + SUM(TOTAL NRx))"
+            ],
+            "Equivalent DAX": "\n\n=DIVIDE(SUM(NRx) + SUM(TRx), SUMX(TOTAL, NRx) + SUMX(TOTAL, TRx))"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Product Profile",
+            "Chart Name": "piechart",
+            "Flag": "Dimension",
+            "Measure/Dimension": [
+                "Products"
+            ],
+            "Equivalent DAX": "No DAX"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Product Profile",
+            "Chart Name": "piechart",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "Sum(NRx)+Sum(TRx)"
+            ],
+            "Equivalent DAX": "\n\nSUMX(SUMMARIZE(TableName,TableName[ColumnName], \"NRxTotal\", SUM(TableName[NRx]), \"TRxTotal\", SUM(TableName[TRx])), [NRxTotal]+[TRxTotal])"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Product Profile",
+            "Chart Name": "scatterplot",
+            "Flag": "Dimension",
+            "Measure/Dimension": [
+                "Decile Category"
+            ],
+            "Equivalent DAX": "No DAX"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Product Profile",
+            "Chart Name": "scatterplot",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "num(sum(_D)/sum([Prescriber Count]),'#,##0')"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(SUM(_D)/SUM([Prescriber Count]), \"#,##0\")"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Product Profile",
+            "Chart Name": "scatterplot",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "Sum(NRx)+Sum(TRx)"
+            ],
+            "Equivalent DAX": "\n\nSUMX(SUMMARIZE(TableName,TableName[ColumnName], \"NRxTotal\", SUM(TableName[NRx]), \"TRxTotal\", SUM(TableName[TRx])), [NRxTotal]+[TRxTotal])"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Product Profile",
+            "Chart Name": "scatterplot",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "count(HCP)"
+            ],
+            "Equivalent DAX": "\n\nCOUNTX(HCP)"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Product Profile",
+            "Chart Name": "barchart",
+            "Flag": "Dimension",
+            "Measure/Dimension": [
+                "Decile Category"
+            ],
+            "Equivalent DAX": "No DAX"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Product Profile",
+            "Chart Name": "barchart",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "Sum([Market Decile])"
+            ],
+            "Equivalent DAX": "\n\nSUMX(VALUES('Table'[Market]), 'Table'[Market Decile])"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Product Profile",
+            "Chart Name": "barchart",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "Sum([Prod. Decile])"
+            ],
+            "Equivalent DAX": "\n\nSUMX(VALUES('Product'[Decile]), [Prod. Decile])"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Product Profile",
+            "Chart Name": "gauge",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "count({$<[Decile Category] = {\"Loyalist\"}>} HCP)\n/\ncount(HCP)"
+            ],
+            "Equivalent DAX": "\nCOUNTA(FILTER(HCP, [Decile Category] = \"Loyalist\"))"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Product Profile",
+            "Chart Name": "filterpane",
+            "Measure/Dimension": "NA",
+            "Flag": "NA",
+            "Equivalent DAX": "NA"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Prescriber Profile",
+            "Chart Name": "table",
+            "Flag": "Dimension",
+            "Measure/Dimension": [
+                "HCP"
+            ],
+            "Equivalent DAX": "No DAX"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Prescriber Profile",
+            "Chart Name": "table",
+            "Flag": "Dimension",
+            "Measure/Dimension": [
+                "Market Decile"
+            ],
+            "Equivalent DAX": "No DAX"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Prescriber Profile",
+            "Chart Name": "table",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=If(ISNULL([Max Visit Weeks]), 'NA', Date([Max Visit Weeks]))"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(IF(ISBLANK([Max Visit Weeks]), \"NA\", DATE([Max Visit Weeks])), \"dd-MMM-yyyy\")"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Prescriber Profile",
+            "Chart Name": "table",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "=[Last Visit Weeks]  "
+            ],
+            "Equivalent DAX": "\n\nLASTDATE('Calendar'[Date])"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Prescriber Profile",
+            "Chart Name": "table",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "[Prod. Decile]"
+            ],
+            "Equivalent DAX": "\n\nRANKX(ALLSELECTED('Product'), [Sales], , DESC, DENSE)"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Prescriber Profile",
+            "Chart Name": "com-qliktech-wordcloud",
+            "Flag": "Dimension",
+            "Measure/Dimension": [
+                "HCP"
+            ],
+            "Equivalent DAX": "No DAX"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Prescriber Profile",
+            "Chart Name": "com-qliktech-wordcloud",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "Sum(NRx)+Sum(TRx)"
+            ],
+            "Equivalent DAX": "\n\nSUMX(SUMMARIZE(TableName,TableName[ColumnName], \"NRxTotal\", SUM(TableName[NRx]), \"TRxTotal\", SUM(TableName[TRx])), [NRxTotal]+[TRxTotal])"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Prescriber Profile",
+            "Chart Name": "map",
+            "Measure/Dimension": "NA",
+            "Flag": "NA",
+            "Equivalent DAX": "NA"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Prescriber Profile",
+            "Chart Name": "distributionplot",
+            "Flag": "Dimension",
+            "Measure/Dimension": [
+                "HCP"
+            ],
+            "Equivalent DAX": "No DAX"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Prescriber Profile",
+            "Chart Name": "distributionplot",
+            "Flag": "Dimension",
+            "Measure/Dimension": [
+                "Products"
+            ],
+            "Equivalent DAX": "No DAX"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Prescriber Profile",
+            "Chart Name": "distributionplot",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "Sum(NRx)+Sum(TRx)"
+            ],
+            "Equivalent DAX": "\n\nSUMX(SUMMARIZE(TableName,TableName[ColumnName], \"NRxTotal\", SUM(TableName[NRx]), \"TRxTotal\", SUM(TableName[TRx])), [NRxTotal]+[TRxTotal])"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Prescriber Profile",
+            "Chart Name": "container",
+            "Measure/Dimension": "NA",
+            "Flag": "NA",
+            "Equivalent DAX": "NA"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Prescriber Profile",
+            "Chart Name": "filterpane",
+            "Measure/Dimension": "NA",
+            "Flag": "NA",
+            "Equivalent DAX": "NA"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Qlik Brands Performance",
+            "Chart Name": "barchart",
+            "Flag": "Dimension",
+            "Measure/Dimension": [
+                "HCP"
+            ],
+            "Equivalent DAX": "No DAX"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Qlik Brands Performance",
+            "Chart Name": "barchart",
+            "Flag": "Dimension",
+            "Measure/Dimension": [
+                "=If([Qlik Brands]='1', 'Qlik Brand', 'Non Qlik Brand')\n//=[Qlik Brands]"
+            ],
+            "Equivalent DAX": "No DAX"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Qlik Brands Performance",
+            "Chart Name": "barchart",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "Sum(NRx)+Sum(TRx)"
+            ],
+            "Equivalent DAX": "\n\nSUMX(SUMMARIZE(TableName,TableName[ColumnName], \"NRxTotal\", SUM(TableName[NRx]), \"TRxTotal\", SUM(TableName[TRx])), [NRxTotal]+[TRxTotal])"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Qlik Brands Performance",
+            "Chart Name": "treemap",
+            "Flag": "Dimension",
+            "Measure/Dimension": [
+                "Qlik Brands Name"
+            ],
+            "Equivalent DAX": "No DAX"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Qlik Brands Performance",
+            "Chart Name": "treemap",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "Sum(NRx+TRx)/sum(total NRx+TRx)"
+            ],
+            "Equivalent DAX": "\n\nFORMAT(SUM(NRx + TRx) / SUM(NRx + TRx), \"0.00%\")"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Qlik Brands Performance",
+            "Chart Name": "scatterplot",
+            "Flag": "Dimension",
+            "Measure/Dimension": [
+                "Products"
+            ],
+            "Equivalent DAX": "No DAX"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Qlik Brands Performance",
+            "Chart Name": "scatterplot",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "Sum([NRx])"
+            ],
+            "Equivalent DAX": "\n\nSUMX(SUMMARIZE('TableName', [FieldName], \"NRx\", [NRx]), [NRx])"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Qlik Brands Performance",
+            "Chart Name": "scatterplot",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "sum(_D)"
+            ],
+            "Equivalent DAX": "\n\nSUMX(ALL('_D'), [_D])"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Qlik Brands Performance",
+            "Chart Name": "scatterplot",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "sum(_D)"
+            ],
+            "Equivalent DAX": "\n\nSUMX(ALL('_D'), [_D])"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Qlik Brands Performance",
+            "Chart Name": "filterpane",
+            "Measure/Dimension": "NA",
+            "Flag": "NA",
+            "Equivalent DAX": "NA"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Qlik Brands Performance",
+            "Chart Name": "filterpane",
+            "Measure/Dimension": "NA",
+            "Flag": "NA",
+            "Equivalent DAX": "NA"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Qlik Brands Performance",
+            "Chart Name": "linechart",
+            "Flag": "Dimension",
+            "Measure/Dimension": [
+                "MonthYear"
+            ],
+            "Equivalent DAX": "No DAX"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Qlik Brands Performance",
+            "Chart Name": "linechart",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "sum({$<[Qlik Brands] = {\"1\"}>}NRx)+sum({$<[Qlik Brands] = {\"1\"}>}TRx)"
+            ],
+            "Equivalent DAX": "\n\nSUMX (\n    FILTER (\n        ALL ( [Qlik Brands] ),\n        [Qlik Brands] = \"1\"\n    ),\n    [NRx] + [TRx]\n)"
+        },
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Sheet Title": "Qlik Brands Performance",
+            "Chart Name": "linechart",
+            "Flag": "Measure",
+            "Measure/Dimension": [
+                "sum({$<[Qlik Brands] -= {\"1\"}>}NRx)+sum({$<[Qlik Brands] -= {\"1\"}>}TRx)"
+            ],
+            "Equivalent DAX": "\n\nSUMX (\n    FILTER (\n        ALL ( [Qlik Brands] ),\n        [Qlik Brands] <> \"1\"\n    ),\n    [NRx] + [TRx]\n)"
+        }
+    ],
+    "dataSourceQuery": [
+        {
+            "Dashboard Name": "Demo App - Pharma Sales",
+            "Table Name": "NA",
+            "Source Query": "NA"
+        }
+    ]
+}

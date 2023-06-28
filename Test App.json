@@ -5,7 +5,16 @@
             "Dashboard Name": "Test App"
         }
     ],
-    "dataSource": [],
+    "dataSource": [
+        {
+            "Dashboard Name": "Test App",
+            "Connection Name": "DataFiles",
+            "Connection ID": "NA",
+            "Data Source": "NA",
+            "Data Source Type": "NA",
+            "Table Name": "Literacy"
+        }
+    ],
     "tableColumn": [
         {
             "Dashboard Name": "Test App",

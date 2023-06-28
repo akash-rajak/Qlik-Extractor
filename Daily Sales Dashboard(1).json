@@ -1,7 +1,7 @@
 {
     "dashBoard": [
         {
-            "Dashboard ID": "87335dd2-4d67-45b7-8849-d5e5e3680490",
+            "Dashboard ID": "8519b3ea-3715-405e-b4c7-3c88d96b4f6f",
             "Dashboard Name": "Daily Sales Dashboard(1)"
         }
     ],
@@ -21,6 +21,158 @@
             "Data Source": "cwwpvt_qlikviewdev3",
             "Data Source Type": "cwwpvt_qlikviewdev3",
             "Table Name": "MasterData\\MST_SLSMAN"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Connection Name": "QSData",
+            "Connection ID": "cwwpvt_qlikviewdev3",
+            "Data Source": "cwwpvt_qlikviewdev3",
+            "Data Source Type": "cwwpvt_qlikviewdev3",
+            "Table Name": "MasterData\\SET_REF"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Connection Name": "QSData",
+            "Connection ID": "cwwpvt_qlikviewdev3",
+            "Data Source": "cwwpvt_qlikviewdev3",
+            "Data Source Type": "cwwpvt_qlikviewdev3",
+            "Table Name": "MasterData\\vQlikSense_Product"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Connection Name": "QSData",
+            "Connection ID": "cwwpvt_qlikviewdev3",
+            "Data Source": "cwwpvt_qlikviewdev3",
+            "Data Source Type": "cwwpvt_qlikviewdev3",
+            "Table Name": "AOP 2021"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Connection Name": "QSData",
+            "Connection ID": "cwwpvt_qlikviewdev3",
+            "Data Source": "cwwpvt_qlikviewdev3",
+            "Data Source Type": "cwwpvt_qlikviewdev3",
+            "Table Name": "DailyDashboard\\MonthAndWeekSalesAndAOPLast2Months"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Connection Name": "QSData",
+            "Connection ID": "cwwpvt_qlikviewdev3",
+            "Data Source": "cwwpvt_qlikviewdev3",
+            "Data Source Type": "cwwpvt_qlikviewdev3",
+            "Table Name": "Excel\\SalesModel\\LE"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Connection Name": "QSData",
+            "Connection ID": "cwwpvt_qlikviewdev3",
+            "Data Source": "cwwpvt_qlikviewdev3",
+            "Data Source Type": "cwwpvt_qlikviewdev3",
+            "Table Name": "Excel\\SalesModel\\LE"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Connection Name": "QSData",
+            "Connection ID": "cwwpvt_qlikviewdev3",
+            "Data Source": "cwwpvt_qlikviewdev3",
+            "Data Source Type": "cwwpvt_qlikviewdev3",
+            "Table Name": "NA"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Connection Name": "QSData",
+            "Connection ID": "cwwpvt_qlikviewdev3",
+            "Data Source": "cwwpvt_qlikviewdev3",
+            "Data Source Type": "cwwpvt_qlikviewdev3",
+            "Table Name": "MasterData\\MST_PRDUOM"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Connection Name": "QSData",
+            "Connection ID": "cwwpvt_qlikviewdev3",
+            "Data Source": "cwwpvt_qlikviewdev3",
+            "Data Source Type": "cwwpvt_qlikviewdev3",
+            "Table Name": "NA"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Connection Name": "QSData",
+            "Connection ID": "cwwpvt_qlikviewdev3",
+            "Data Source": "cwwpvt_qlikviewdev3",
+            "Data Source Type": "cwwpvt_qlikviewdev3",
+            "Table Name": "NA"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Connection Name": "QSData",
+            "Connection ID": "cwwpvt_qlikviewdev3",
+            "Data Source": "cwwpvt_qlikviewdev3",
+            "Data Source Type": "cwwpvt_qlikviewdev3",
+            "Table Name": "CDCKeyAccount\\IsandoOrderMan"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Connection Name": "QSData",
+            "Connection ID": "cwwpvt_qlikviewdev3",
+            "Data Source": "cwwpvt_qlikviewdev3",
+            "Data Source Type": "cwwpvt_qlikviewdev3",
+            "Table Name": "CDCKeyAccount\\ParowOrderMan"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Connection Name": "QSData",
+            "Connection ID": "cwwpvt_qlikviewdev3",
+            "Data Source": "cwwpvt_qlikviewdev3",
+            "Data Source Type": "cwwpvt_qlikviewdev3",
+            "Table Name": "CDCKeyAccount\\PinetownOrderMan"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Connection Name": "QSData",
+            "Connection ID": "cwwpvt_qlikviewdev3",
+            "Data Source": "cwwpvt_qlikviewdev3",
+            "Data Source Type": "cwwpvt_qlikviewdev3",
+            "Table Name": "CDCKeyAccount\\InvoicedQty"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Connection Name": "QSData",
+            "Connection ID": "cwwpvt_qlikviewdev3",
+            "Data Source": "cwwpvt_qlikviewdev3",
+            "Data Source Type": "cwwpvt_qlikviewdev3",
+            "Table Name": "CloseToExpiry\\LeadDayByAddressAndType"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Connection Name": "QSData",
+            "Connection ID": "cwwpvt_qlikviewdev3",
+            "Data Source": "cwwpvt_qlikviewdev3",
+            "Data Source Type": "cwwpvt_qlikviewdev3",
+            "Table Name": "MasterData\\ESDOV0001-ZE_ESDOV0001_C000_00001"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Connection Name": "QSData",
+            "Connection ID": "cwwpvt_qlikviewdev3",
+            "Data Source": "cwwpvt_qlikviewdev3",
+            "Data Source Type": "cwwpvt_qlikviewdev3",
+            "Table Name": "MasterData\\MST_SLSMAN"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Connection Name": "QSData",
+            "Connection ID": "cwwpvt_qlikviewdev3",
+            "Data Source": "cwwpvt_qlikviewdev3",
+            "Data Source Type": "cwwpvt_qlikviewdev3",
+            "Table Name": "MasterData\\SET_REF"
+        },
+        {
+            "Dashboard Name": "Daily Sales Dashboard(1)",
+            "Connection Name": "QSData",
+            "Connection ID": "cwwpvt_qlikviewdev3",
+            "Data Source": "cwwpvt_qlikviewdev3",
+            "Data Source Type": "cwwpvt_qlikviewdev3",
+            "Table Name": "DC MAP - Daily Sales"
         }
     ],
     "tableColumn": [
@@ -805,7 +957,7 @@
             "Measure/Dimension": [
                 "=\r\nif(ValueList('AOP(T)','Delivery Orders(T)','Variance (Orders vs AOP)','Invoiced Volumes(T)','Variance (Invoice vs AOP)')='AOP(T)',\n((sum({<MONTHNO={$(vMaxMonth)}, CATEGORY-={'Exports'}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays)))),\nif(ValueList('AOP(T)','Delivery Orders(T)','Variance (Orders vs AOP)','Invoiced Volumes(T)','Variance (Invoice vs AOP)')='Delivery Orders(T)',\nsum({<TRANS_DATE={$(vMaxDate)}, CATEGORY-={'Exports'}>}[KG's]),\nif(ValueList('AOP(T)','Delivery Orders(T)','Variance (Orders vs AOP)','Invoiced Volumes(T)','Variance (Invoice vs AOP)')='Variance (Orders vs AOP)',\n(sum({<TRANS_DATE={$(vMaxDate)}, CATEGORY-={'Exports'}>}[KG's])-((sum({<MONTHNO={$(vMaxMonth)}, CATEGORY-={'Exports'}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays))))),\nif(ValueList('AOP(T)','Delivery Orders(T)','Variance (Orders vs AOP)','Invoiced Volumes(T)','Variance (Invoice vs AOP)')='Invoiced Volumes(T)',\nSum({<TRANS_DATE={$(vMaxDate)}, CATEGORY-={'Exports'}>}Weight),\nif(ValueList('AOP(T)','Delivery Orders(T)','Variance (Orders vs AOP)','Invoiced Volumes(T)','Variance (Invoice vs AOP)')='Variance (Invoice vs AOP)',\n(Sum({<TRANS_DATE={$(vMaxDate)}, CATEGORY-={'Exports'}>}Weight)-((sum({<MONTHNO={$(vMaxMonth)}, CATEGORY-={'Exports'}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays)))))\n)))))/1000\n\n"
             ],
-            "Equivalent DAX": "\n\nSWITCH(\n    VALUES('AOP(T)','Delivery Orders(T)','Variance (Orders vs AOP)','Invoiced Volumes(T)','Variance (Invoice vs AOP)'),\n    \"AOP(T)\", DIVIDE(\n        SUMX(\n            FILTER(\n                ALL('Monthly AOP'),\n                'Monthly AOP'[MONTHNO] = MAX('Calendar'[MonthNo])\n                && 'Monthly AOP'[CATEGORY-] <> \"Exports\"\n            ),\n            'Monthly AOP'[AOPVol]\n        ),\n        NETWORKDAYS.INTL(\n            STARTOFMONTH('Calendar'[Date]),\n            ENDOFMONTH('Calendar'[Date]),\n            $(vWorkingDays)\n        )\n    ),\n    \"Delivery Orders(T)\", SUMX(\n        FILTER(\n            ALL('Transaction'),\n            'Transaction'[TRANS_DATE] = MAX('Calendar'[Date])\n            && 'Transaction'[CATEGORY-]"
+            "Equivalent DAX": "\n\nSWITCH(\n VALUELIST('AOP(T)','Delivery Orders(T)','Variance (Orders vs AOP)','Invoiced Volumes(T)','Variance (Invoice vs AOP)'),\n 'AOP(T)', DIVIDE(\n    SUMX(\n        FILTER(\n            ALL('Table'),\n            'Table'[MONTHNO] = MAX('Table'[MONTHNO])\n                && 'Table'[CATEGORY] <> \"Exports\"\n        ),\n        'Table'[AOPVol]\n    ),\n    NETWORKDAYS.INTL(\n        STARTOFMONTH('Table'[Makedate]),\n        ENDOFMONTH('Table'[Makedate]),\n        $(vWorkingDays)\n    )\n),\n 'Delivery Orders(T)', DIVIDE(\n    SUMX(\n        FILTER(\n            ALL('Table'),\n            'Table'[TRANS_DATE] = MAX('Table'[TRANS_DATE])\n                && 'Table'[CATEGORY] <> \""
         },
         {
             "Dashboard Name": "Daily Sales Dashboard(1)",
@@ -815,7 +967,7 @@
             "Measure/Dimension": [
                 "=\r\nif(ValueList('AOP(T)','Delivery Orders(T)','Variance (Orders vs AOP)','Invoiced Volumes(T)','Variance (Invoice vs AOP)')='AOP(T)',\n((sum({<MONTHNO={$(vMaxMonth)}, CATEGORY-={'Exports'}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays)))),\nif(ValueList('AOP(T)','Delivery Orders(T)','Variance (Orders vs AOP)','Invoiced Volumes(T)','Variance (Invoice vs AOP)')='Delivery Orders(T)',\nsum({<TRANS_DATE={$(=$(vMaxDate)+1)}, CATEGORY-={'Exports'}>}[KG's]),\nif(ValueList('AOP(T)','Delivery Orders(T)','Variance (Orders vs AOP)','Invoiced Volumes(T)','Variance (Invoice vs AOP)')='Variance (Orders vs AOP)',\n(sum({<TRANS_DATE={$(=$(vMaxDate)+1)}, CATEGORY-={'Exports'}>}[KG's])-((sum({<MONTHNO={$(vMaxMonth)}, CATEGORY-={'Exports'}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays))))),\nif(ValueList('AOP(T)','Delivery Orders(T)','Variance (Orders vs AOP)','Invoiced Volumes(T)','Variance (Invoice vs AOP)')='Invoiced Volumes(T)',\nSum({<TRANS_DATE={$(=$(vMaxDate)+1)}, CATEGORY-={'Exports'}>}Weight),\nif(ValueList('AOP(T)','Delivery Orders(T)','Variance (Orders vs AOP)','Invoiced Volumes(T)','Variance (Invoice vs AOP)')='Variance (Invoice vs AOP)',\n(Sum({<TRANS_DATE={$(=$(vMaxDate)+1)}, CATEGORY-={'Exports'}>}Weight)-((sum({<MONTHNO={$(vMaxMonth)}, CATEGORY-={'Exports'}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays)))))\n)))))/1000\n"
             ],
-            "Equivalent DAX": "\n\nIF (\n    VALUES ( 'AOP(T)', 'Delivery Orders(T)', 'Variance (Orders vs AOP)', 'Invoiced Volumes(T)', 'Variance (Invoice vs AOP)' ) = 'AOP(T)',\n    DIVIDE (\n        CALCULATE (\n            SUM ( 'Table'[AOPVol] ),\n            FILTER (\n                ALL ( 'Table' ),\n                'Table'[MONTHNO] = MAX ( 'Table'[MONTHNO] )\n                    && 'Table'[CATEGORY-] <> \"Exports\"\n            )\n        ),\n        CALCULATE (\n            NETWORKDAYS.INTL (\n                STARTOFMONTH ( DATE ( MAX ( 'Table'[vMaxYear] ), MAX ( 'Table'[vMaxMonth] ), 1 ) ),\n                ENDOFMONTH ( DATE ( MAX ( 'Table'[vMaxYear] ), MAX ( 'Table'[vMaxMonth] ), 1 ) ),\n                MAX ( 'Table'[vWorkingDays] )\n           "
+            "Equivalent DAX": "\n\nIF (\n    VALUES ( 'AOP(T)', 'Delivery Orders(T)', 'Variance (Orders vs AOP)', 'Invoiced Volumes(T)', 'Variance (Invoice vs AOP)' ) = 'AOP(T)',\n    DIVIDE (\n        CALCULATE (\n            SUM ( AOPVol ),\n            FILTER (\n                ALL ( MONTHNO ),\n                MONTHNO = vMaxMonth\n                    && CATEGORY <> 'Exports'\n            )\n        ),\n        NETWORKDAYS.INTL (\n            STARTOFMONTH ( MAKEDATE ( vMaxYear, vMaxMonth ) ),\n            ENDOFMONTH ( MAKEDATE ( vMaxYear, vMaxMonth ) ),\n            vWorkingDays\n        )\n    ),\n    IF (\n        VALUES ( 'AOP(T)', 'Delivery Orders(T)', 'Variance (Orders vs AOP)', 'Invoiced Volumes(T)', 'Variance (Invoice vs AOP)' ) = 'Delivery Orders(T)',"
         },
         {
             "Dashboard Name": "Daily Sales Dashboard(1)",
@@ -901,7 +1053,7 @@
             "Measure/Dimension": [
                 "if(num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}>}MonthWeight)+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}>}Weight))/1000,'#\u00c2\u00a0##0') >0,\nnum((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}>}MonthWeight)+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}>}Weight))/1000,'#\u00c2\u00a0##0'))\n\n\n\n//Sum({<TRANS_DATE={$(vMaxDate)}>}Weight)/1000"
             ],
-            "Equivalent DAX": "\n\nFORMAT(SUMX(FILTER(ALL('Table'), 'Table'[TRANS_DATE] <= $(vPrevDate) && 'Table'[WEEK] = $(vMaxWeek)), [MonthWeight]) + SUMX(FILTER(ALL('Table'), 'Table'[TRANS_DATE] >= $(vPrevDate) && 'Table'[WEEK] = $(vMaxWeek)), [Weight])/1000, \"# ##0\")"
+            "Equivalent DAX": "\n\nFORMAT(SUMX(FILTER(ALL('Table'), 'Table'[TRANS_DATE] <= $(vMaxDate)), 'Table'[Weight])/1000, \"# ##0\")"
         },
         {
             "Dashboard Name": "Daily Sales Dashboard(1)",
@@ -981,7 +1133,7 @@
             "Measure/Dimension": [
                 "=num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Fri'}>}MonthWeight)\r\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Fri'}>}Weight))/1000,'#\u00c2\u00a0##0')\n"
             ],
-            "Equivalent DAX": "\n\nFORMAT(DIVIDE(SUMX(FILTER(ALL(TableName), TableName[TRANS_DATE] < MAX(TableName[TRANS_DATE]) && TableName[WEEK] = MAX(TableName[WEEK]) && TableName[WEEKDAY] = \"Fri\"), [MonthWeight] + [Weight]), 1000), \"# ##0\")"
+            "Equivalent DAX": "\n\nFORMAT(DIVIDE(SUMX(FILTER(ALL(TableName), TableName[TRANS_DATE] < MAX(TableName[TRANS_DATE]) && TableName[WEEK] = MAX(TableName[WEEK]) && TableName[WEEKDAY] = \"Fri\"), TableName[MonthWeight] + TableName[Weight]), 1000), \"# ##0\")"
         },
         {
             "Dashboard Name": "Daily Sales Dashboard(1)",
@@ -991,7 +1143,7 @@
             "Measure/Dimension": [
                 "=num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Sat'}>}MonthWeight)\r\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Sat'}>}Weight))/1000,'#\u00c2\u00a0##0')\n"
             ],
-            "Equivalent DAX": "\n\nFORMAT(DIVIDE(SUMX(FILTER(ALL(TableName), TableName[TRANS_DATE] < MAX(TableName[TRANS_DATE]) && TableName[WEEK] = MAX(TableName[WEEK]) && TableName[WEEKDAY] = \"Sat\"), TableName[MonthWeight] + TableName[Weight]), 1000), \"# ##0\")"
+            "Equivalent DAX": "\n\nFORMAT(DIVIDE(SUMX(FILTER(ALL(TableName), TableName[TRANS_DATE] < MAX(TableName[TRANS_DATE]) && TableName[WEEK] = MAX(TableName[WEEK]) && TableName[WEEKDAY] = \"Sat\"), [MonthWeight] + [Weight]), 1000), \"# ##0\")"
         },
         {
             "Dashboard Name": "Daily Sales Dashboard(1)",
@@ -1001,7 +1153,7 @@
             "Measure/Dimension": [
                 "=num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Sun'}>}MonthWeight)\r\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Sun'}>}Weight))/1000,'#\u00c2\u00a0##0')\n"
             ],
-            "Equivalent DAX": "\n\nFORMAT(SUMX(FILTER(ALL(Table1), Table1[TRANS_DATE] < MAX(Table1[TRANS_DATE]) && Table1[WEEK] = MAX(Table1[WEEK]) && Table1[WEEKDAY] = \"Sun\"), Table1[MonthWeight] + Table1[Weight])/1000, \"# ##0\")"
+            "Equivalent DAX": "\n\nFORMAT(DIVIDE(SUMX(FILTER(ALL(TableName), TableName[TRANS_DATE] < MAX(TableName[TRANS_DATE]) && TableName[WEEK] = MAX(TableName[WEEK]) && TableName[WEEKDAY] = \"Sun\"), TableName[MonthWeight] + TableName[Weight]), 1000), \"# ##0\")"
         },
         {
             "Dashboard Name": "Daily Sales Dashboard(1)",
@@ -1011,7 +1163,7 @@
             "Measure/Dimension": [
                 "=\r\n(sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Mon'}>}MonthWeight)\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Mon'}>}Weight))/\n(\n((sum({<MONTHNO={$(vMaxMonth)}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays))))\n)"
             ],
-            "Equivalent DAX": "\n\n=(SUMX(FILTER(ALL(TableName), TableName[TRANS_DATE] < MAX(TableName[TRANS_DATE]) && TableName[WEEK] = MAX(TableName[WEEK]) && TableName[WEEKDAY] = \"Mon\"), TableName[MonthWeight]) + SUMX(FILTER(ALL(TableName), TableName[TRANS_DATE] >= MAX(TableName[TRANS_DATE]) && TableName[WEEK] = MAX(TableName[WEEK]) && TableName[WEEKDAY] = \"Mon\"), TableName[Weight])) \n/ \n(DIVIDE(SUMX(FILTER(ALL(TableName), TableName[MONTHNO] = MAX(TableName[MONTHNO])), TableName[AOPVol]), \nNETWORKDAYS.INTL(DATE(YEAR(MAX(TableName[TRANS_DATE])), MONTH(MAX(TableName[TRANS_DATE])), 1), \nDATE(YEAR(MAX(TableName[TRANS_DATE])), MONTH"
+            "Equivalent DAX": "\n\n=(SUMX(FILTER(ALL(TableName), TableName[TRANS_DATE] < vPrevDate && TableName[WEEK] = vMaxWeek && TableName[WEEKDAY] = \"Mon\"),TableName[MonthWeight]) \n+ SUMX(FILTER(ALL(TableName), TableName[TRANS_DATE] >= vPrevDate && TableName[WEEK] = vMaxWeek && TableName[WEEKDAY] = \"Mon\"),TableName[Weight])) \n/ (SUMX(FILTER(ALL(TableName), TableName[MONTHNO] = vMaxMonth),TableName[AOPVol])\n/ NETWORKDAYS.INTL(DATE(vMaxYear,vMaxMonth,1),EOMONTH(DATE(vMaxYear,vMaxMonth,1),0),vWorkingDays))"
         },
         {
             "Dashboard Name": "Daily Sales Dashboard(1)",
@@ -1141,7 +1293,7 @@
             "Measure/Dimension": [
                 "num(Sum({<AgeBucket = {'Greater than 5 Days'}, ROUTE_LOCATION={'HEILBRON'}, CATEGORY-={'Wholesale'}>}[KG's])/1000,'#\u00c2\u00a0##0') & ' T'"
             ],
-            "Equivalent DAX": "\n\nFORMAT(DIVIDE(SUMX(FILTER(ALL('Table'), 'Table'[AgeBucket] = \"Greater than 5 Days\", 'Table'[ROUTE_LOCATION] = \"HEILBRON\", NOT('Table'[CATEGORY] = \"Wholesale\")), 'Table'[KG's]), 1000), \"# ##0 T\")"
+            "Equivalent DAX": "\n\nFORMAT(DIVIDE(SUMX(FILTER(ALL('Table'), 'Table'[AgeBucket] = \"Greater than 5 Days\", 'Table'[ROUTE_LOCATION] = \"HEILBRON\", NOT('Table'[CATEGORY] = \"Wholesale\")), [KG's]), 1000), \"# ##0\") & \" T\""
         },
         {
             "Dashboard Name": "Daily Sales Dashboard(1)",
@@ -1151,7 +1303,7 @@
             "Measure/Dimension": [
                 "=num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Mon'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>}MonthWeight)\r\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Mon'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>}Weight))/1000,'#\u00c2\u00a0##0')\n"
             ],
-            "Equivalent DAX": "\n\n=FORMAT(DIVIDE(SUMX(FILTER(ALL('Table'), 'Table'[TRANS_DATE] < $(vPrevDate) && 'Table'[WEEK] = $(vMaxWeek) && 'Table'[WEEKDAY] = \"Mon\" && 'Table'[CATEGORY] <> \"Exports\" && 'Table'[ITEM_PACKSIZE_GROUP] <> \"BALERS\"), 'Table'[MonthWeight]) + SUMX(FILTER(ALL('Table'), 'Table'[TRANS_DATE] >= $(vPrevDate) && 'Table'[WEEK] = $(vMaxWeek) && 'Table'[WEEKDAY] = \"Mon\" && 'Table'[CATEGORY] <> \"Exports\" && 'Table'[ITEM_PACKSIZE_GROUP] <> \"BALERS\"), 'Table'[Weight]), 1000), \"# ##0\")"
+            "Equivalent DAX": "\n\n=FORMAT(SUMX(FILTER(ALL(TableName), 'TableName'[TRANS_DATE] < $(vPrevDate) && 'TableName'[WEEK] = $(vMaxWeek) && 'TableName'[WEEKDAY] = \"Mon\" && 'TableName'[CATEGORY] <> \"Exports\" && 'TableName'[ITEM_PACKSIZE_GROUP] <> \"BALERS\"), 'TableName'[MonthWeight]) + SUMX(FILTER(ALL(TableName), 'TableName'[TRANS_DATE] >= $(vPrevDate) && 'TableName'[WEEK] = $(vMaxWeek) && 'TableName'[WEEKDAY] = \"Mon\" && 'TableName'[CATEGORY] <> \"Exports\" && 'TableName'[ITEM_PACKSIZE_GROUP] <> \"BALERS\"), 'TableName'[Weight])/1000, \"# ##0\")"
         },
         {
             "Dashboard Name": "Daily Sales Dashboard(1)",
@@ -1191,7 +1343,7 @@
             "Measure/Dimension": [
                 "=num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Fri'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>}MonthWeight)\r\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Fri'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>}Weight))/1000,'#\u00c2\u00a0##0')\n"
             ],
-            "Equivalent DAX": "\n\n=FORMAT(SUMX(FILTER(ALL(TableName), 'TableName'[TRANS_DATE] < $(vPrevDate) && 'TableName'[WEEK] = $(vMaxWeek) && 'TableName'[WEEKDAY] = \"Fri\" && 'TableName'[CATEGORY] <> \"Exports\" && 'TableName'[ITEM_PACKSIZE_GROUP] <> \"BALERS\"), 'TableName'[MonthWeight] + 'TableName'[Weight]) / 1000, \"# ##0\")"
+            "Equivalent DAX": "\n\n=FORMAT(DIVIDE(SUMX(FILTER(ALL('Table'), 'Table'[TRANS_DATE] < $(vPrevDate) && 'Table'[WEEK] = $(vMaxWeek) && 'Table'[WEEKDAY] = \"Fri\" && 'Table'[CATEGORY] <> \"Exports\" && 'Table'[ITEM_PACKSIZE_GROUP] <> \"BALERS\"), [MonthWeight] + SUMX(FILTER(ALL('Table'), 'Table'[TRANS_DATE] >= $(vPrevDate) && 'Table'[WEEK] = $(vMaxWeek) && 'Table'[WEEKDAY] = \"Fri\" && 'Table'[CATEGORY] <> \"Exports\" && 'Table'[ITEM_PACKSIZE_GROUP] <> \"BALERS\"), [Weight])), \"# ##0\")"
         },
         {
             "Dashboard Name": "Daily Sales Dashboard(1)",
@@ -1231,7 +1383,7 @@
             "Measure/Dimension": [
                 "=\r\n(sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Tue'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>}MonthWeight)\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Tue'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>}Weight))/\n(\n((sum({<MONTHNO={$(vMaxMonth)}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP-={'BALERS'}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays))))\n)"
             ],
-            "Equivalent DAX": "\n\nSUMX(\n    FILTER(\n        ALL(TRANS_DATE),\n        TRANS_DATE < DATE(vMaxYear, vMaxMonth, 1),\n        WEEK = vMaxWeek,\n        WEEKDAY = \"Tue\",\n        CATEGORY <> \"Exports\",\n        ITEM_PACKSIZE_GROUP <> \"BALERS\"\n    ),\n    [MonthWeight]\n) +\nSUMX(\n    FILTER(\n        ALL(TRANS_DATE),\n        TRANS_DATE >= DATE(vMaxYear, vMaxMonth, 1),\n        WEEK = vMaxWeek,\n        WEEKDAY = \"Tue\",\n        CATEGORY <> \"Exports\",\n        ITEM_PACKSIZE_GROUP <> \"BALERS\"\n    ),\n    [Weight]\n) /\n(\nSUMX(\n    FILTER(\n        ALL(MONTHNO),\n        MONTHNO = vMaxMonth,\n        CATEGORY <> \"Exports\",\n        ITEM_PACKSIZE_GROUP <> \"B"
+            "Equivalent DAX": "\n\nSUMX (\n    FILTER (\n        ALL ( 'Date'[Date] ),\n        'Date'[Date] < DATE ( YEAR ( vMaxYear ), MONTH ( vMaxMonth ), 1 )\n            || ( 'Date'[Date] >= DATE ( YEAR ( vMaxYear ), MONTH ( vMaxMonth ), 1 )\n                && 'Date'[Week] = vMaxWeek\n                && 'Date'[Weekday] = \"Tue\"\n                && 'Trans'[CATEGORY] <> \"Exports\"\n                && 'Trans'[ITEM_PACKSIZE_GROUP] <> \"BALERS\" )\n    ),\n    [MonthWeight] + [Weight]\n)\n/\nDIVIDE (\n    SUMX (\n        FILTER (\n            ALL ( 'Date' ),\n            'Date'[MonthNo] = vMaxMonth\n                && 'Trans'[CATEGORY] <> \"Exports\"\n                && 'Trans'[ITEM_PACKSIZE_GROUP] <> \"BALERS\"\n        ),\n        [AOPVol]"
         },
         {
             "Dashboard Name": "Daily Sales Dashboard(1)",
@@ -1271,7 +1423,7 @@
             "Measure/Dimension": [
                 "=num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Mon'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}MonthWeight)\r\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Mon'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}Weight))/1000,'#\u00c2\u00a0##0')\n"
             ],
-            "Equivalent DAX": "\n\n= FORMAT ( ( \n    SUMX ( \n        FILTER ( \n            ALL ( 'Transactions' );\n            'Transactions'[TRANS_DATE] < MAX ( 'Calendar'[Date] );\n            'Transactions'[WEEK] = MAX ( 'Calendar'[Week] );\n            'Transactions'[WEEKDAY] = \"Mon\";\n            'Transactions'[CATEGORY] <> \"Exports\";\n            'Transactions'[ITEM_PACKSIZE_GROUP] = \"BALERS\"\n        );\n        'Transactions'[MonthWeight] \n    ) \n    +\n    SUMX ( \n        FILTER ( \n            ALL ( 'Transactions' );\n            'Transactions'[TRANS_DATE] >= MAX ( 'Calendar'[Date] );\n            'Transactions'[WEEK] = MAX ( 'Calendar'[Week] );\n            'Transactions'[WEEKDAY] = \"Mon\";\n            'Transactions'[CATEGORY] <> \"Exports\";\n"
+            "Equivalent DAX": "\n\n= FORMAT (DIVIDE ( SUMX ( FILTER ( ALL ( 'Transactions' ), 'Transactions'[TRANS_DATE] < $(vPrevDate), 'Transactions'[WEEK] = $(vMaxWeek), 'Transactions'[WEEKDAY] = \"Mon\", 'Transactions'[CATEGORY] <> \"Exports\", 'Transactions'[ITEM_PACKSIZE_GROUP] = \"BALERS\" ), [MonthWeight] ) + SUMX ( FILTER ( ALL ( 'Transactions' ), 'Transactions'[TRANS_DATE] >= $(vPrevDate), 'Transactions'[WEEK] = $(vMaxWeek), 'Transactions'[WEEKDAY] = \"Mon\", 'Transactions'[CATEGORY] <> \"Exports\", 'Transactions'[ITEM_PACKSIZE_GROUP] = \"BALERS\" ), [Weight] ), 0, \"# ##0\" )"
         },
         {
             "Dashboard Name": "Daily Sales Dashboard(1)",
@@ -1281,7 +1433,7 @@
             "Measure/Dimension": [
                 "=num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Tue'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}MonthWeight)\r\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Tue'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}Weight))/1000,'#\u00c2\u00a0##0')\n"
             ],
-            "Equivalent DAX": "\n\n= FORMAT (DIVIDE ( SUMX ( FILTER ( ALL ( 'Transactions' ), 'Transactions'[TRANS_DATE] < vPrevDate && 'Transactions'[WEEK] = vMaxWeek && 'Transactions'[WEEKDAY] = \"Tue\" && 'Transactions'[CATEGORY] <> \"Exports\" && 'Transactions'[ITEM_PACKSIZE_GROUP] = \"BALERS\" ), 'Transactions'[MonthWeight] ) + SUMX ( FILTER ( ALL ( 'Transactions' ), 'Transactions'[TRANS_DATE] >= vPrevDate && 'Transactions'[WEEK] = vMaxWeek && 'Transactions'[WEEKDAY] = \"Tue\" && 'Transactions'[CATEGORY] <> \"Exports\" && 'Transactions'[ITEM_PACKSIZE_GROUP] = \"BALERS\" ), 'Transactions'[Weight] ), 1000 ), \"# ##0\" )"
+            "Equivalent DAX": "\n\n= FORMAT (DIVIDE ( SUMX ( FILTER ( ALL ( 'Transactions' ), 'Transactions'[TRANS_DATE] < vPrevDate && 'Transactions'[WEEK] = vMaxWeek && 'Transactions'[WEEKDAY] = \"Tue\" && 'Transactions'[CATEGORY] <> \"Exports\" && 'Transactions'[ITEM_PACKSIZE_GROUP] = \"BALERS\" ), [MonthWeight] ) + SUMX ( FILTER ( ALL ( 'Transactions' ), 'Transactions'[TRANS_DATE] >= vPrevDate && 'Transactions'[WEEK] = vMaxWeek && 'Transactions'[WEEKDAY] = \"Tue\" && 'Transactions'[CATEGORY] <> \"Exports\" && 'Transactions'[ITEM_PACKSIZE_GROUP] = \"BALERS\" ), [Weight] ), 0 ), \"# ##0\" )"
         },
         {
             "Dashboard Name": "Daily Sales Dashboard(1)",
@@ -1291,7 +1443,7 @@
             "Measure/Dimension": [
                 "=num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Wed'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}MonthWeight)\r\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Wed'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}Weight))/1000,'#\u00c2\u00a0##0')\n"
             ],
-            "Equivalent DAX": "\n\n= FORMAT (DIVIDE ( SUMX ( FILTER ( ALL ( 'Transactions' ), 'Transactions'[TRANS_DATE] < vPrevDate && 'Transactions'[WEEK] = vMaxWeek && 'Transactions'[WEEKDAY] = \"Wed\" && 'Transactions'[CATEGORY] <> \"Exports\" && 'Transactions'[ITEM_PACKSIZE_GROUP] = \"BALERS\" ), [MonthWeight] ) + SUMX ( FILTER ( ALL ( 'Transactions' ), 'Transactions'[TRANS_DATE] >= vPrevDate && 'Transactions'[WEEK] = vMaxWeek && 'Transactions'[WEEKDAY] = \"Wed\" && 'Transactions'[CATEGORY] <> \"Exports\" && 'Transactions'[ITEM_PACKSIZE_GROUP] = \"BALERS\" ), [Weight] ), 0, \"# ##0\" )"
+            "Equivalent DAX": "\n\n= FORMAT (DIVIDE ( SUMX ( FILTER ( ALL ( 'Transactions' ), 'Transactions'[TRANS_DATE] < $(vPrevDate), 'Transactions'[WEEK] = $(vMaxWeek), 'Transactions'[WEEKDAY] = \"Wed\", 'Transactions'[CATEGORY] <> \"Exports\", 'Transactions'[ITEM_PACKSIZE_GROUP] = \"BALERS\" ), [MonthWeight] ) + SUMX ( FILTER ( ALL ( 'Transactions' ), 'Transactions'[TRANS_DATE] >= $(vPrevDate), 'Transactions'[WEEK] = $(vMaxWeek), 'Transactions'[WEEKDAY] = \"Wed\", 'Transactions'[CATEGORY] <> \"Exports\", 'Transactions'[ITEM_PACKSIZE_GROUP] = \"BALERS\" ), [Weight] ), 0, \"# ##0\" )"
         },
         {
             "Dashboard Name": "Daily Sales Dashboard(1)",
@@ -1301,7 +1453,7 @@
             "Measure/Dimension": [
                 "=num((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Thu'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}MonthWeight)\r\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Thu'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}Weight))/1000,'#\u00c2\u00a0##0')\n"
             ],
-            "Equivalent DAX": "\n\n= FORMAT (DIVIDE ( SUMX ( FILTER ( ALL ( 'Transactions' ), 'Transactions'[TRANS_DATE] < $(vPrevDate), 'Transactions'[WEEK] = $(vMaxWeek), 'Transactions'[WEEKDAY] = \"Thu\", 'Transactions'[CATEGORY] <> \"Exports\", 'Transactions'[ITEM_PACKSIZE_GROUP] = \"BALERS\" ), [MonthWeight] ) + SUMX ( FILTER ( ALL ( 'Transactions' ), 'Transactions'[TRANS_DATE] >= $(vPrevDate), 'Transactions'[WEEK] = $(vMaxWeek), 'Transactions'[WEEKDAY] = \"Thu\", 'Transactions'[CATEGORY] <> \"Exports\", 'Transactions'[ITEM_PACKSIZE_GROUP] = \"BALERS\" ), [Weight] ), 0, \"# ##0\" )"
+            "Equivalent DAX": "\n\n= FORMAT (DIVIDE ( SUMX ( FILTER ( ALL ( 'Transactions' ), 'Transactions'[TRANS_DATE] < $(vPrevDate), 'Transactions'[WEEK] = $(vMaxWeek), 'Transactions'[WEEKDAY] = \"Thu\", 'Transactions'[CATEGORY] <> \"Exports\", 'Transactions'[ITEM_PACKSIZE_GROUP] = \"BALERS\" ), [MonthWeight] ) + SUMX ( FILTER ( ALL ( 'Transactions' ), 'Transactions'[TRANS_DATE] >= $(vPrevDate), 'Transactions'[WEEK] = $(vMaxWeek), 'Transactions'[WEEKDAY] = \"Thu\", 'Transactions'[CATEGORY] <> \"Exports\", 'Transactions'[ITEM_PACKSIZE_GROUP] = \"BALERS\" ), [Weight] ), 0 ), \"# ##0\" )"
         },
         {
             "Dashboard Name": "Daily Sales Dashboard(1)",
@@ -1361,7 +1513,7 @@
             "Measure/Dimension": [
                 "=\r\n(sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Wed'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}MonthWeight)\n+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}, WEEKDAY = {'Wed'}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>}Weight))/\n(\n((sum({<MONTHNO={$(vMaxMonth)}, CATEGORY-={'Exports'}, ITEM_PACKSIZE_GROUP={'BALERS'}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays))))\n)"
             ],
-            "Equivalent DAX": "\n\nDIVIDE(\n    ADD(\n        SUMX(\n            FILTER(\n                ALL('Transactions'),\n                'Transactions'[TRANS_DATE] < DATE(vMaxYear, vMaxMonth, 1)\n                && 'Transactions'[WEEK] = vMaxWeek\n                && 'Transactions'[WEEKDAY] = \"Wed\"\n                && 'Transactions'[CATEGORY] <> \"Exports\"\n                && 'Transactions'[ITEM_PACKSIZE_GROUP] = \"BALERS\"\n            ),\n            'Transactions'[MonthWeight]\n        ),\n        SUMX(\n            FILTER(\n                ALL('Transactions'),\n                'Transactions'[TRANS_DATE] >= DATE(vMaxYear, vMaxMonth, 1)\n                && 'Transactions'[WEEK] = vMaxWeek\n                && 'Transactions'[WEEKDAY] = \"Wed\"\n                && 'Transactions'[CATEGORY] <> \"Exports\"\n                && 'Transactions'[ITEM_PACKSIZE"
+            "Equivalent DAX": "\n\nDIVIDE(\n    ADD(\n        SUMX(\n            FILTER(\n                ALL('Transactions'),\n                'Transactions'[TRANS_DATE] < DATE(vMaxYear, vMaxMonth, 1)\n                && 'Transactions'[WEEK] = vMaxWeek\n                && 'Transactions'[WEEKDAY] = \"Wed\"\n                && 'Transactions'[CATEGORY-] <> \"Exports\"\n                && 'Transactions'[ITEM_PACKSIZE_GROUP] = \"BALERS\"\n            ),\n            'Transactions'[MonthWeight]\n        ),\n        SUMX(\n            FILTER(\n                ALL('Transactions'),\n                'Transactions'[TRANS_DATE] >= DATE(vMaxYear, vMaxMonth, 1)\n                && 'Transactions'[WEEK] = vMaxWeek\n                && 'Transactions'[WEEKDAY] = \"Wed\"\n                && 'Transactions'[CATEGORY-] <> \"Exports\"\n                && 'Transactions'[ITEM_P"
         },
         {
             "Dashboard Name": "Daily Sales Dashboard(1)",
@@ -1401,7 +1553,7 @@
             "Measure/Dimension": [
                 "Num((\r\n((sum({<MONTHNO={$(vMaxMonth)}>} AOPVol)/\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),MonthEnd(Makedate(vMaxYear,vMaxMonth)),$(vWorkingDays)))*\nNetWorkDays(monthstart(Makedate(vMaxYear,vMaxMonth)),Makedate(vMaxYear,vMaxMonth,Day(Today())),$(vWorkingDays))\n))/1000,'#\u00c2\u00a0##0')\n"
             ],
-            "Equivalent DAX": "\n\nFORMAT(DIVIDE(DIVIDE(SUMX(FILTER(ALL('Date'), 'Date'[MonthNo] = MAX('Date'[MonthNo])), [AOPVol]), DATEDIFF(EOMONTH(MAX('Date'[Date]), 0), EOMONTH(MAX('Date'[Date]), -1), WEEKDAY)), 1000), \"#,##0\")"
+            "Equivalent DAX": "\n\nFORMAT(DIVIDE(DIVIDE(SUMX(FILTER(ALL('Date'), 'Date'[MonthNo] = MAX('Date'[MonthNo])), [AOPVol]), NETWORKDAYS.INTL(STARTOFMONTH('Date'[Date]), ENDOFMONTH('Date'[Date]), $(vWorkingDays)) * NETWORKDAYS.INTL(STARTOFMONTH('Date'[Date]), TODAY(), $(vWorkingDays))), 1000), \"#,##0\")"
         },
         {
             "Dashboard Name": "Daily Sales Dashboard(1)",
@@ -1441,7 +1593,7 @@
             "Measure/Dimension": [
                 "=((sum({<TRANS_DATE={\"<$(vPrevDate)\"}, WEEK={$(vMaxWeek)}>}MonthWeight)+ sum({<TRANS_DATE={\">=$(vPrevDate)\"}, WEEK={$(vMaxWeek)}>}Weight))\r\n///1000\n)/\n(\n((sum({<WEEK={$(vMaxWeek)}>} AOPVol)/\nNetWorkDays(WeekStart(Makedate(vMaxYear,vMaxMonth, Day(Today()))),WeekEnd(Makedate(vMaxYear,vMaxMonth, Day(Today()))),$(vWorkingDays)))*\nNetWorkDays(Weekstart(Makedate(vMaxYear,vMaxMonth, Day(Today()))),Makedate(vMaxYear,vMaxMonth,Day(Today())),$(vWorkingDays))\n))\n//avg({<Dimension={'Week'}>}LastEstimate)\n//sum({<WEEK={$(vMaxWeek)}>}AOPVol)"
             ],
-            "Equivalent DAX": "\n\nAVERAGE (\n    SUMX (\n        FILTER (\n            ALL ( 'Date' ),\n            'Date'[Date] < DATE ( YEAR ( TODAY () ), MONTH ( TODAY () ), DAY ( TODAY () ) )\n                && 'Date'[Week] = MAX ( 'Date'[Week] )\n        ),\n        'Date'[MonthWeight] + 'Date'[Weight]\n    ) / 1000,\n    DIVIDE (\n        SUM ( 'Date'[AOPVol] ) * NETWORKDAYS (\n            DATE ( YEAR ( TODAY () ), MONTH ( TODAY () ), DAY ( TODAY () ) ),\n            DATE ( YEAR ( TODAY () ), MONTH ( TODAY () ), DAY ( TODAY () ) ),\n            [vWorkingDays]\n        ),\n        NETWORKDAYS (\n            STARTOFWEEK ( DATE ( YEAR ( TODAY () ), MONTH ( TODAY () ), DAY ( TODAY () ) ) ),\n            DATE ( YEAR ( TODAY () ), MONTH ( TODAY () ), DAY ( TODAY () ) ),\n            [vWorkingDays]\n        )\n    )\n)"
+            "Equivalent DAX": "\n\nAVERAGE (\n    SUMX (\n        FILTER (\n            ALL ( 'Date' ),\n            'Date'[Date] < DATE ( YEAR ( TODAY () ), MONTH ( TODAY () ), DAY ( TODAY () ) )\n                && 'Date'[Week] = MAX ( 'Date'[Week] )\n        ),\n        'Date'[MonthWeight] + 'Date'[Weight]\n    ) / 1000,\n    DIVIDE (\n        SUM ( 'Date'[AOPVol] )\n            * CALCULATE (\n                DATEDIFF (\n                    STARTOFWEEK ( DATE ( YEAR ( TODAY () ), MONTH ( TODAY () ), DAY ( TODAY () ) ) ),\n                    DATE ( YEAR ( TODAY () ), MONTH ( TODAY () ), DAY ( TODAY () ) ),\n                    WEEKDAY ( [WorkingDays] )\n                ),\n                FILTER ( ALL ( 'Date' ), 'Date'[Week] = MAX ( 'Date'[Week] ) )\n            ),\n        CALCULATE (\n            DATEDIFF (\n                STARTOFWEEK ( DATE ( YEAR ( TODAY"
         },
         {
             "Dashboard Name": "Daily Sales Dashboard(1)",
@@ -1501,7 +1653,7 @@
             "Measure/Dimension": [
                 "sum({<WEEK={$(=Week(Today()))}, CWO_Status={'Active'}>}[CWO - QTY_ORDER])"
             ],
-            "Equivalent DAX": "\n\nSUMX(FILTER(ALLSELECTED('Table'), [CWO - Status] = \"Active\" && WEEK('Table'[CWO - Date]) = WEEK(TODAY())), [CWO - QTY_ORDER])"
+            "Equivalent DAX": "\n\nSUMX (\n    FILTER (\n        ALL ( 'CWO_Status' ),\n        'CWO_Status'[CWO_Status] = \"Active\"\n    ),\n    CALCULATE (\n        SUM ( 'CWO_Status'[CWO - QTY_ORDER] ),\n        FILTER (\n            ALL ( 'Calendar' ),\n            'Calendar'[Week] = WEEKNUM ( TODAY () )\n        )\n    )\n)"
         },
         {
             "Dashboard Name": "Daily Sales Dashboard(1)",
@@ -1541,7 +1693,7 @@
             "Measure/Dimension": [
                 "column(3)/\r\nsum(total {<WEEK={$(=Week(Today()))}, CWO_Status={'Active'}>}[CWO - QTY_ORDER])"
             ],
-            "Equivalent DAX": "\n\nDIVIDE(VALUE(3), SUMX(FILTER(ALLSELECTED('CWO'), 'CWO'[WEEK] = WEEK(TODAY()), 'CWO'[CWO_Status] = \"Active\"), 'CWO'[CWO - QTY_ORDER]))"
+            "Equivalent DAX": "\n\nDIVIDE(VALUE(3), SUMX(FILTER(ALLSELECTED('CWO'), 'CWO'[WEEK] = FORMAT(TODAY(), \"WW\"), 'CWO'[CWO_Status] = \"Active\"), 'CWO'[CWO - QTY_ORDER]))"
         },
         {
             "Dashboard Name": "Daily Sales Dashboard(1)",
