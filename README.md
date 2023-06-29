@@ -59,6 +59,10 @@ Data Source Query
 
 ![image](https://github.com/akash-rajak/Qlik-Extractor/assets/57003737/28f36354-7755-4766-995a-0dad00703c82)
 
+![image](https://github.com/akash-rajak/Qlik-Extractor/assets/57003737/61aa85d0-ec9d-4c9b-b6d6-b8190940e4a1)
+
+![image](https://github.com/akash-rajak/Qlik-Extractor/assets/57003737/ecf70e90-644b-479e-b319-94d7e91ae357)
+
 ****
 
 ### IMP Notes/References:
