@@ -69,7 +69,7 @@ namespace demo1
             // extracting the metadata for the specific qlik crereport
             string pythonScriptPath1 = @"C:\Users\MAQ\OneDrive - MAQ Software\Documents\Akash Rajak\Megha Team Assignment\4 - Migration Automation CIP\work\Qlik Extractor\Qlik_Extractor.py";
             string functioname1 = "main";
-            string app_input = "Daily Sales Dashboard(1)";
+            string app_input = "Test Ap";
             string parameters1 = String.Format("\"{0}\" | \"{1}\" | \"{2}\"", pythonScriptPath1, functioname1, app_input);
 
             ProcessStartInfo startInfo1 = new ProcessStartInfo

@@ -67,8 +67,10 @@ def main(app_input):
 
     ## defined dictionary to store the data for each sheets
     data = {"dashBoard": [], "dataSource": [], "tableColumn": [], "sheets": [], "measuresDimension": [], "dataSourceQuery" : []}
+    present = False
     for app in apps:
         if(app["NAME"] == app_input):
+            present = True
             app_id = app["ID"]
             app_name = app["NAME"]
             print("\nApp id :", app_id)
@@ -362,6 +364,11 @@ def main(app_input):
             process_sheets(sheets1, data["sheets"], app_name)
             # process_sheets(sheets2, data["data2"], app_name)
             process_sheets(sheets3, data["measuresDimension"], app_name)
+
+
+    if(present == False):
+        print("Report Does Not Exist.")
+        exit()
 
     # Convert the data to a pandas dataframe
     dashBoard_frame = pd.DataFrame(data["dashBoard"])

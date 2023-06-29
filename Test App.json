@@ -5,16 +5,7 @@
             "Dashboard Name": "Test App"
         }
     ],
-    "dataSource": [
-        {
-            "Dashboard Name": "Test App",
-            "Connection Name": "DataFiles",
-            "Connection ID": "NA",
-            "Data Source": "NA",
-            "Data Source Type": "NA",
-            "Table Name": "Literacy"
-        }
-    ],
+    "dataSource": [],
     "tableColumn": [
         {
             "Dashboard Name": "Test App",
@@ -143,8 +134,8 @@
     "dataSourceQuery": [
         {
             "Dashboard Name": "Test App",
-            "Table Name": "[LiteracyRate]:",
-            "Source Query": "LOAD\n\t[State Code],\n\t[State Name],\n\t[District Code],\n\t[Name of Urban Agglomeration/City],\n\t[Level],\n\t[Population],\n\t[Population(Male)],\n\t[Population(Female)],\n\t[0-6 Population],\n\t[Literates],\n\t[Literates(Male)],\n\t[Literates(Female)],\n\t[Sex Ratio],\n\t[Child Sex Ratio (0-6 Years],\n\t[Effective Literacy Rate (7+ Pop)],\n\t[Literacy Rate(Male)],\n\t[Literacy Rate (Female)]\n FROM [lib://DataFiles/Literacy.xlsx]\n(ooxml, embedded labels, table is LiteracyRate);\n"
+            "Table Name": "NA",
+            "Source Query": "NA"
         }
     ]
 }
