@@ -1,6 +1,36 @@
 # ✔ Qlik Extractor
 - A python tool to extract the metadata from the Qlik Reports.
 
+<p align = "center">
+	<img src = "https://img.shields.io/github/stars/akash-rajak/Qlik-Extractor?style=social", alt = "GitHub Repo stars">
+	<img src = "https://img.shields.io/github/forks/akash-rajak/Qlik-Extractor?style=social", alt = "GitHub Repo forks">
+	<img src = "https://img.shields.io/github/watchers/akash-rajak/Qlik-Extractor?style=social", alt = "GitHub Repo watchers">
+	<img src = "https://img.shields.io/github/contributors/akash-rajak/Qlik-Extractor?style=social", alt = "GitHub contributors">
+</p>
+<p align = "center">
+	<img src = "https://img.shields.io/github/languages/count/akash-rajak/Qlik-Extractor?style=social", alt = "GitHub language count">
+	<img src = "https://img.shields.io/github/languages/top/akash-rajak/Qlik-Extractor?style=social", alt = "GitHub top language">
+	<img src = "https://img.shields.io/github/directory-file-count/akash-rajak/Qlik-Extractor?style=social", alt = "GitHub repo file count">
+	<img src = "https://img.shields.io/github/repo-size/akash-rajak/Qlik-Extractor?style=social", alt = "GitHub repo size">
+</p>
+<p align = "center">
+	<img src = "https://img.shields.io/github/issues/akash-rajak/Qlik-Extractor", alt = "GitHub issues">
+	<img src = "https://img.shields.io/github/issues-closed/akash-rajak/Qlik-Extractor", alt = "GitHub closed issues">
+	<img src = "https://img.shields.io/github/issues-pr/akash-rajak/Qlik-Extractor", alt = "GitHub pull requests">
+	<img src = "https://img.shields.io/github/issues-pr-closed/akash-rajak/Qlik-Extractor", alt = "GitHub closed pull requests">
+</p>
+<p align = "center">
+	<img src = "https://img.shields.io/github/commit-activity/t/akash-rajak/Qlik-Extractor", alt = "GitHub commit activity">
+	<img src = "https://img.shields.io/github/commit-activity/y/akash-rajak/Qlik-Extractor", alt = "GitHub commit activity/year">
+	<img src = "https://img.shields.io/github/commit-activity/m/akash-rajak/Qlik-Extractor", alt = "GitHub commit activity/month">
+	<img src = "https://img.shields.io/github/commit-activity/w/akash-rajak/Qlik-Extractor", alt = "GitHub commit activity/week">
+	<img src = "https://img.shields.io/github/last-commit/akash-rajak/Qlik-Extractor", alt = "GitHub last commit">
+	<img src = "https://img.shields.io/github/discussions/akash-rajak/Qlik-Extractor", alt = "GitHub Discussions">
+</p>
+<p align = "center">
+	<img src = "https://img.shields.io/github/license/akash-rajak/Qlik-Extractor", alt = "Github">
+</p>
+
 ****
 
 ### How the tool works:
@@ -66,4 +96,21 @@ Data Source Query
 ****
 
 ### IMP Notes/References:
-- 
+
+****
+
+### 🌟Stargazers Over Time:
+[![Stargazers repo roster for @akash-rajak/Qlik-Extractor](https://reporoster.com/stars/akash-rajak/Qlik-Extractor)](https://github.com/akash-rajak/Qlik-Extractor/stargazers)
+[![Stargazers over time](https://starchart.cc/akash-rajak/Qlik-Extractor.svg)](https://starchart.cc/akash-rajak/Qlik-Extractor)
+
+****
+
+### 🌟Forkers Over Time:
+[![Forkers repo roster for @akash-rajak/Qlik-Extractor](https://reporoster.com/forks/akash-rajak/Qlik-Extractor)](https://github.com/akash-rajak/Qlik-Extractor/network/members)
+
+****
+
+### 📌Contributors:
+<a href="https://github.com/akash-rajak/Qlik-Extractor/graphs/contributors">
+  <img src="https://contrib.rocks/image?repo=akash-rajak/Qlik-Extractor" />
+</a>
