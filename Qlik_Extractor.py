@@ -434,6 +434,7 @@ def main(app_input):
 
     # Convert the data dictionary to a JSON string
     output_json = json.dumps(data, indent=4)
+    print(output_json)
 
     print("JSON Directory :", os.getcwd())
     # Save the JSON string to a file
